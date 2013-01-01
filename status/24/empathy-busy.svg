@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path id="path4697" inkscape:connector-curvature="0" opacity="0.3" fill="#FFFFFF" enable-background="new    " d="M17,16.334
+	C17,17.254,16.255,18,15.333,18H8.667C7.745,18,7,17.254,7,16.334V9.667C7,8.746,7.745,8,8.667,8h6.666C16.255,8,17,8.746,17,9.667
+	V16.334z"/>
+<linearGradient id="path4699_1_" gradientUnits="userSpaceOnUse" x1="1237" y1="-1001.4995" x2="1237" y2="-991.5" gradientTransform="matrix(1 0 0 -1 -1225 -984.5)">
+	<stop  offset="0" style="stop-color:#E13F2B"/>
+	<stop  offset="1" style="stop-color:#F47F78"/>
+</linearGradient>
+<path id="path4699" inkscape:connector-curvature="0" fill="url(#path4699_1_)" d="M17,15.334C17,16.254,16.255,17,15.333,17H8.667
+	C7.745,17,7,16.254,7,15.334V8.667C7,7.746,7.745,7,8.667,7h6.666C16.255,7,17,7.746,17,8.667V15.334z"/>
+<radialGradient id="path4701_1_" cx="1237" cy="-991.5" r="7" gradientTransform="matrix(1 0 0 -1 -1225 -984.5)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<path id="path4701" inkscape:connector-curvature="0" fill="url(#path4701_1_)" d="M8.656,7C7.734,7,7,7.734,7,8.656v3.219
+	C8.271,13.178,10.036,14,12,14c1.965,0,3.729-0.822,5-2.125V8.656C17,7.734,16.266,7,15.344,7H8.656z"/>
+</svg>
