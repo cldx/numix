@@ -14,7 +14,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="gtk-info.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
@@ -350,14 +350,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.860351"
-     inkscape:cx="12.822515"
-     inkscape:cy="12.87767"
+     inkscape:zoom="16.164709"
+     inkscape:cx="19.098063"
+     inkscape:cy="3.018239"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -437,7 +437,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -454,12 +454,18 @@
        sodipodi:cy="25.380102"
        sodipodi:rx="18.288427"
        sodipodi:ry="18.288427"
-       d="m 43.314697,25.380102 a 18.288427,18.288427 0 1 1 -36.5768544,0 18.288427,18.288427 0 1 1 36.5768544,0 z"
+       d="m 43.314697,25.380102 c 0,10.10042 -8.188008,18.288428 -18.288427,18.288428 -10.10042,0 -18.2884274,-8.188008 -18.2884274,-18.288428 0,-10.100419 8.1880074,-18.2884272 18.2884274,-18.2884272 10.100419,0 18.288427,8.1880082 18.288427,18.2884272 z"
        transform="matrix(0.49340636,0,0,0.49340636,-0.34812074,1027.8395)" />
     <path
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 10,1046.3622 4,0 0,-1 -1,0 0,-7.9888 -3,0 0,1 1,0 0,6.9888 -1,0 z"
+       id="path3056"
        inkscape:connector-curvature="0"
-       id="path3536-8-7"
-       style="opacity:0.8;fill:#000000;fill-opacity:1"
-       d="m 8.6187255,1040.2791 c 0.1608526,0.3631 0.3419905,0.6571 0.727938,0.255 0.4782049,-0.2362 2.0804395,-1.271 1.9200705,-0.2573 -0.512985,1.8756 -1.137551,3.7319 -1.6152748,5.6132 -0.4989768,1.0304 0.6347098,1.9625 1.8186338,1.2922 1.258312,-0.4304 2.341281,-1.1313 3.447435,-1.7744 -0.150707,-0.3072 -0.251662,-0.7484 -0.668523,-0.3466 -0.547764,0.2061 -1.743763,1.1783 -1.96596,0.3765 0.459852,-2.0314 1.312412,-3.9874 1.857278,-6.0019 0.501391,-0.9267 -0.317355,-2.0971 -1.543304,-1.3308 -1.468434,0.5306 -2.6963133,1.3973 -3.9782935,2.1741 z m 5.4496235,-6.8313 c -1.49838,-0.066 -2.281383,1.9381 -0.857874,2.4862 1.154943,0.3929 2.412771,-0.5897 2.130677,-1.5718 -0.08743,-0.5114 -0.64099,-0.9315 -1.272803,-0.9144 z" />
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 11,1034.3734 0,2 2,0 0,-2 z"
+       id="path3826"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

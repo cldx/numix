@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="bottom.svg">
   <metadata
      id="metadata23">
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview21"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="11.001761"
-     inkscape:cy="13.451178"
+     inkscape:zoom="13.906434"
+     inkscape:cx="10.384236"
+     inkscape:cy="10.132062"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3710">
     <inkscape:grid
@@ -169,14 +169,7 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 20,17 0,-2 -8,-8 -8,8 0,2 2,0 6,-6 6,6 z"
+     d="m 20.015625,19 0,-2 -8,-8 -8,8 0,2 2,0 6,-6 6,6 2,0 z m 0,-12 0,-2 -16.03125,0 0,2 16.03125,0 z"
      id="path3003"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc" />
-  <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 19,6 19,3 5,3 5,6 z"
-     id="path4327"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     inkscape:connector-curvature="0" />
 </svg>
