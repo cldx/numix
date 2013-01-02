@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="amazon-mp3-store-source.svg">
+   sodipodi:docname="amazon-store.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -176,16 +176,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568545"
+     inkscape:zoom="11.313709"
      inkscape:cx="10.389396"
-     inkscape:cy="16.466101"
+     inkscape:cy="24.774605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -199,7 +199,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,9 +237,9 @@
          d="m 35.53057,1034.7328 c -0.358719,-0.4595 -2.375056,-0.2178 -3.279557,-0.1087 -0.274918,0.032 -0.317088,-0.2068 -0.07001,-0.3816 1.60788,-1.1294 4.242446,-0.8026 4.548992,-0.425 0.308439,0.3825 -0.08083,3.0236 -1.587876,4.283 -0.231667,0.1946 -0.45225,0.092 -0.349798,-0.1644 0.338715,-0.8477 1.098322,-2.7434 0.738252,-3.2033 z" />
     </g>
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       transform="translate(0,1004.3622)"
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
        id="rect3790" />
   </g>
 </svg>

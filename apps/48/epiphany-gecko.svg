@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="browser.svg">
+   sodipodi:docname="epiphany-gecko.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -127,16 +127,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000002"
+     inkscape:zoom="11.313709"
      inkscape:cx="21.787026"
      inkscape:cy="30.437107"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -209,12 +209,12 @@
        sodipodi:cy="27.317127"
        sodipodi:rx="9.1039991"
        sodipodi:ry="9.1039991"
-       d="m 33.05724,27.317127 a 9.1039991,9.1039991 0 1 1 -18.207998,0 9.1039991,9.1039991 0 1 1 18.207998,0 z"
+       d="m 33.05724,27.317127 c 0,5.028 -4.075999,9.103999 -9.103999,9.103999 -5.028,0 -9.103999,-4.075999 -9.103999,-9.103999 0,-5.028 4.075999,-9.103999 9.103999,-9.103999 5.028,0 9.103999,4.075999 9.103999,9.103999 z"
        transform="matrix(1.6476276,0,0,1.6476276,-15.466022,983.35375)" />
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       id="rect3790"
-       transform="translate(0,1004.3622)" />
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>

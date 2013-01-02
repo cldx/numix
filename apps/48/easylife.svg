@@ -14,8 +14,8 @@
    height="48.000008"
    id="svg10357"
    version="1.1"
-   inkscape:version="0.48+devel r11521"
-   sodipodi:docname="Nuevo documento 69">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="easylife.svg">
   <defs
      id="defs10359">
     <linearGradient
@@ -94,12 +94,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6349708"
-     inkscape:cx="-4.739739"
-     inkscape:cy="14.807746"
+     inkscape:zoom="10.28125"
+     inkscape:cx="7.3210513"
+     inkscape:cy="25.895892"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      width="0px"
      height="0px"
      fit-margin-top="0"
@@ -107,10 +107,14 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1137"
-     inkscape:window-height="925"
+     inkscape:window-height="708"
      inkscape:window-x="0"
-     inkscape:window-y="7"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2997" />
+  </sodipodi:namedview>
   <metadata
      id="metadata10362">
     <rdf:RDF>
@@ -121,7 +125,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,7 +151,7 @@
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m -435.42857,388.36219 0,48 16.78125,0 12.84375,-48 -29.625,0 z"
+       d="m -433.42857,388.36219 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
        id="rect3790" />
   </g>
 </svg>

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="eog.svg">
+   sodipodi:docname="Etermutilities-terminal.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -179,17 +179,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
+     inkscape:zoom="11.313709"
      inkscape:cx="4.7725611"
-     inkscape:cy="9.9113064"
+     inkscape:cy="34.83682"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3027" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -198,7 +202,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -215,11 +219,6 @@
        x="0"
        y="1004.3622"
        ry="1.9445436" />
-    <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       transform="translate(0,1004.3622)"
-       id="rect3790" />
     <g
        id="g3039"
        transform="matrix(1.8649509,0,0,1.8649509,-20.83646,-893.03163)"
@@ -235,5 +234,10 @@
          id="path3653-7-7"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.10799997,0 -1.99999997,0.892 -1.99999997,2 l 0,43.9999 c 0,1.108 0.892,2 1.99999997,2 l 14.781251,0 12.84375,-47.9999 -27.625001,0 z"
+       id="rect3790" />
   </g>
 </svg>

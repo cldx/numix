@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r11556"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="firefox-trunk.svg">
   <defs
      id="defs4">
@@ -191,17 +191,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.3639613"
+     inkscape:zoom="12.727923"
      inkscape:cx="15.440678"
-     inkscape:cy="10.500425"
+     inkscape:cy="32.656437"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="748"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3021" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -226,7 +230,7 @@
        height="48"
        x="-1052.3622"
        y="0"
-       ry="0"
+       ry="2"
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
@@ -234,9 +238,9 @@
        id="path28"
        inkscape:connector-curvature="0" />
     <path
+       inkscape:connector-curvature="0"
        style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 0,1004.3622 0,48 16.78125,0 12.84375,-48 -29.625,0 z"
-       id="rect3790"
-       inkscape:connector-curvature="0" />
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>

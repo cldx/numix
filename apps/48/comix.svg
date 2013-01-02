@@ -109,12 +109,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
+     inkscape:zoom="11.313709"
      inkscape:cx="21.123777"
      inkscape:cy="28.303063"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      width="0px"
      height="0px"
      fit-margin-top="0"
@@ -124,8 +124,12 @@
      inkscape:window-width="1016"
      inkscape:window-height="672"
      inkscape:window-x="262"
-     inkscape:window-y="22"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3005" />
+  </sodipodi:namedview>
   <metadata
      id="metadata949">
     <rdf:RDF>
@@ -185,7 +189,7 @@
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 1640.5564,364.34714 0,48 16.7813,0 12.8437,-48 -29.625,0 z"
+       d="m 1642.5564,364.34714 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.7813,0 12.8437,-48 -27.625,0 z"
        id="rect3790" />
   </g>
 </svg>

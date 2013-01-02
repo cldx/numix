@@ -166,17 +166,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568545"
+     inkscape:zoom="11.313709"
      inkscape:cx="-17.234349"
      inkscape:cy="29.560841"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3017" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -203,14 +207,14 @@
        y="1004.3622"
        ry="1.9445436" />
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       id="rect3790"
-       transform="translate(0,1004.3622)" />
-    <path
        d="M 14.486144,1012.5024 8,1041.0252 l 5.269991,0 3.061329,-12.7643 14.385784,0 -13.472191,11.9554 3.512016,4.0089 1.798891,-0.9191 c 3.401825,-1.7337 4.828574,-0.7199 7.409525,-0.013 2.510882,0.6908 4.871346,1.43 9.768625,-1.3684 l -0.972547,-4.9393 c -5.344649,3.7672 -7.035492,0.4061 -10.842099,0.2726 l 10.898145,-9.1416 1.182531,-4.8801 -22.828186,0 1.469515,-5.8569 14.962707,0 1.026127,-4.8802 -20.144019,0 z"
        inkscape:connector-curvature="0"
        id="path3307"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>

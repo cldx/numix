@@ -73,18 +73,22 @@
      inkscape:cy="23.434222"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      width="0px"
      height="0px"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2998" />
+  </sodipodi:namedview>
   <metadata
      id="metadata1609">
     <rdf:RDF>
@@ -113,11 +117,6 @@
        y="-967.79077"
        ry="1.9445436"
        transform="scale(1,-1)" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 2273.1429,919.79076 0,48 16.7812,0 12.8438,-48 -29.625,0 z"
-       id="rect3790" />
     <g
        id="g3898"
        transform="matrix(0.76003981,0,0,0.76003981,549.89889,226.27298)">
@@ -158,5 +157,10 @@
          style="fill:none;stroke:#ffffff;stroke-width:2.63144112;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:type="arc" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2275.1428,919.79077 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.7813,0 12.8437,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>

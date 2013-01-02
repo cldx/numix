@@ -503,14 +503,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.7812498"
-     inkscape:cx="41.830749"
-     inkscape:cy="18.430685"
+     inkscape:zoom="13.523417"
+     inkscape:cx="25.118996"
+     inkscape:cy="28.783098"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -560,7 +560,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -578,15 +578,12 @@
        y="1004.3622"
        ry="1.9445436" />
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       id="rect3790"
-       transform="translate(0,1004.3622)" />
-    <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.28612947;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 10.03125 12 C 9.466538 12.056 8.990793 12.58885 9 13.15625 L 9 34.84375 C 8.993 35.45105 9.548958 36.007 10.15625 36 L 37.84375 36 C 38.451042 36.01 39.006984 35.45105 39 34.84375 L 39 16.21875 C 39.007 15.61145 38.451042 15.0555 37.84375 15.0625 L 27 15.0625 L 27 13.15625 C 27.0069 12.55935 26.471863 12.0095 25.875 12 L 10.15625 12 L 10.03125 12 z M 11 17 L 37 17 L 37 34 L 11 34 L 11 17 z "
+       d="M 10.03125,12 C 9.466538,12.056 8.990793,12.58885 9,13.15625 l 0,22.6875 C 8.993,36.45105 9.548958,37.007 10.15625,37 l 27.6875,0 C 38.451042,37.01 39.006984,36.45105 39,35.84375 l 0,-19.625 C 39.007,15.61145 38.451042,15.0555 37.84375,15.0625 L 27,15.0625 27,13.15625 C 27.0069,12.55935 26.471863,12.0095 25.875,12 L 10.15625,12 z M 11,17 l 26,0 0,18 -26,0 z"
        transform="translate(0,1004.3622)"
-       id="path3912" />
+       id="path3912"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
     <g
        transform="translate(0,-1.9647588)"
        style="font-size:20px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
@@ -598,5 +595,10 @@
          sodipodi:nodetypes="cccccccc"
          style="fill:#ffffff;fill-opacity:1" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>

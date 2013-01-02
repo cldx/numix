@@ -221,16 +221,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.4521359"
-     inkscape:cx="-9.5636072"
+     inkscape:zoom="11.953125"
+     inkscape:cx="9.343582"
      inkscape:cy="27.439827"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -263,14 +263,14 @@
        ry="1.9445436"
        transform="scale(1,-1)" />
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       id="rect3790"
-       transform="translate(0,1004.3622)" />
-    <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 22.375,1012.3622 0,2.709 0,10.441 -5.34375,-4.8819 -1.78125,1.6085 6.65625,6.067 -6.53125,5.8977 1.78125,1.5802 5.21875,-4.7125 0,10.5537 0,2.7373 2.125,-1.9471 7.375,-6.6314 0.875,-0.7901 -0.875,-0.7901 -6.4375,-5.8977 6.4375,-5.7849 0.875,-0.8183 -0.875,-0.7901 -7.375,-6.6314 -2.125,-1.9189 z m 2.5,5.418 4.34375,3.9224 -4.34375,3.9224 0,-7.8448 z m 0,13.2345 4.34375,3.9789 -4.34375,3.9224 0,-7.9013 z"
        id="path1295"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>
