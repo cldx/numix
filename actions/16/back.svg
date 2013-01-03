@@ -37,16 +37,24 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      id="namedview21"
-     showgrid="false"
-     inkscape:zoom="11.753906"
-     inkscape:cx="34.265869"
-     inkscape:cy="24"
+     showgrid="true"
+     inkscape:zoom="19.666667"
+     inkscape:cx="17.459388"
+     inkscape:cy="11.896172"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3710" />
+     inkscape:current-layer="svg3710">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3002"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <defs
      id="defs3712">
     <linearGradient
@@ -160,8 +168,9 @@
     </linearGradient>
   </defs>
   <path
-     id="path2624-5"
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.06694901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="M 8.9740217,0.53347426 0.53347475,8.0188374 8.9740217,15.466526 V 11.733857 H 15.466525 V 4.266482 H 8.9740217 V 0.5338137 z"
-     inkscape:connector-curvature="0" />
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 13,0 -2,0 -8,8 8,8 2,0 0,-2 -6,-6 6,-6 z"
+     id="path3003"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc" />
 </svg>

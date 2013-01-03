@@ -15,7 +15,7 @@
    height="24"
    id="svg3123"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="appointment-new.svg">
+   sodipodi:docname="appointment.svg">
   <metadata
      id="metadata58">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,17 +37,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview56"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="7.0247955"
-     inkscape:cx="-15.807241"
-     inkscape:cy="20.451757"
+     inkscape:zoom="28.099182"
+     inkscape:cx="12.876868"
+     inkscape:cy="8.8499958"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3123">
     <inkscape:grid
@@ -240,30 +240,13 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.6399715,0,0,1.7710483,-112.55969,-11.636734)" />
   </defs>
-  <g
-     id="g3818"
-     transform="translate(0,0.5)">
-    <path
-       sodipodi:nodetypes="cccccssscccccasssa"
-       inkscape:connector-curvature="0"
-       id="path3035"
-       d="M 12,1 9,1 9,2 8,2 8,3 C 7,3 2,7 2,12 2,17 7,22 12,22 17,22 22,17 22,12 22,7 17,3 16,3 l 0,-1 -1,0 0,-1 z m 0,3 c 3.771236,0 8,3.517003 8,8 0,4.482995 -4,8 -8,8 C 8,20 4,16.482995 4,12 4,7.517003 8.2287638,4 12,4 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.95768571;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3815"
-       d="m 8,11 3,0 0,-3 2,0 0,3 3,0 0,2 -3,0 c 0,0 0,-2.068229 0,0.465885 C 13,16 13,16 13,16 l -2,0 0,-3 -3,0 z"
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="cccccc"
-       inkscape:connector-curvature="0"
-       id="path3798"
-       d="m 14,14 0,1 1,1 1,-1 -1,-1 z"
-       style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3798-5"
-       d="m 14,10 1,0 2,-2 -1,-1 -2,2 z"
-       style="opacity:0.6;fill:#000000;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 12 4 C 7.581722 4 4 7.581722 4 12 C 4 16.418278 7.581722 20 12 20 C 13.059696 20 14.074425 19.780452 15 19.40625 L 15 19 L 13 19 L 13 17.90625 C 12.677161 17.959989 12.338088 18 12 18 C 8.6862915 18 6 15.313709 6 12 C 6 8.686292 8.6862915 6 12 6 C 15.313708 6 18 8.686292 18 12 C 18 12.338088 17.959989 12.677161 17.90625 13 L 19 13 L 19 15 L 19.40625 15 C 19.780452 14.074425 20 13.059696 20 12 C 20 7.581722 16.418278 4 12 4 z M 13.28125 8.40625 A 1.0077822 1.0077822 0 0 0 12.625 8.90625 L 11.40625 11 L 8 11 A 1.0001 1.0001 0 0 0 6.96875 12.09375 A 1.0001 1.0001 0 0 0 7 12.21875 A 1.0001 1.0001 0 0 0 8 13 L 11.6875 13 A 1.0001 1.0001 0 0 0 11.78125 13 A 1.0001 1.0001 0 0 0 12.53125 12.875 A 1.0001 1.0001 0 0 0 12.5625 12.84375 A 1.0001 1.0001 0 0 0 12.625 12.8125 A 1.0001 1.0001 0 0 0 12.65625 12.78125 A 1.0001 1.0001 0 0 0 12.6875 12.75 A 1.0001 1.0001 0 0 0 12.71875 12.71875 A 1.0001 1.0001 0 0 0 12.75 12.6875 A 1.0001 1.0001 0 0 0 12.78125 12.625 A 1.0001 1.0001 0 0 0 12.8125 12.59375 A 1.0001 1.0001 0 0 0 12.84375 12.5625 A 1.0001 1.0001 0 0 0 12.875 12.5 A 1.0001 1.0001 0 0 0 12.9375 12.375 L 14.375 9.90625 A 1.0077822 1.0077822 0 0 0 13.28125 8.40625 z "
+     id="path3023" />
+  <path
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 14,18 0,-2 2,0 0,-2 2,0 0,2 2,0 0,2 -2,0 0,2 -2,0 0,-2 z"
+     id="path3821"
+     inkscape:connector-curvature="0" />
 </svg>

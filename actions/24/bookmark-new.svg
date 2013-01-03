@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview42"
      showgrid="true"
      inkscape:zoom="19.869122"
-     inkscape:cx="20.573354"
+     inkscape:cx="9.0479328"
      inkscape:cy="11.941096"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3692">
     <inkscape:grid
@@ -246,13 +246,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
-     d="M 6 2 L 6 22 L 12 16 L 18 22 L 18 2 L 8 2 L 6 2 z M 11 6 L 13 6 L 13 9 L 16 9 L 16 11 L 13 11 L 13 14 L 11 14 L 11 11 L 8 11 L 8 9 L 11 9 L 11 6 z "
-     id="path3015" />
-  <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 6,2 3,5 6,5 z"
-     id="path3785"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
+     d="M 7 4 L 4 7 L 7 7 L 7 20 L 12 15 L 13 16 L 13 15 L 15 15 L 15 13 L 17 13 L 17 4 L 8 4 L 7 4 z M 16 14 L 16 16 L 14 16 L 14 18 L 16 18 L 16 20 L 18 20 L 18 18 L 20 18 L 20 16 L 18 16 L 18 14 L 16 14 z "
+     id="path3015" />
 </svg>
