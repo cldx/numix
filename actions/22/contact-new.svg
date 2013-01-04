@@ -14,7 +14,7 @@
    height="22"
    width="22"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="contact-new.svg">
   <metadata
      id="metadata76">
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview74"
      showgrid="true"
-     inkscape:zoom="16.622534"
-     inkscape:cx="4.7680644"
-     inkscape:cy="11.923143"
+     inkscape:zoom="16"
+     inkscape:cx="19.481505"
+     inkscape:cy="7.505329"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3134">
     <inkscape:grid
@@ -196,14 +196,8 @@
        x1="11.511" />
   </defs>
   <path
-     style="opacity:0.8;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="M 11,2 C 7.4426066,2 4.6180558,4.9301249 4.6180558,8.8474733 c 0,1.8845487 0.3066001,3.6724097 1.3953577,4.9426547 C 6.0921785,17.526306 1.9999998,14.462868 1.9999998,20 L 20,20 c 0,-5.537132 -4.058534,-2.070912 -4.058534,-6.210156 1.088757,-1.270242 1.47845,-3.057822 1.47845,-4.9423707 C 17.419916,4.9301249 14.557394,2 11,2 z"
-     id="path3055"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssccccss" />
-  <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 7.0000001,9.978397 2.9999999,0 0,-2.9999987 2,0 0,2.9999987 3,0 0,2 -3,0 c 0,0 0,-2.068229 0,0.465885 0,2.534115 0,2.534115 0,2.534115 l -2,0 0,-3 -2.9999999,0 z"
-     id="path3815"
+     d="M 10,3 C 7,3 7,7 7,7 l 0,3 c 0,1 2,3 2,3 l 0,1 -5,2 0,3 9,0 0,-1 -1,0 0,-4 1,0 0,-1 c 0,0 2,-2 2,-3 l 0,-3 c 0,0 0,-4 -3,-4 l -2,0 z m 4.96875,10 0,2 -2,0 0,2 2,0 0,2 2,0 0,-1.53125 0,-0.46875 2,0 0,-2 -2,0 0,-2 -2,0 z"
+     id="path3014"
      inkscape:connector-curvature="0" />
 </svg>

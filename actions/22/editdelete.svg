@@ -14,8 +14,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="edit-delete.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="editdelete.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -463,14 +463,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.9481904"
-     inkscape:cx="-19.754496"
-     inkscape:cy="21.197377"
+     inkscape:zoom="11.896381"
+     inkscape:cx="11.739631"
+     inkscape:cy="8.2941567"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -560,9 +560,9 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 17.010405,1035.3518 c -3.319455,-3.3195 -8.7013449,-3.3195 -12.0208103,0 -3.3194656,3.3194 -3.3194551,8.7014 0,12.0208 3.3194553,3.3194 8.7013453,3.3194 12.0208103,0 3.319466,-3.3194 3.319456,-8.7014 0,-12.0208 z m -1.624434,1.6244 c 2.144085,2.1441 2.382535,5.4636 0.730995,7.8785 l -8.5891939,-8.5891 -1.6244335,1.6244 8.5891944,8.5891 c -2.414938,1.6516 -5.7344201,1.4132 -7.878505,-0.731 -2.4223047,-2.4222 -2.4222904,-6.3496 0,-8.7719 2.4222907,-2.4223 6.349639,-2.4223 8.771943,0 z"
-       id="path3086"
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 11,1033.3622 c -4.418278,0 -8,3.5817 -8,8 0,4.4183 3.581722,8 8,8 4.418278,0 8,-3.5817 8,-8 0,-4.4183 -3.581722,-8 -8,-8 z m 0.0625,3.0313 c 2.761424,0 5,2.2385 5,5 0,1.0355 -0.304628,1.9832 -0.84375,2.7812 l -6.9375,-6.9375 c 0.798005,-0.5391 1.745716,-0.8437 2.78125,-0.8437 z m -4.1875,2.25 6.9375,6.9375 c -0.79097,0.5246 -1.729766,0.8125 -2.75,0.8125 -2.7614237,0 -5,-2.2386 -5,-5 0,-1.0203 0.2878938,-1.9591 0.8125,-2.75 z"
+       id="path3083"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
