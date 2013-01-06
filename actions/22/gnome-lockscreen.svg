@@ -411,14 +411,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.824023"
-     inkscape:cx="14.576985"
-     inkscape:cy="15.349887"
+     inkscape:zoom="11.896381"
+     inkscape:cx="2.6890096"
+     inkscape:cy="12.912171"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -509,9 +509,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.99999952;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 1.6718841,1032.419 c -0.3659601,0.038 -0.67384256,0.3821 -0.6718747,0.75 l 0,13.5 c 3.92e-5,0.3927 0.3573115,0.75 0.7499997,0.75 l 6.2447668,0 0,0.9948 6.0401771,0 0,-0.9948 6.215048,0 c 0.392688,0 0.74996,-0.3573 0.749999,-0.75 l 0,-13.5 c -3.9e-5,-0.3927 -0.357311,-0.7499 -0.749999,-0.75 l -18.4999919,0 z m 9.3281209,2.9973 c 0,0 2.997331,-0.044 2.999995,1.9583 l 0,1 c 0,0 1,0 1,1 l 0,4 c 0,0 0,1 -1,1 l -6.0000001,0 c -1,0 -1,-1 -1,-1 l 0,-4 c 0,-1 1,-1 1,-1 l 0,-1 c 0.02043,-2 3.0000051,-1.9583 3.0000051,-1.9583 z m -5e-6,0.9583 c 0,0 -2.0000001,0 -2.0000001,1 l 0,1 4.0000001,0 0,-1 c 0,-1 -2,-1 -2,-1 z m -6.0000001,13 0,2 12.0000001,0 0,-2 z"
+       d="m 3,1034.3622 0,11 5,0 0,1 6,0 0,-1 5,0 0,-11 -16,0 z m 7,2 2,0 0,1 1,0 0,2 1,0 0,4 -6,0 0,-4 1,0 0,-2 1,0 0,-1 z m 0,1 0,2 2,0 0,-2 -2,0 z m -4,10 0,2 10,0 0,-2 -10,0 z"
        id="rect4042"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

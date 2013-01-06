@@ -14,7 +14,7 @@
    width="24"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="undo.svg">
+   sodipodi:docname="go-jump.svg">
   <metadata
      id="metadata23">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview21"
      showgrid="true"
      inkscape:zoom="19.666667"
      inkscape:cx="8.7390075"
      inkscape:cy="13.119138"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3710">
     <inkscape:grid
@@ -169,7 +169,7 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 9.1875,2.9925437 C 8.4019747,3.0741958 7.7615992,3.8633204 7.8434229,4.6488278 7.9252466,5.4343352 8.7145105,6.074539 9.5,5.9925437 c 0,0 0.4515209,0.022635 0.84375,0.21875 C 10.735979,6.4074083 11,6.4925437 11,7.4925437 l 0,8.5677913 -3,-3 -2,0 0,2 6,6 1,0 6,-6 0,-2 -2,0 -3,3 0,-8.5677913 c 0,-2 -1.235979,-3.4148646 -2.34375,-3.96875 C 10.548479,2.9699083 9.5,2.9925437 9.5,2.9925437 c -0.052036,-0.00271 -0.1042138,-0.00271 -0.15625,0 -0.052036,-0.00271 -0.1042137,-0.00271 -0.15625,0 z"
+     d="M 9.1875,4.0169544 C 8.4019747,4.0986065 7.7615992,4.8877311 7.8434229,5.6732385 7.9252466,6.4587459 8.7145105,7.0989497 9.5,7.0169544 c 0,0 0.4515209,0.022635 0.84375,0.21875 C 10.735979,7.431819 11,7.5169544 11,8.5169544 L 11,15 8,12 l -2,0 0,2 6,6 1,0 6,-6 0,-2 -2,0 -3,3 0,-6.4830456 c 0,-2 -1.235979,-3.4148646 -2.34375,-3.96875 C 10.548479,3.994319 9.5,4.0169544 9.5,4.0169544 c -0.052036,-0.00271 -0.1042138,-0.00271 -0.15625,0 -0.052036,-0.00271 -0.1042137,-0.00271 -0.15625,0 z"
      id="path4971"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cscssccccccccccssccc" />

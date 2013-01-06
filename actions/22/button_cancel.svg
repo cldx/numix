@@ -14,8 +14,8 @@
    height="22"
    width="22"
    version="1.0"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="add.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="button_cancel.svg">
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -43,7 +43,7 @@
      showgrid="true"
      inkscape:zoom="19.125"
      inkscape:cx="3.3796447"
-     inkscape:cy="7.8537413"
+     inkscape:cy="11.879885"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -143,8 +143,8 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 15.408163,18.346939 11,13.938776 6.5918367,18.346939 c 0,0 -1.4693877,1.469387 -2.9387755,0 -1.4693878,-1.469388 0,-2.938775 0,-2.938775 L 8.0612245,11 3.6530612,6.5918369 c 0,0 -1.4693878,-1.4693877 0,-2.9387755 1.4693878,-1.4693878 2.9387755,0 2.9387755,0 L 11,8.0612247 15.408163,3.6530614 c 0,0 1.469388,-1.4693878 2.938776,0 1.469387,1.4693878 0,2.9387755 0,2.9387755 L 13.938775,11 l 4.408164,4.408164 c 0,0 1.469387,1.469387 0,2.938775 -1.469388,1.469387 -2.938776,0 -2.938776,0 z"
+     d="M 16,18 11,13 6,18 4,18 4,16 9,11 4,6 4,4 l 2,0 5,5 5,-5 2,0 0,2 -5,5 5,5 0,2 z"
      id="path2997"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccscccscccscccsc" />
+     sodipodi:nodetypes="ccccccccccccccccc" />
 </svg>

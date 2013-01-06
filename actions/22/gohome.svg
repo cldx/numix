@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="go-home.svg"
+   sodipodi:docname="gohome.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -682,14 +682,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.523418"
+     inkscape:zoom="9.5625005"
      inkscape:cx="11.70032"
-     inkscape:cy="17.165912"
+     inkscape:cy="12.25088"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -783,10 +783,9 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       inkscape:connector-curvature="0"
-       d="m 10.999763,1033.1355 -9.2497628,9.5627 2.5096408,0 0.02533,7.9323 14.023665,-0.025 -0.0597,-7.9502 2.001064,0.017 -3.93849,-3.9319 0.0037,-5.5916 -2.541604,-0.01 0.01281,2.7044 -2.786364,-2.7147 z"
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.49999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect5117"
-       sodipodi:nodetypes="ccccccccccccc" />
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 11,1033.3622 c -4.418278,0 -8,3.5817 -8,8 0,4.4183 3.581722,8 8,8 4.418278,0 8,-3.5817 8,-8 0,-4.4183 -3.581722,-8 -8,-8 z m 0,3 c 2.761424,0 5,2.2386 5,5 0,1.6311 -0.791516,3.0873 -2,4 l -1,-1 0,-1 1,-1 0,-3 -1,-2 -4,0 -1,2 0,3 1,1 0,1 -1,1 c -1.2084837,-0.9127 -2,-2.3689 -2,-4 0,-2.7614 2.2385763,-5 5,-5 z"
+       id="path3125"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

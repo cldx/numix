@@ -14,7 +14,7 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="gtk-leave-fullscreen.svg">
   <metadata
      id="metadata53">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      inkscape:window-height="709"
      id="namedview51"
      showgrid="true"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="-14.335868"
-     inkscape:cy="-0.91113371"
+     inkscape:zoom="15.999999"
+     inkscape:cx="11.112822"
+     inkscape:cy="11.930142"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -248,11 +248,8 @@
        r="117.14" />
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.8"
-     d="M 2.8125 13 A 1.001098 1.001098 0 0 0 3 15 L 7.5625 15 L 3.28125 19.28125 A 1.016466 1.016466 0 1 0 4.71875 20.71875 L 9 16.4375 L 9 21 A 1.0001 1.0001 0 1 0 11 21 L 11 14.3125 A 1.0001 1.0001 0 0 0 11 14.21875 A 1.0001 1.0001 0 0 0 10.5 13.09375 A 1.0001 1.0001 0 0 0 10.46875 13.09375 A 1.0001 1.0001 0 0 0 10.40625 13.0625 A 1.0001 1.0001 0 0 0 10.375 13.0625 A 1.0001 1.0001 0 0 0 10.3125 13.03125 A 1.0001 1.0001 0 0 0 10.28125 13.03125 A 1.0001 1.0001 0 0 0 10.21875 13 A 1.0001 1.0001 0 0 0 10.15625 13 A 1.0001 1.0001 0 0 0 10.125 13 A 1.0001 1.0001 0 0 0 10.0625 13 A 1.0001 1.0001 0 0 0 10.03125 13 A 1.0001 1.0001 0 0 0 10 13 L 9.875 13 L 3 13 A 1.0001 1.0001 0 0 0 2.90625 13 A 1.001098 1.001098 0 0 0 2.8125 13 z "
-     id="path3020" />
-  <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.8"
-     d="M 13.90625 1.96875 A 1.0001 1.0001 0 0 0 13.78125 2 A 1.0001 1.0001 0 0 0 13 3 L 13 9.8125 A 1.016466 1.016466 0 0 0 13 9.90625 A 1.016466 1.016466 0 0 0 13 10.09375 A 1.016466 1.016466 0 0 0 13 10.125 A 1.016466 1.016466 0 0 0 13.03125 10.28125 A 1.016466 1.016466 0 0 0 13.03125 10.3125 A 1.016466 1.016466 0 0 0 13.125 10.46875 A 1.016466 1.016466 0 0 0 13.125 10.5 A 1.016466 1.016466 0 0 0 13.25 10.65625 A 1.0001 1.0001 0 0 0 13.3125 10.71875 A 1.016466 1.016466 0 0 0 13.3125 10.75 A 1.0001 1.0001 0 0 0 13.375 10.78125 A 1.016466 1.016466 0 0 0 13.46875 10.875 A 1.0001 1.0001 0 0 0 13.53125 10.90625 A 1.016466 1.016466 0 0 0 13.5625 10.90625 A 1.0001 1.0001 0 0 0 13.625 10.9375 A 1.016466 1.016466 0 0 0 13.65625 10.9375 A 1.0001 1.0001 0 0 0 13.71875 10.96875 A 1.016466 1.016466 0 0 0 14.03125 11 L 14.25 11 L 21 11 A 1.0001 1.0001 0 1 0 21 9 L 16.4375 9 L 20.71875 4.71875 A 1.0001 1.0001 0 0 0 19.875 3 A 1.0001 1.0001 0 0 0 19.28125 3.28125 L 15 7.5625 L 15 3 A 1.0001 1.0001 0 0 0 13.90625 1.96875 z "
-     id="path3020-6" />
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 13,4 0,7 7,0 0,-2 -3,0 3,-3 0,-1 -1,0 0,-1 -1,0 -3,3 0,-3 -2,0 z m -9,9 0,2 3,0 -3,3 0,1 1,0 0,1 1,0 3,-3 0,3 2,0 0,-7 -7,0 z"
+     id="path3018"
+     inkscape:connector-curvature="0" />
 </svg>

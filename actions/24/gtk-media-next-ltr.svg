@@ -14,7 +14,7 @@
    width="24"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gtk-media-next-rtl.svg">
+   sodipodi:docname="gtk-media-forward-rtl.svg">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -37,16 +37,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      id="namedview13"
      showgrid="true"
-     inkscape:zoom="16.622534"
-     inkscape:cx="13.500115"
+     inkscape:zoom="13.906434"
+     inkscape:cx="-6.0695722"
      inkscape:cy="8.7052627"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2474">
+     inkscape:current-layer="svg2474"
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid2994"
@@ -54,6 +56,22 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="4,13"
+       id="guide2989" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="11,20"
+       id="guide2991" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="10,4"
+       id="guide2993" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="20,14"
+       id="guide2995" />
   </sodipodi:namedview>
   <defs
      id="defs2476">
@@ -93,14 +111,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="M 12.953798,18.203076 20,12.180477 12.953798,6.107031 z M 4,18.203076 12.420803,12.180477 4,6.056184 z"
-     id="path2992"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccc" />
-  <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 22,5.078783 0,13.999999 2,0 0,-13.999999 z"
-     id="path4345"
-     inkscape:connector-curvature="0" />
+     d="M 5 5 L 5 19 L 12 12 L 5 5 z M 12 12 L 12 19 L 19 12 L 12 5 L 12 12 z M 19 12 L 19 19 L 20 19 L 20 5 L 19 5 L 19 12 z "
+     id="path2997" />
 </svg>

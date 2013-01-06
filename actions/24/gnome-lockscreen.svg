@@ -411,14 +411,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.824023"
-     inkscape:cx="14.576985"
-     inkscape:cy="15.349887"
+     inkscape:zoom="11.896381"
+     inkscape:cx="2.6890096"
+     inkscape:cy="12.912171"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -498,7 +498,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -509,9 +509,8 @@
      transform="translate(0,-1028.3622)">
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.99999952;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 2.6718842,1031.4066 c -0.3659601,0.038 -0.6738426,0.3821 -0.6718747,0.75 l 0,13.5 c 3.92e-5,0.3927 0.3573115,0.75 0.7499997,0.75 l 6.2447668,0 0,0.9948 6.040177,0 0,-0.9948 6.215048,0 c 0.392688,0 0.74996,-0.3573 0.749999,-0.75 l 0,-13.5 c -3.9e-5,-0.3927 -0.357311,-0.7499 -0.749999,-0.75 l -18.4999918,0 z m 9.3281208,2.9973 c 0,0 2.997331,-0.044 2.999995,1.9583 l 0,1 c 0,0 1,0 1,1 l 0,4 c 0,0 0,1 -1,1 l -6,0 c -1,0 -1,-1 -1,-1 l 0,-4 c 0,-1 1,-1 1,-1 l 0,-1 c 0.02043,-2 3.000005,-1.9583 3.000005,-1.9583 z m -5e-6,0.9583 c 0,0 -2,0 -2,1 l 0,1 4,0 0,-1 c 0,-1 -2,-1 -2,-1 z m -6,13 0,2 12,0 0,-2 z"
-       id="rect4042"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
+       d="M 4 5 L 4 16 L 9 16 L 9 17 L 15 17 L 15 16 L 20 16 L 20 5 L 4 5 z M 11 7 L 13 7 L 13 8 L 14 8 L 14 10 L 15 10 L 15 14 L 9 14 L 9 10 L 10 10 L 10 8 L 11 8 L 11 7 z M 11 8 L 11 10 L 13 10 L 13 8 L 11 8 z M 7 18 L 7 20 L 17 20 L 17 18 L 7 18 z "
+       transform="translate(0,1028.3622)"
+       id="rect4042" />
   </g>
 </svg>
