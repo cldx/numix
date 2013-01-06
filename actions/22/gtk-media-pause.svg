@@ -37,11 +37,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      id="namedview13"
      showgrid="true"
      inkscape:zoom="16.622533"
-     inkscape:cx="7.805811"
+     inkscape:cx="11.535688"
      inkscape:cy="8.0688251"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -92,18 +92,9 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <rect
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect3783"
-     width="5.5"
-     height="18.5"
-     x="3.7312756"
-     y="1.75" />
-  <rect
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect3783-0"
-     width="5.5"
-     height="18.5"
-     x="12.768724"
-     y="1.75" />
+  <path
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 4,4 0,14 6,0 0,-14 -6,0 z m 8,0 0,14 6,0 0,-14 -6,0 z"
+     id="path2990"
+     inkscape:connector-curvature="0" />
 </svg>

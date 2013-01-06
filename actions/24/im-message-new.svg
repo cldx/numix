@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="19.666667"
      inkscape:cx="15.620633"
      inkscape:cy="10.289981"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2816">
     <inkscape:grid
@@ -126,13 +126,6 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 3,3 0,14 2,0 0,4 4,-4 4,0 0,-2 3,0 0,-3 4,0 0,3 1,0 0,-12 z"
-     id="path3003"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccc" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
-     d="m 19,21 -2,0 0,-3 -3,0 0,-2 3,0 0,-3 2,0 0,3 3,0 0,2 -3,0 z"
-     id="path3773"
-     inkscape:connector-curvature="0" />
+     d="M 4 5 L 4 17 L 6 17 L 6 20 L 9 17 L 13 17 L 13 15 L 15 15 L 15 13 L 19 13 L 19 5 L 4 5 z M 16 14 L 16 16 L 14 16 L 14 18 L 16 18 L 16 20 L 18 20 L 18 18 L 20 18 L 20 16 L 18 16 L 18 14 L 16 14 z "
+     id="path3003" />
 </svg>

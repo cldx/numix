@@ -14,7 +14,7 @@
    height="24"
    width="24"
    version="1.0"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="editcopy.svg">
   <metadata
      id="metadata62">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -292,15 +292,7 @@
     </linearGradient>
   </defs>
   <path
-     style="fill:#000000;fill-opacity:1;stroke:none"
-     d="m 4,4 0,11 7,0 0,-7 1,0 0,-2 -2,-2 z m 2,2 3,0 0,1 1,0 0,6 -4,0 z"
-     id="path3041"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccc" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:none"
-     d="m 12,9 0,11 8,0 0,-9 -2,-2 z m 2,2 3,0 0,1 1,0 0,6 -4,0 z"
-     id="path3041-0"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccc" />
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+     d="M 4 4 L 4 15 L 11 15 L 11 8 L 12 8 L 12 6 L 10 4 L 4 4 z M 6 6 L 9 6 L 9 7 L 10 7 L 10 13 L 6 13 L 6 6 z M 12 9 L 12 20 L 20 20 L 20 11 L 18 9 L 12 9 z M 14 11 L 17 11 L 17 12 L 18 12 L 18 18 L 14 18 L 14 11 z "
+     id="path3041" />
 </svg>
