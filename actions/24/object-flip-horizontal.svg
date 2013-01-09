@@ -39,7 +39,7 @@
      inkscape:window-height="709"
      id="namedview23"
      showgrid="true"
-     inkscape:zoom="13.906433"
+     inkscape:zoom="27.812866"
      inkscape:cx="0.13013436"
      inkscape:cy="12"
      inkscape:window-x="0"
@@ -124,7 +124,9 @@
     </radialGradient>
   </defs>
   <path
-     style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.8"
-     d="M 8 8 L 4 12 L 8 16 L 8 13 L 16 13 L 16 16 L 20 12 L 16 8 L 16 11 L 8 11 L 8 8 z "
-     id="path2997" />
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 9,7 -5,5 2,2 3,3 0,-4 6,0 0,4 5,-5 -5,-5 0,4 -6,0 z"
+     id="path2997"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccc" />
 </svg>
