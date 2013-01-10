@@ -37,19 +37,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      id="namedview21"
      showgrid="true"
-     inkscape:zoom="4.1556334"
-     inkscape:cx="0.18635665"
-     inkscape:cy="5.5340414"
+     inkscape:zoom="13.906434"
+     inkscape:cx="10.384236"
+     inkscape:cy="10.132062"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3710">
     <inkscape:grid
        type="xygrid"
-       id="grid3941"
+       id="grid3002"
        empspacing="5"
        visible="true"
        enabled="true"
@@ -167,22 +167,9 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <g
-     id="g3004"
-     transform="matrix(0.419633,0,0,0.419633,0.92880755,7.6617074)">
-    <path
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:connector-curvature="0"
-       d="M 16.474237,26.955267 37.544733,7.907331 16.474237,-11.044733 l 0,9.49849 -13.9295037,0 0,19.002158 13.9295037,0 0,9.498488 z"
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.76606941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path2624-5" />
-    <rect
-       transform="matrix(0,-1,-1,0,0,0)"
-       y="-45.455269"
-       x="-26.455265"
-       height="2.9990001"
-       width="37"
-       id="rect3939"
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.76606941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+  <path
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 4,19 2,0 8,-8 -8,-8 -2,0 0,2 6,6 -6,6 0,2 z m 12,0 2,0 0,-16.03125 -2,0 L 16,19 z"
+     id="path3003"
+     inkscape:connector-curvature="0" />
 </svg>

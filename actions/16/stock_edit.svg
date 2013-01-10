@@ -15,7 +15,7 @@
    width="16"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gtk-edit.svg">
+   sodipodi:docname="stock_edit.svg">
   <metadata
      id="metadata49">
     <rdf:RDF>
@@ -38,16 +38,24 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      id="namedview47"
-     showgrid="false"
-     inkscape:zoom="23.507812"
-     inkscape:cx="8.9199069"
-     inkscape:cy="6.1611483"
+     showgrid="true"
+     inkscape:zoom="16.622534"
+     inkscape:cx="9.8827783"
+     inkscape:cy="15.500563"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3277" />
+     inkscape:current-layer="svg3277">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3013"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <defs
      id="defs3279">
     <linearGradient
@@ -220,8 +228,8 @@
     </filter>
   </defs>
   <path
-     style="opacity:0.80000000000000004;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 12.041547,1.5000001 c 0,0 0.386441,0.013948 1.415473,1.0429799 C 14.448803,3.5347626 14.5,3.9584526 14.5,3.9584526 L 5.2994267,13.159026 1.5,14.542539 2.8409743,10.700573 z"
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 12.974212,0 c 0,0 0.759288,-0.2665005 2.025788,1 1.220656,1.2206555 1,2.0257877 1,2.0257877 L 5,14 0,16 2,11 z"
      id="rect3026"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csccccc" />
