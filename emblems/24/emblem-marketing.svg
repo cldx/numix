@@ -11,10 +11,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3275"
-   height="32"
-   width="32"
+   height="24"
+   width="24"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="emblem-marketing.svg">
   <metadata
      id="metadata19">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview17"
      showgrid="true"
      inkscape:zoom="13.523417"
-     inkscape:cx="13.179789"
-     inkscape:cy="15.837777"
+     inkscape:cx="6.8250804"
+     inkscape:cy="10.576258"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3275"
      showguides="true"
@@ -141,13 +141,16 @@
          id="stop4877" />
     </linearGradient>
   </defs>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#2e3436;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 10,4 0,24 5,0 0,-24 -5,0 z m 7,6 0,18 5,0 0,-18 -5,0 z M 3,14 3,28 8,28 8,14 3,14 z m 21,8 0,6 5,0 0,-6 -5,0 z"
-     id="path4055-4" />
-  <path
-     style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
-     d="M 10 4 L 10 28 L 15 28 L 15 4 L 10 4 z M 17 10 L 17 28 L 22 28 L 22 10 L 17 10 z M 3 14 L 3 28 L 8 28 L 8 14 L 3 14 z M 24 22 L 24 28 L 29 28 L 29 22 L 24 22 z "
-     id="path4055" />
+  <g
+     id="g3771">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3769"
+       d="m 4,19 0,-11 4,0 0,4 2,0 0,-6 4,0 0,3 3,0 0,5 3,0 0,5 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.6" />
+    <path
+       id="path4055"
+       d="M 11 7 L 11 18 L 13 18 L 13 7 L 11 7 z M 5 9 L 5 18 L 7 18 L 7 9 L 5 9 z M 14 10 L 14 18 L 16 18 L 16 10 L 14 10 z M 8 13 L 8 18 L 10 18 L 10 13 L 8 13 z M 17 15 L 17 18 L 19 18 L 19 15 L 17 15 z "
+       style="fill:#2e3436;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

@@ -14,8 +14,8 @@
    height="16"
    width="16"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="add.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="emblem-new.svg">
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="16.164709"
-     inkscape:cx="-9.3268726"
-     inkscape:cy="7.0818344"
+     inkscape:zoom="19.125"
+     inkscape:cx="6.4438098"
+     inkscape:cy="10.516724"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -141,9 +141,19 @@
          id="stop4877" />
     </linearGradient>
   </defs>
-  <path
-     style="opacity:0.80620159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.39999986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 6.3459459,1.1999999 0,5.1459457 -5.1459459,0 0,3.3081088 5.1459459,0 0,5.1459456 3.3081091,0 0,-5.1459456 5.145945,0 0,-3.3081088 -5.145945,0 0,-5.1459456 -3.3081091,0 z"
-     id="rect2999"
-     inkscape:connector-curvature="0" />
+  <g
+     id="g3768"
+     transform="translate(-4,-4)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path2998"
+       d="m 5,10 0,4 5,0 0,5 4,0 0,-5 5,0 0,-4 -5,0 0,-5 -4,0 0,5 z"
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2997"
+       d="m 11,6 0,5 -5,0 0,2 5,0 0,5 2,0 0,-5 5,0 0,-2 -5,0 0,-5 z"
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

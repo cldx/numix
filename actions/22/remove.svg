@@ -14,7 +14,7 @@
    height="22"
    width="22"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="remove.svg">
   <metadata
      id="metadata19">
@@ -41,9 +41,9 @@
      inkscape:window-height="709"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="6.4514336"
-     inkscape:cy="16.6955"
+     inkscape:zoom="15.999999"
+     inkscape:cx="8.5486582"
+     inkscape:cy="14.316671"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -141,7 +141,8 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 4,10 14,0 0,2 -14,0 z"
+     d="m 5,10 12,0 0,2 -12,0 z"
      id="path2997"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
 </svg>

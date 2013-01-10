@@ -14,7 +14,7 @@
    height="22"
    width="22"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="add.svg">
   <metadata
      id="metadata19">
@@ -41,9 +41,9 @@
      inkscape:window-height="709"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="19.125"
-     inkscape:cx="7.3796448"
-     inkscape:cy="9.7360942"
+     inkscape:zoom="13.523417"
+     inkscape:cx="19.672342"
+     inkscape:cy="9.3289802"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -143,7 +143,8 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 10,4 0,6 -6,0 0,2 6,0 0,6 2,0 0,-6 6,0 0,-2 -6,0 0,-6 -2,0 z"
+     d="m 10,5 0,5 -5,0 0,2 5,0 0,5 2,0 0,-5 5,0 0,-2 -5,0 0,-5 z"
      id="path2997"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>

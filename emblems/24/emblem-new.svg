@@ -11,11 +11,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3275"
-   height="32"
-   width="32"
+   height="24"
+   width="24"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="emblem-new.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="add.svg">
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="13.523417"
-     inkscape:cx="20.88682"
-     inkscape:cy="11.648878"
+     inkscape:zoom="19.125"
+     inkscape:cx="6.4960974"
+     inkscape:cy="10.516724"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3275"
      showguides="true"
@@ -141,14 +141,18 @@
          id="stop4877" />
     </linearGradient>
   </defs>
-  <path
-     style="fill:#2e3436;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 2,12 10,0 0,-10 8,0 0,10 10,0 0,8 -10,0 0,10 -8,0 0,-10 -10,0 z"
-     id="path2997-4"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#2e3436;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="m 2,12 10,0 0,-10 8,0 0,10 10,0 0,8 -10,0 0,10 -8,0 0,-10 -10,0 z"
-     id="path2997"
-     inkscape:connector-curvature="0" />
+  <g
+     id="g3768">
+    <path
+       inkscape:connector-curvature="0"
+       id="path2998"
+       d="m 5,10 0,4 5,0 0,5 4,0 0,-5 5,0 0,-4 -5,0 0,-5 -4,0 0,5 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.6" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2997"
+       d="m 11,6 0,5 -5,0 0,2 5,0 0,5 2,0 0,-5 5,0 0,-2 -5,0 0,-5 z"
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
 </svg>
