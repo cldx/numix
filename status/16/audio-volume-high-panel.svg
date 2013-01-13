@@ -1,8 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0">
- <rect id="rect2384" style="fill:#606060" rx="0" ry="0" height="15" width="2" y="1" x="13"/>
- <rect id="rect3158" style="fill:#606060" rx="0" ry="0" height="9" width="2" y="4" x="10"/>
- <rect id="rect3162" style="fill:#606060" rx="0" ry="0" height="3" width="2" y="7" x="7"/>
- <path id="path2387" style="fill:#606060;fill-rule:evenodd" d="m0 6v5h2l4 4v-13l-4 4h-2z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="16"
+   width="16"
+   version="1.0"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="audio-volume-high-panel.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview7"
+     showgrid="true"
+     inkscape:zoom="13.906433"
+     inkscape:cx="10.951826"
+     inkscape:cy="10.153283"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2988"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:0.8;fill:#000000;fill-opacity:1"
+     d="m 7,0 -4,4 -3,0 0,8 3,0 4,4 z m 7,0 0,16 2,0 0,-16 z m -3,2 0,12 2,0 0,-12 z m -3,3 0,6 2,0 0,-6 z"
+     id="rect2384"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccc" />
 </svg>

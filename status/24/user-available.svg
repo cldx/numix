@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="24px" viewBox="0 0 24 24" width="24px" version="1.1" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 24 24">
-<circle id="circle3" opacity=".3" r="6" cy="13" cx="12" enable-background="new    " fill="#fff"/>
-<linearGradient id="circle10_1_" y2="1020" gradientUnits="userSpaceOnUse" x2="1641" gradientTransform="translate(-1629 -1014)" y1="1032" x1="1641">
-	<stop style="stop-color:#2F8A42" offset="0"/>
-	<stop style="stop-color:#6DBF5B" offset="1"/>
-</linearGradient>
-<circle id="circle10" cy="12" cx="12" r="6" fill="url(#circle10_1_)"/>
-<radialGradient id="circle17_1_" gradientUnits="userSpaceOnUse" cy="1020.5" cx="1641" gradientTransform="translate(-1629 -1014)" r="7">
-	<stop style="stop-color:#fff" offset="0"/>
-	<stop style="stop-color:#fff;stop-opacity:.498" offset=".4"/>
-	<stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
-</radialGradient>
-<path id="circle17_2_" d="m12 6c-2.773 0-5.094 1.882-5.781 4.438 1.261 1.841 3.381 3.062 5.781 3.062s4.52-1.221 5.781-3.062c-0.687-2.556-3.008-4.438-5.781-4.438z" fill="url(#circle17_1_)"/>
-</svg>
+online.svg

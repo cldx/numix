@@ -1,13 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" xml:space="preserve" height="24px" viewBox="0 0 24 24" width="24px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata id="metadata3270"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata>
-<path id="path4697" style="opacity:.3;fill:#fff" d="m8.6562 8c-0.922 0-1.6562 0.7352-1.6562 1.6562v6.6875c0 0.92 0.7342 1.656 1.6562 1.656h6.6875c0.922 0 1.656-0.736 1.656-1.656v-6.6875c0-0.9213-0.734-1.6565-1.656-1.6565h-6.6875z"/>
-<linearGradient id="path4699_1_" y2="-991.5" gradientUnits="userSpaceOnUse" x2="1237" gradientTransform="matrix(1,0,0,-1,-1225,-984.5)" y1="-1001.5" x1="1237">
-	<stop id="stop3255" style="stop-color:#413f3b" offset="0"/>
-	<stop id="stop3257" style="stop-color:#58564d" offset="1"/>
-</linearGradient>
-<radialGradient id="path4701_1_" gradientUnits="userSpaceOnUse" cy="-991.5" cx="1237" gradientTransform="matrix(1,0,0,-1,-1225,-984.5)" r="7">
-	<stop id="stop3261" style="stop-color:#fff" offset="0"/>
-	<stop id="stop3263" style="stop-color:#fff;stop-opacity:0" offset="1"/>
-</radialGradient>
-<path id="path3816" style="fill:#ede8e5" d="m8.6562 7c-0.922 0-1.6562 0.7352-1.6562 1.6562v6.6875c0 0.92 0.7342 1.656 1.6562 1.656h6.6875c0.922 0 1.656-0.736 1.656-1.656v-6.6875c0-0.9213-0.734-1.6565-1.656-1.6565h-6.6875z"/><path id="path4699" style="fill:url(#path4699_1_)" d="m8.6562 7c-0.922 0-1.6562 0.7352-1.6562 1.6562v6.6878c0 0.92 0.7342 1.656 1.6562 1.656h6.6878c0.922 0 1.656-0.736 1.656-1.656v-6.6878c0-0.921-0.734-1.6562-1.656-1.6562h-6.6878zm0.3438 2h6v6h-6v-6z"/><path id="path4701" style="fill:url(#path4701_1_)" d="m8.6562 7c-0.922 0-1.6562 0.7342-1.6562 1.6562v3.2188c0.572 0.586 1.2549 1.077 2 1.437v-4.312h6v4.312c0.745-0.36 1.428-0.851 2-1.437v-3.2188c0-0.922-0.734-1.6562-1.656-1.6562h-6.6878z"/></svg>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="user-idle.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="100.96439"
+     inkscape:cy="-14.237679"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+       d="M 4 4 L 4 16 L 13 16 L 17 20 L 17 16 L 20 16 L 20 4 L 4 4 z M 5 5 L 6 5 L 6 6 L 7 6 L 7 5 L 8 5 L 8 6 L 9 6 L 9 5 L 10 5 L 10 6 L 11 6 L 11 5 L 12 5 L 12 6 L 13 6 L 13 5 L 14 5 L 14 6 L 15 6 L 15 5 L 16 5 L 16 6 L 17 6 L 17 5 L 18 5 L 18 6 L 19 6 L 19 7 L 18 7 L 18 8 L 19 8 L 19 9 L 18 9 L 18 10 L 19 10 L 19 11 L 18 11 L 18 12 L 19 12 L 19 13 L 18 13 L 18 14 L 19 14 L 19 15 L 18 15 L 18 14 L 17 14 L 17 15 L 16 15 L 16 14 L 15 14 L 15 15 L 14 15 L 14 14 L 13 14 L 13 15 L 12 15 L 12 14 L 11 14 L 11 15 L 10 15 L 10 14 L 9 14 L 9 15 L 8 15 L 8 14 L 7 14 L 7 15 L 6 15 L 6 14 L 5 14 L 5 13 L 6 13 L 6 12 L 5 12 L 5 11 L 6 11 L 6 10 L 5 10 L 5 9 L 6 9 L 6 8 L 5 8 L 5 7 L 6 7 L 6 6 L 5 6 L 5 5 z M 6 7 L 6 8 L 7 8 L 7 7 L 6 7 z M 7 7 L 8 7 L 8 6 L 7 6 L 7 7 z M 8 7 L 8 8 L 9 8 L 9 7 L 8 7 z M 9 7 L 10 7 L 10 6 L 9 6 L 9 7 z M 10 7 L 10 8 L 11 8 L 11 7 L 10 7 z M 11 7 L 12 7 L 12 6 L 11 6 L 11 7 z M 12 7 L 12 8 L 13 8 L 13 7 L 12 7 z M 13 7 L 14 7 L 14 6 L 13 6 L 13 7 z M 14 7 L 14 8 L 15 8 L 15 7 L 14 7 z M 15 7 L 16 7 L 16 6 L 15 6 L 15 7 z M 16 7 L 16 8 L 17 8 L 17 7 L 16 7 z M 17 7 L 18 7 L 18 6 L 17 6 L 17 7 z M 17 8 L 17 9 L 18 9 L 18 8 L 17 8 z M 17 9 L 16 9 L 16 10 L 17 10 L 17 9 z M 17 10 L 17 11 L 18 11 L 18 10 L 17 10 z M 17 11 L 16 11 L 16 12 L 17 12 L 17 11 z M 17 12 L 17 13 L 18 13 L 18 12 L 17 12 z M 17 13 L 16 13 L 16 14 L 17 14 L 17 13 z M 16 13 L 16 12 L 15 12 L 15 13 L 16 13 z M 15 13 L 14 13 L 14 14 L 15 14 L 15 13 z M 14 13 L 14 12 L 13 12 L 13 13 L 14 13 z M 13 13 L 12 13 L 12 14 L 13 14 L 13 13 z M 12 13 L 12 12 L 11 12 L 11 13 L 12 13 z M 11 13 L 10 13 L 10 14 L 11 14 L 11 13 z M 10 13 L 10 12 L 9 12 L 9 13 L 10 13 z M 9 13 L 8 13 L 8 14 L 9 14 L 9 13 z M 8 13 L 8 12 L 7 12 L 7 13 L 8 13 z M 7 13 L 6 13 L 6 14 L 7 14 L 7 13 z M 7 12 L 7 11 L 6 11 L 6 12 L 7 12 z M 7 11 L 8 11 L 8 10 L 7 10 L 7 11 z M 7 10 L 7 9 L 6 9 L 6 10 L 7 10 z M 7 9 L 8 9 L 8 8 L 7 8 L 7 9 z M 8 9 L 8 10 L 9 10 L 9 9 L 8 9 z M 9 9 L 10 9 L 10 8 L 9 8 L 9 9 z M 10 9 L 10 10 L 11 10 L 11 9 L 10 9 z M 11 9 L 12 9 L 12 8 L 11 8 L 11 9 z M 12 9 L 12 10 L 13 10 L 13 9 L 12 9 z M 13 9 L 14 9 L 14 8 L 13 8 L 13 9 z M 14 9 L 14 10 L 15 10 L 15 9 L 14 9 z M 15 9 L 16 9 L 16 8 L 15 8 L 15 9 z M 15 10 L 15 11 L 16 11 L 16 10 L 15 10 z M 15 11 L 14 11 L 14 12 L 15 12 L 15 11 z M 14 11 L 14 10 L 13 10 L 13 11 L 14 11 z M 13 11 L 12 11 L 12 12 L 13 12 L 13 11 z M 12 11 L 12 10 L 11 10 L 11 11 L 12 11 z M 11 11 L 10 11 L 10 12 L 11 12 L 11 11 z M 10 11 L 10 10 L 9 10 L 9 11 L 10 11 z M 9 11 L 8 11 L 8 12 L 9 12 L 9 11 z "
+       transform="translate(0,1028.3622)"
+       id="path2987" />
+  </g>
+</svg>

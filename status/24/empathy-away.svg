@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="24px" viewBox="0 0 24 24" width="24px" version="1.1" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 24 24">
-<path id="path3_10_" opacity=".3" d="m19 19c-0.368-0.822-0.818-1.74-1.354-2.746-0.535-1.012-1.121-2.049-1.756-3.113-0.64-1.062-1.289-2.121-1.957-3.17-0.669-1.045-1.324-2.035-1.958-2.971-0.636 0.936-1.287 1.936-1.955 3-0.67 1.064-1.313 2.131-1.936 3.195-0.62 1.062-1.193 2.104-1.729 3.113-0.537 1.008-0.987 1.904-1.355 2.689l14 0.003z" enable-background="new    " fill="#fff"/>
-<linearGradient id="path10_1_" y2="1020" gradientUnits="userSpaceOnUse" x2="1641" gradientTransform="translate(-1629 -1014)" y1="1032" x1="1641">
-	<stop style="stop-color:#D6952B" offset="0"/>
-	<stop style="stop-color:#F9D508" offset="1"/>
-</linearGradient>
-<path id="path10_10_" d="m19 18c-0.368-0.822-0.818-1.74-1.354-2.746-0.535-1.012-1.121-2.049-1.756-3.113-0.64-1.062-1.289-2.121-1.957-3.17-0.669-1.045-1.324-2.035-1.958-2.971-0.636 0.936-1.287 1.936-1.955 3-0.67 1.064-1.313 2.131-1.936 3.195-0.62 1.062-1.193 2.104-1.729 3.113-0.537 1.008-0.987 1.904-1.355 2.689l14 0.003z" fill="url(#path10_1_)"/>
-<radialGradient id="circle17_2_" gradientUnits="userSpaceOnUse" cy="1021" cx="1641" gradientTransform="translate(-1629 -1014)" r="7">
-	<stop style="stop-color:#fff" offset="0"/>
-	<stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
-</radialGradient>
-<path id="circle17_1_" d="m11.969 6c-0.634 0.936-1.27 1.936-1.938 3-0.67 1.064-1.317 2.123-1.938 3.188-0.087 0.15-0.165 0.289-0.25 0.438 1.166 0.864 2.595 1.374 4.157 1.374s2.991-0.51 4.156-1.375c-0.096-0.162-0.184-0.307-0.281-0.469-0.636-1.066-1.27-2.139-1.938-3.188-0.667-1.044-1.333-2.032-1.968-2.968z" fill="url(#circle17_2_)"/>
-</svg>
+user-away.svg

@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="audio-volume-low.svg">
   <metadata
      id="metadata11">
@@ -42,48 +42,35 @@
      inkscape:window-height="709"
      id="namedview7"
      showgrid="true"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="6.5580572"
-     inkscape:cy="12"
+     inkscape:zoom="13.906433"
+     inkscape:cx="10.951826"
+     inkscape:cy="10.153283"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid2988" />
+       id="grid2988"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
-  <rect
-     id="rect2384"
-     style="fill:#000000;fill-opacity:1;opacity:0.2"
-     rx="0"
-     ry="0"
-     height="15"
-     width="2"
-     y="4"
-     x="18" />
-  <rect
-     id="rect3158"
-     style="fill:#000000;fill-opacity:1;opacity:0.2"
-     rx="0"
-     ry="0"
-     height="11"
-     width="2"
-     y="6"
-     x="15" />
-  <rect
-     id="rect3162"
-     style="fill:#000000;fill-opacity:1;opacity:0.8"
-     rx="0"
-     ry="0"
-     height="5"
-     width="2"
-     y="9"
-     x="12" />
   <path
-     id="path2387"
-     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;opacity:0.8"
-     d="m 4,8 0,7 3,0 4,4 0,-15 -4,4 z"
+     style="opacity:0.8;fill:#000000;fill-opacity:1"
+     d="m 11,4 -4,4 -3,0 0,8 3,0 4,4 z m 1,5 0,6 2,0 0,-6 z"
+     id="rect2384"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+     sodipodi:nodetypes="cccccccccccc" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+     d="m 15,6 0,12 2,0 0,-12 z"
+     id="path2983"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+     d="m 18,4 0,16 2,0 0,-16 z"
+     id="path3753"
+     inkscape:connector-curvature="0" />
 </svg>

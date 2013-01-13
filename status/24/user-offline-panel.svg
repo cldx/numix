@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2816" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1">
- <path id="path2819" style="opacity:.4;fill:#878787" d="m9 17c-1.5278-0.031-4-1-4-4v-3c0-3 2.5-3.9167 4-4h7c1.5 0.11458 4 1 4 4v3c0 3-1.5139 4-3 4-2.3962-0.01417-0.51616 2.7243 0 4h-0.667l-4.333-4h-3z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="offline.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="11.355207"
+     inkscape:cy="12.671619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+       d="M 4 4 L 4 16 L 13 16 L 17 20 L 17 16 L 20 16 L 20 4 L 4 4 z M 8 6 L 10 6 L 12 8 L 14 6 L 16 6 L 16 8 L 14 10 L 16 12 L 16 14 L 14 14 L 12 12 L 10 14 L 8 14 L 8 12 L 10 10 L 8 8 L 8 6 z "
+       transform="translate(0,1028.3622)"
+       id="path2987" />
+  </g>
 </svg>
