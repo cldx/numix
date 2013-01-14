@@ -1,21 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
-<path id="path4697" inkscape:connector-curvature="0" opacity="0.3" fill="#FFFFFF" enable-background="new    " d="M16,15.334
-	C16,16.254,15.255,17,14.333,17H7.667C6.745,17,6,16.254,6,15.334V8.667C6,7.746,6.745,7,7.667,7h6.666C15.255,7,16,7.746,16,8.667
-	V15.334z"/>
-<linearGradient id="path4699_1_" gradientUnits="userSpaceOnUse" x1="1236" y1="-1002.4995" x2="1236" y2="-992.5" gradientTransform="matrix(1 0 0 -1 -1225 -986.5)">
-	<stop  offset="0" style="stop-color:#E13F2B"/>
-	<stop  offset="1" style="stop-color:#F47F78"/>
-</linearGradient>
-<path id="path4699" inkscape:connector-curvature="0" fill="url(#path4699_1_)" d="M16,14.334C16,15.254,15.255,16,14.333,16H7.667
-	C6.745,16,6,15.254,6,14.334V7.667C6,6.746,6.745,6,7.667,6h6.666C15.255,6,16,6.746,16,7.667V14.334z"/>
-<radialGradient id="path4701_1_" cx="1236" cy="-992.5" r="7" gradientTransform="matrix(1 0 0 -1 -1225 -986.5)" gradientUnits="userSpaceOnUse">
-	<stop  offset="0" style="stop-color:#FFFFFF"/>
-	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
-</radialGradient>
-<path id="path4701" inkscape:connector-curvature="0" fill="url(#path4701_1_)" d="M7.656,6C6.734,6,6,6.734,6,7.656v3.219
-	C7.271,12.178,9.036,13,11,13c1.965,0,3.729-0.822,5-2.125V7.656C16,6.734,15.266,6,14.344,6H7.656z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="empathy-busy.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="-1.0618365"
+     inkscape:cy="12.573516"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <path
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 3,1033.3622 0,12 9,0 4,4 0,-4 3,0 0,-12 -16,0 z m 5,3 6,0 0,6 -6,0 0,-6 z"
+       id="path2987"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
