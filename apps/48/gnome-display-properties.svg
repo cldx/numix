@@ -15,7 +15,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="gnome-display-properties.svg">
   <defs
      id="defs4">
@@ -262,14 +262,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.523418"
-     inkscape:cx="18.010365"
-     inkscape:cy="24.865636"
+     inkscape:zoom="6.761709"
+     inkscape:cx="33.768275"
+     inkscape:cy="17.980315"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -302,11 +302,6 @@
        x="0"
        y="1004.3622"
        ry="1.9445436" />
-    <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       transform="translate(0,1004.3622)"
-       id="rect3790" />
     <g
        id="g3829"
        transform="translate(3.7500109,-6.45)">
@@ -339,5 +334,10 @@
          d="m 9.050002,1027.2122 0,-2.4 2.399999,0"
          style="opacity:0.8;fill:none;stroke:#ffffff;stroke-width:1.59999931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>

@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="preferences-desktop-sound.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kcnmsound.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -875,10 +875,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -906,11 +906,6 @@
        y="-1052.3622"
        ry="1.9445436"
        transform="scale(1,-1)" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 5.3674317e-8,1004.3622 0,48 16.781249946325683,0 12.84375,-48 -29.624999946325683,0 z"
-       id="rect3790" />
     <g
        id="g3819"
        transform="matrix(1.4835796,0,0,1.4835796,-11.265143,-497.29498)">
@@ -952,5 +947,10 @@
          d="m 30.199299,1019.7087 c 4.779177,4.7792 4.779184,12.5278 3e-6,17.307 l 0,0 0,0"
          style="fill:none;stroke:#ffffff;stroke-width:1.17396235;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>

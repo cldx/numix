@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="gnome-nettool.svg">
   <defs
      id="defs4">
@@ -187,10 +187,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -217,11 +217,6 @@
        x="0"
        y="1004.3622"
        ry="1.9445436" />
-    <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       id="rect3790"
-       transform="translate(0,1004.3622)" />
     <g
        id="g3043"
        transform="matrix(1.3250518,0,0,1.3250518,-7.8012432,-334.27098)">
@@ -409,5 +404,10 @@
          d="m 20.594484,19.649437 c 0,0.256282 -0.207757,0.464039 -0.464039,0.464039 -0.256281,0 -0.464038,-0.207757 -0.464038,-0.464039 0,-0.256282 0.207757,-0.464039 0.464038,-0.464039 0.256282,0 0.464039,0.207757 0.464039,0.464039 z"
          transform="matrix(1.4938469,0,0,1.1468464,-8.3754198,999.50556)" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2.0000003,1004.3622 c -1.108,0 -2.0000003,0.892 -2.0000003,2 l 0,44 c 0,1.108 0.8920003,2 2.0000003,2 l 14.7812497,0 12.84375,-48 -27.6249997,0 z"
+       id="rect3790" />
   </g>
 </svg>

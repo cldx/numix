@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="guayadeque.svg">
   <defs
      id="defs4">
@@ -1275,16 +1275,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="48.587801"
-     inkscape:cy="12.274128"
+     inkscape:zoom="5.656854"
+     inkscape:cx="85.681175"
+     inkscape:cy="26.315762"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -1330,9 +1330,9 @@
        style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:nodetypes="ccccssssccscc" />
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       id="rect3790"
-       transform="translate(0,1004.3622)" />
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>

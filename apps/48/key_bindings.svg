@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="preferences-desktop-keyboard-shortcuts.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="key_bindings.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -247,10 +247,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -282,11 +282,6 @@
        y="-1052.3622"
        ry="1.9445436"
        transform="scale(1,-1)" />
-    <path
-       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 0,1004.3622 0,48 16.78125,0 12.84375,-48 -29.625,0 z"
-       id="rect3790"
-       inkscape:connector-curvature="0" />
     <g
        id="g3857"
        transform="matrix(1.0773032,0,0,1.0773032,1.1475699,-77.347869)">
@@ -301,5 +296,10 @@
          d="m 8.6697332,1011.5166 c -1.0772772,0 -1.9375,0.8915 -1.9375,1.9688 l 0,10.0625 c 0,1.0772 0.8602228,1.9375 1.9375,1.9375 l 11.9999998,0 c 1.077277,0 1.96875,-0.8603 1.96875,-1.9375 l 0,-10.0625 c 0,-1.0773 -0.891473,-1.9688 -1.96875,-1.9688 l -11.9999998,0 z m 9.1874998,3.2813 c 0.872392,0 1.549474,0.1784 2.03125,0.5625 0.48502,0.3841 0.749994,0.9381 0.75,1.625 -6e-6,0.3971 -0.107428,0.7486 -0.3125,1.0937 -0.205084,0.3418 -0.654953,0.8301 -1.3125,1.4063 l -1.53125,1.3437 3.1875,0 0,1.4063 -5.28125,0 0,-1.4063 2.65625,-2.3437 c 0.237626,-0.2149 0.417314,-0.4199 0.53125,-0.625 0.113928,-0.2051 0.156246,-0.4036 0.15625,-0.625 -4e-6,-0.3418 -0.112634,-0.6354 -0.34375,-0.8438 -0.227868,-0.2083 -0.525394,-0.3125 -0.90625,-0.3125 -0.292971,0 -0.620445,0.06 -0.96875,0.1875 -0.348309,0.1237 -0.727866,0.3151 -1.125,0.5625 l 0,-1.5937 c 0.423176,-0.1399 0.836587,-0.2409 1.25,-0.3125 0.413409,-0.075 0.821612,-0.125 1.21875,-0.125 z m -9.1874998,0.125 5.0624998,0 0,1.4375 -3.1875,0 0,1.3437 3,0 0,1.4375 -3,0 0,3.0938 -1.8749998,0 0,-7.3125 z"
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
+       id="rect3790" />
   </g>
 </svg>
