@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
+   width="16px"
+   height="16px"
    id="svg3051"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="dropboxstatus-x.svg">
+   sodipodi:docname="dropboxstatus-logo.svg">
   <defs
      id="defs3053" />
   <sodipodi:namedview
@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.696217"
+     inkscape:zoom="31.392433"
      inkscape:cx="7.6214255"
      inkscape:cy="8"
      inkscape:current-layer="layer1"
@@ -38,11 +38,7 @@
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid3846"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
+       id="grid3846" />
   </sodipodi:namedview>
   <metadata
      id="metadata3056">
@@ -52,24 +48,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     transform="translate(0,6)">
+     inkscape:groupmode="layer">
     <path
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-       d="M 8,-2 3,1 6,3 11,0 8,-2 z m 3,2 5,3 3,-2 -5,-3 -3,2 z M 16,3 11,6 6,3 3,5 6,7 6,9 11,12 12,11.40625 12,6 17.5,6 19,5 16,3 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+       d="M 5,1 0,4 3,6 8,3 z M 8,3 13,6 16,4 11,1 z M 13,6 8,9 3,6 0,8 l 3,2 0,2 5,3 5,-3 0,-2 3,-2 z"
        id="path3105"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.8;fill:#cc0000;fill-opacity:1;stroke:none"
-       d="m 19,13 -2,0 0,-1 -2,0 0,1 -2,0 0,-2 1,0 0,-2 -1,0 0,-2 2,0 0,1 2,0 0,-1 2,0 0,2 -1,0 0,2 1,0 0,2 z"
-       id="path2984"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
   </g>
 </svg>

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
+   width="16px"
+   height="16px"
    id="svg3051"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.696217"
+     inkscape:zoom="31.392433"
      inkscape:cx="7.6214255"
      inkscape:cy="8"
      inkscape:current-layer="layer1"
@@ -38,11 +38,7 @@
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid3846"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
+       id="grid3846" />
   </sodipodi:namedview>
   <metadata
      id="metadata3056">
@@ -52,23 +48,21 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     transform="translate(0,6)">
+     inkscape:groupmode="layer">
     <path
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-       d="M 8,-2 3,1 6,3 11,0 8,-2 z m 3,2 5,3 3,-2 -5,-3 -3,2 z M 16,3 11,6 6,3 3,5 6,7 6,9 11,12 12,11.40625 12,6 17.5,6 19,5 16,3 z"
-       id="path3105"
-       inkscape:connector-curvature="0" />
+       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+       d="M 5 1 L 0 4 L 3 6 L 8 3 L 5 1 z M 8 3 L 13 6 L 16 4 L 11 1 L 8 3 z M 13 6 L 8 9 L 3 6 L 0 8 L 3 10 L 3 12 L 8 15 L 9 14.40625 L 9 9 L 14.5 9 L 16 8 L 13 6 z "
+       id="path3105" />
     <path
-       style="opacity:0.8;fill:#cc0000;fill-opacity:1;stroke:none"
-       d="m 19,13 -2,0 0,-1 -2,0 0,1 -2,0 0,-2 1,0 0,-2 -1,0 0,-2 2,0 0,1 2,0 0,-1 2,0 0,2 -1,0 0,2 1,0 0,2 z"
+       style="fill:#cc0000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.80000000000000004"
+       d="m 16,16 -2,0 0,-1 -2,0 0,1 -2,0 0,-2 1,0 0,-2 -1,0 0,-2 2,0 0,1 2,0 0,-1 2,0 0,2 -1,0 0,2 1,0 0,2 z"
        id="path2984"
        inkscape:connector-curvature="0" />
   </g>
