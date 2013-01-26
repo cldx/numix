@@ -14,7 +14,7 @@
    height="24"
    width="24"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="button_cancel.svg">
   <metadata
      id="metadata19">
@@ -143,7 +143,7 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 17,19 -5,-5 -5,5 -2,0 0,-2 5,-5 -5,-5 0,-2 2,0 5,5 5,-5 2,0 0,2 -5,5 5,5 0,2 z"
+     d="m 16,18 -4,-4 -4,4 -2,0 0,-2 4,-4 -4,-4 0,-2 2,0 4,4 4,-4 2,0 0,2 -4,4 4,4 0,2 z"
      id="path2997"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccc" />

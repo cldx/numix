@@ -14,7 +14,7 @@
    width="24"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gpm-battery-040.svg">
+   sodipodi:docname="gpm-battery-empty.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,7 +44,7 @@
      showgrid="true"
      inkscape:zoom="20.85965"
      inkscape:cx="7.5107336"
-     inkscape:cy="7.9359456"
+     inkscape:cy="11.771101"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -58,7 +58,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.80000000000000004;color:#000000;fill:#a40000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.80000000000000004;color:#000000;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 9,4 9,6 7.5,6 7,6 l 0,0.5 0,13 0,0.5 0.5,0 9,0 0.5,0 0,-0.5 0,-13 L 17,6 16.5,6 15,6 15,4 13.5,4 10.5,4 9,4 z m 1,1 4,0 0,1 -4,0 0,-1 z M 8,7 16,7 16,19 8,19 8,7 z"
      id="rect2388"
      inkscape:connector-curvature="0" />

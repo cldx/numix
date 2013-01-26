@@ -14,7 +14,7 @@
    height="22"
    width="22"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="button_cancel.svg">
   <metadata
      id="metadata19">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -143,7 +143,7 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 16,18 11,13 6,18 4,18 4,16 9,11 4,6 4,4 l 2,0 5,5 5,-5 2,0 0,2 -5,5 5,5 0,2 z"
+     d="M 15,17 11,13 7,17 5,17 5,15 9,11 5,7 5,5 l 2,0 4,4 4,-4 2,0 0,2 -4,4 4,4 0,2 z"
      id="path2997"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccc" />

@@ -1,8 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2160" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.0">
- <path id="path3367" style="stroke-linejoin:round;stroke:#606060;stroke-linecap:round;stroke-width:1.5;fill:none" d="m7.7953 15.258 3.4457-3.699-6.4763-6.559m-1e-7 6l6.4763-6.5588-3.491-3.6124"/>
- <path id="path3590" style="stroke:#606060;stroke-linecap:round;stroke-width:1px;fill:none" d="m7.5075 0.87489 0.0882 14.156"/>
- <rect id="rect2822" style="fill:#606060" height="5" width="6" y="3" x="0"/>
- <path id="path3596" style="stroke:#606060;stroke-width:1px;fill:none" d="m1.5294 3v-0.94118c0-2 3-2 3 0v0.94118"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2160"
+   height="24"
+   width="24"
+   version="1.0"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bluetooth-paired.svg">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview5"
+     showgrid="true"
+     inkscape:zoom="19.666667"
+     inkscape:cx="17.239669"
+     inkscape:cy="11.402205"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2160">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2986"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 11 4 L 11 9.40625 L 8 7 L 7 7 L 7 9 L 11 11.875 L 11 12.125 L 7 15 L 7 17 L 8 17 L 11 14.59375 L 11 20 L 12 20 L 14 18.34375 L 14 16 L 13 17 L 13 13.4375 L 15 15 L 15 13 L 15.5 13 L 14.25 12 L 18 9 L 12 4 L 11 4 z M 13 7 L 15 9 L 13 10.5625 L 13 7 z "
+     id="path2988" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+     d="M 16 14 L 16 15.9375 L 15 15.9375 L 15 20 L 20 20 L 20 15.9375 L 19 15.9375 L 19 14 L 16 14 z M 17 15 L 18 15 L 18 15.9375 L 17 15.9375 L 17 15 z "
+     id="path3835" />
 </svg>

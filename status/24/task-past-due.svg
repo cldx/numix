@@ -40,9 +40,9 @@
      inkscape:window-height="709"
      id="namedview29"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="13.813244"
-     inkscape:cy="12.072456"
+     inkscape:zoom="9.8333335"
+     inkscape:cx="17.083586"
+     inkscape:cy="4.9722282"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -157,6 +157,13 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 7 5 C 5.892 5 5 5.892 5 7 L 5 17 C 5 18.108 5.892 19 7 19 L 10 19 L 17 19 C 18.108 19 19 18.108 19 17 L 19 7 C 19 5.892 18.108 5 17 5 L 14 5 L 7 5 z M 8 7 L 13 7 L 16 7 C 16 7 17 6.892 17 8 L 17 13.5625 C 17.05298 13.87507 17.06109 14.200774 17 14.5 L 17 16 C 17 16 17.108 17 16 17 L 12.46875 17 L 11 17 L 8 17 C 8 17 7 17.108 7 16 L 7 10.4375 C 6.947017 10.12493 6.9389098 9.799226 7 9.5 L 7 8 C 7 8 6.892 7 8 7 z M 8 8 L 8 10 L 10 12 L 8 14 L 8 16 L 10 16 L 12 14 L 14 16 L 16 16 L 16 14 L 14 12 L 16 10 L 16 8 L 14 8 L 12 10 L 10 8 L 8 8 z "
-     id="rect3795" />
+     d="m 10,4 0,1 -4,0 0,14 7,0 0,-2 -1,0 0,-4 -4,0 0,-6 1,0 0,1 6,0 0,-1 1,0 0,6 1,0 1,0 0,-2 0,-6 -3.9375,0 0,-1 z m -2,10 3,0 0,3 z"
+     id="rect3005"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+     d="m 14,20 0,-2 1,0 0,-2 -1,0 0,-2 2,0 0,1 2,0 0,-1 2,0 0,2 -1,0 0,2 1,0 0,2 -2,0 0,-1 -2,0 0,1 z"
+     id="path3795"
+     inkscape:connector-curvature="0" />
 </svg>

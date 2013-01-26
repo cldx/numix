@@ -39,9 +39,9 @@
      inkscape:window-height="709"
      id="namedview29"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="13.813244"
-     inkscape:cy="12.072456"
+     inkscape:zoom="27.812867"
+     inkscape:cx="11.79469"
+     inkscape:cy="13.149059"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -156,24 +156,16 @@
   </defs>
   <path
      style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 7,5 C 5.892,5 5,5.892 5,7 l 0,10 c 0,1.108 0.892,2 2,2 l 10,0 0,-2 -1,0 -3.3125,0 -0.21875,0 L 8,17 C 8,17 7,17.108 7,16 L 7,10.4375 C 6.947017,10.12493 6.9389098,9.799226 7,9.5 L 7,8 C 7,8 6.892,7 8,7 l 5,0 1,-2 z"
-     id="rect3795"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssccccccscccsccs" />
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
-     d="m 17.966102,12.016949 0,5 2,0 0,-5 z"
+     d="m 18,12 0,5 2,0 0,-5 z"
      id="path3800"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
-     d="m 17.966102,18.016949 0,2 2,0 0,-2 z"
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 18,18 0,2 2,0 0,-2 z"
      id="path3802"
      inkscape:connector-curvature="0" />
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 17.75283,4.0216903 17,4 13,12 11,9 8,9 l 0,2 3,5 4,0 4,-8 0,-4 z"
-     id="path3078"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccc" />
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 10 4 L 10 5 L 6 5 L 6 19 L 17 19 L 17 11 L 18 11 L 18 5 L 14.0625 5 L 14.0625 4 L 10 4 z M 8 7 L 9 7 L 9 8 L 15 8 L 15 7 L 16 7 L 16 17 L 12 17 L 12 13 L 8 13 L 8 7 z M 8 14 L 11 14 L 11 17 L 8 14 z "
+     id="rect3005" />
 </svg>
