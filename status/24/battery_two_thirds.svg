@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.0"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="battery_two_thirds.svg">
   <metadata
      id="metadata10">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,7 +63,7 @@
      id="rect2388"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1"
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
      d="m 9,18 0,-6 6,0 0,6 z"
      id="rect3162"
      inkscape:connector-curvature="0"

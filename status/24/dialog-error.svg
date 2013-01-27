@@ -13,7 +13,7 @@
    height="24"
    width="24"
    version="1.0"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="dialog-error.svg">
   <metadata
      id="metadata26">
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,7 +49,11 @@
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
-       id="grid3003" />
+       id="grid3003"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -57,7 +62,7 @@
        gradientUnits="userSpaceOnUse"
        cy="4.625"
        cx="62.625"
-       gradientTransform="matrix(1.1294 0 0 .28235 -58.729 19.694)"
+       gradientTransform="matrix(1.1294,0,0,0.28235,-58.729,19.694)"
        r="10.625">
       <stop
          id="stop8840"
@@ -72,7 +77,7 @@
        y2="3.0816"
        gradientUnits="userSpaceOnUse"
        x2="18.379"
-       gradientTransform="matrix(.51604 0 0 .51604 -.38499 -.38499)"
+       gradientTransform="matrix(0.51604,0,0,0.51604,-0.38499,-0.38499)"
        y1="44.98"
        x1="18.379">
       <stop
@@ -89,8 +94,8 @@
        gradientUnits="userSpaceOnUse"
        cy="3.99"
        cx="23.896"
-       gradientTransform="matrix(0 1.2316 -1.6257 0 18.487 -28.721)"
-       r="20.397">
+       gradientTransform="matrix(0,1.2316,-1.6257,0,18.487,-28.721)"
+       r="20.396999">
       <stop
          id="stop3244"
          style="stop-color:#f8b17e"
@@ -110,12 +115,12 @@
     </radialGradient>
     <linearGradient
        id="linearGradient2491"
-       y2="5.4676"
+       y2="5.4675999"
        gradientUnits="userSpaceOnUse"
-       x2="63.397"
-       gradientTransform="matrix(1.0863 0 0 1.0862 -55.567 15.814)"
+       x2="63.396999"
+       gradientTransform="matrix(1.0863,0,0,1.0862,-55.567,15.814)"
        y1="-12.489"
-       x1="63.397">
+       x1="63.396999">
       <stop
          id="stop4875"
          style="stop-color:#fff"
@@ -127,7 +132,8 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.80000000000000004;fill:#ff0000;fill-opacity:1;stroke:none"
-     d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 18 C 4 19.108 4.892 20 6 20 L 18 20 C 19.108 20 20 19.108 20 18 L 20 6 C 20 4.892 19.108 4 18 4 L 6 4 z M 7 11 L 17 11 L 17 13 L 7 13 L 7 11 z "
-     id="rect3005" />
+     style="opacity:0.8;fill:#ff0000;fill-opacity:1;stroke:none"
+     d="m 12,4 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z m -5,7 10,0 0,2 -10,0 0,-2 z"
+     id="path2997"
+     inkscape:connector-curvature="0" />
 </svg>

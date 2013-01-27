@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,89 +9,61 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
    version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   width="16px"
-   height="16px"
-   viewBox="0 0 16 16"
-   enable-background="new 0 0 16 16"
-   xml:space="preserve"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="user-offline-mono-light.svg"><metadata
-   id="metadata3341"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs3339" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="949"
-   inkscape:window-height="796"
-   id="namedview3337"
-   showgrid="false"
-   inkscape:zoom="14.75"
-   inkscape:cx="5.2238701"
-   inkscape:cy="8"
-   inkscape:window-x="440"
-   inkscape:window-y="194"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
-<path
-   id="path3791"
-   connector-curvature="0"
-   opacity="0.3"
-   fill="#FFFFFF"
-   enable-background="new    "
-   d="M13.167,12.039  l-3.056-3.046l3.051-3.04C12.65,5.088,11.93,4.364,11.064,3.85L8.009,6.896L4.946,3.841c-0.872,0.519-1.6,1.248-2.114,2.121  L5.889,9.01L2.84,12.05c0.512,0.864,1.234,1.587,2.097,2.103l3.055-3.045l3.061,3.051C11.924,13.643,12.652,12.912,13.167,12.039z" />
-<linearGradient
-   id="path310_1_"
-   gradientUnits="userSpaceOnUse"
-   x1="416"
-   y1="-208.4995"
-   x2="416"
-   y2="-196.4995"
-   gradientTransform="matrix(1 0 0 -1 -408 -194.5)">
-	<stop
-   offset="0"
-   style="stop-color:#413f3b;stop-opacity:1;"
-   id="stop3324" />
-	
-	<stop
-   offset="1"
-   style="stop-color:#58564d;stop-opacity:1;"
-   id="stop3328" />
-</linearGradient>
-<path
-   id="path310"
-   connector-curvature="0"
-   fill="url(#path310_1_)"
-   d="M13.167,11.039l-3.056-3.046l3.051-3.04  C12.65,4.088,11.93,3.364,11.064,2.85L8.009,5.896L4.946,2.841c-0.872,0.519-1.6,1.248-2.114,2.121L5.889,8.01L2.84,11.05  c0.512,0.864,1.234,1.587,2.097,2.103l3.055-3.045l3.061,3.051C11.924,12.643,12.652,11.912,13.167,11.039z" />
-<radialGradient
-   id="path3304_1_"
-   cx="299.9697"
-   cy="-165.8247"
-   r="5.0518"
-   gradientTransform="matrix(1.1879 0 0 -1.1879 -348.3324 -192.9854)"
-   gradientUnits="userSpaceOnUse">
-	<stop
-   offset="0"
-   style="stop-color:#FFFFFF"
-   id="stop3332" />
-	<stop
-   offset="1"
-   style="stop-color:#FFFFFF;stop-opacity:0"
-   id="stop3334" />
-</radialGradient>
-<path
-   id="path3304"
-   connector-curvature="0"
-   fill="url(#path3304_1_)"
-   d="M4.938,2.844  c-0.872,0.518-1.58,1.252-2.094,2.125L5.875,8L4.812,9.062C5.738,9.646,6.824,10,8,10s2.262-0.354,3.188-0.938L10.125,8l3.031-3.062  c-0.512-0.865-1.229-1.578-2.094-2.094L8,5.906L4.938,2.844z" />
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="user-offline.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="4.3946247"
+     inkscape:cy="15.197"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <path
+       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 0,1036.3622 0,12 9,0 4,4 0,-4 3,0 0,-12 -16,0 z m 4,2 2,0 0,1 1,0 0,1 2,0 0,-1 1,0 0,-1 2,0 0,2 -1,0 0,1 -1,0 0,2 1,0 0,1 1,0 0,2 -2,0 0,-1 -1,0 0,-1 -2,0 0,1 -1,0 0,1 -2,0 0,-2 1,0 0,-1 1,0 0,-2 -1,0 0,-1 -1,0 0,-2 z"
+       id="path2987"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
