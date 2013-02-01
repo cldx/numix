@@ -15,7 +15,7 @@
    width="32"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="application-blank.svg">
+   sodipodi:docname="application-atom+xml.svg">
   <metadata
      id="metadata62">
     <rdf:RDF>
@@ -41,9 +41,9 @@
      inkscape:window-height="709"
      id="namedview60"
      showgrid="true"
-     inkscape:zoom="15.999999"
-     inkscape:cx="12.377131"
-     inkscape:cy="17.242981"
+     inkscape:zoom="22.627416"
+     inkscape:cx="19.349691"
+     inkscape:cy="17.253801"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -420,28 +420,4 @@
        d="m 32.181819,-12.000025 0,5.3333367 6.818181,0 0,-5.3333367 L 33.375,-12 z"
        style="fill:url(#linearGradient3041);fill-opacity:1;stroke:none" />
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#b3578c;fill-opacity:1;stroke:none"
-     d="m 9,21 0,3 14,0 0,-3 z m 2,1 2,0 0,1 -2,0 z"
-     id="rect4216-6"
-     sodipodi:nodetypes="cccccccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#b3578c;fill-opacity:1;stroke:none"
-     d="m 9,17 0,3 14,0 0,-3 z m 2,1 2,0 0,1 -2,0 z"
-     id="rect4216-9"
-     sodipodi:nodetypes="cccccccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#b3578c;fill-opacity:1;stroke:none"
-     d="m 9,13 0,3 14,0 0,-3 z m 2,1 2,0 0,1 -2,0 z"
-     id="rect4216-2"
-     sodipodi:nodetypes="cccccccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#b3578c;fill-opacity:1;stroke:none"
-     d="m 9,9 0,3 14,0 0,-3 z m 2,1 2,0 0,1 -2,0 z"
-     id="rect4216-7"
-     sodipodi:nodetypes="cccccccccc" />
 </svg>

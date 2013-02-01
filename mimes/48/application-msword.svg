@@ -14,8 +14,8 @@
    height="48"
    width="48"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="application-blank.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="application-msword.svg">
   <metadata
      id="metadata62">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,13 +37,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
+     inkscape:window-width="1280"
      inkscape:window-height="709"
      id="namedview60"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="18.090649"
-     inkscape:cy="20.348899"
+     inkscape:zoom="16"
+     inkscape:cx="20.646871"
+     inkscape:cy="20.538783"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -334,16 +334,10 @@
      id="path3814"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc" />
-  <text
-     xml:space="preserve"
-     style="font-size:20.65262985000000029px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.80000000000000004;fill:#204a87;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-     x="17.339924"
-     y="29.258448"
-     id="text3900"
-     sodipodi:linespacing="125%"
-     transform="scale(0.83643594,1.1955488)"><tspan
-       sodipodi:role="line"
-       id="tspan3902"
-       x="17.339924"
-       y="29.258448">W</tspan></text>
+  <path
+     style="fill:#3465a4;stroke:none"
+     d="m 15,33 7,0 2,-2 2,2 7,0 0,-17 -4,0 0,13 -3,0 0,-12 -4,0 0,12 -3,0 0,-13 -4,0 z"
+     id="path3809"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccc" />
 </svg>
