@@ -13,8 +13,8 @@
    height="16"
    width="16"
    version="1.0"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="battery-low.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="battery-caution.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,12 +64,12 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.80000000000000004;fill:#cc0000;fill-opacity:1;stroke:none"
      d="m 12,16 0,-2 2,0 0,2 z"
      id="path3876"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.80000000000000004;fill:#cc0000;fill-opacity:1;stroke:none"
      d="m 12,13 0,-5.9999996 2,0 L 14,13 z"
      id="path3876-5"
      inkscape:connector-curvature="0" />
