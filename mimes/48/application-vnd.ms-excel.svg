@@ -14,7 +14,7 @@
    height="48"
    width="48"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="application-vnd.ms-excel.svg">
   <metadata
      id="metadata62">
@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-height="709"
      id="namedview60"
      showgrid="true"
      inkscape:zoom="8"
-     inkscape:cx="12.096896"
+     inkscape:cx="-3.965604"
      inkscape:cy="27.703155"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3508">
     <inkscape:grid
@@ -336,7 +336,7 @@
      sodipodi:nodetypes="cccccc" />
   <path
      style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="m 13.962382,18 0,0.5 0,16 0,0.5 0.470219,0 19.059562,0 0.470219,0 0,-0.5 0,-16 0,-0.5 -0.470219,0 -19.059562,0 z m 2.00627,2 L 26,20 l 0,5 -10.031348,0 z m 12.037617,0 4.012539,0 0,5 -4.012539,0 z M 15.968652,26 26,26 l 0,5 -10.031348,0 z m 12.037617,0 4.012539,0 0,5 -4.012539,0 z M 15.968652,32 26,32 l 0,1 -10.031348,0 z m 12.037617,0 4.012539,0 0,1 -4.012539,0 z"
+     d="m 13.962382,16 0,0.5 0,16 0,0.5 0.470219,0 19.059562,0 0.470219,0 0,-0.5 0,-16 0,-0.5 -0.470219,0 -19.059562,0 z m 2.00627,2 L 26,18 l 0,5 -10.031348,0 z m 12.037617,0 4.012539,0 0,5 -4.012539,0 z M 15.968652,24 26,24 l 0,5 -10.031348,0 z m 12.037617,0 4.012539,0 0,5 -4.012539,0 z M 15.968652,30 26,30 l 0,1 -10.031348,0 z m 12.037617,0 4.012539,0 0,1 -4.012539,0 z"
      id="rect39506"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc" />

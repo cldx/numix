@@ -15,7 +15,7 @@
    width="48"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="application-blank.svg">
+   sodipodi:docname="application-template-blank.svg">
   <metadata
      id="metadata62">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,8 +42,8 @@
      id="namedview60"
      showgrid="true"
      inkscape:zoom="11.313709"
-     inkscape:cx="17.78182"
-     inkscape:cy="20.895645"
+     inkscape:cx="16.852857"
+     inkscape:cy="22.98756"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -65,7 +65,7 @@
          offset="0.5"
          style="stop-color:#729fcf;stop-opacity:1;" />
       <stop
-         style="stop-color:#6689af;stop-opacity:1;"
+         style="stop-color:#6f96bf;stop-opacity:1;"
          offset="1"
          id="stop3806" />
     </linearGradient>
@@ -391,4 +391,53 @@
      height="35.9375"
      x="35.875"
      y="9.0625" />
+  <rect
+     style="opacity:0.14999999999999999;fill:#eeeeec;fill-opacity:1;stroke:none"
+     id="rect3813"
+     width="30"
+     height="1"
+     x="9"
+     y="13" />
+  <rect
+     style="opacity:0.15;fill:#eeeeec;fill-opacity:1;stroke:none"
+     id="rect3815"
+     width="30"
+     height="1"
+     x="9"
+     y="18" />
+  <rect
+     style="opacity:0.15;fill:#eeeeec;fill-opacity:1;stroke:none"
+     id="rect3817"
+     width="30"
+     height="1"
+     x="9"
+     y="23" />
+  <rect
+     style="opacity:0.15;fill:#eeeeec;fill-opacity:1;stroke:none"
+     id="rect3819"
+     width="30"
+     height="1"
+     x="9"
+     y="28" />
+  <rect
+     style="opacity:0.15;fill:#eeeeec;fill-opacity:1;stroke:none"
+     id="rect3821"
+     width="30"
+     height="1"
+     x="9"
+     y="33" />
+  <rect
+     style="opacity:0.15;fill:#eeeeec;fill-opacity:1;stroke:none"
+     id="rect3823"
+     width="30"
+     height="1"
+     x="9"
+     y="38" />
+  <rect
+     style="opacity:0.15;fill:#eeeeec;fill-opacity:1;stroke:none"
+     id="rect3825"
+     width="23"
+     height="1"
+     x="9"
+     y="8" />
 </svg>
