@@ -14,7 +14,7 @@
    height="48"
    width="48"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="address-book-new.svg">
   <metadata
      id="metadata62">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,13 +37,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-width="1280"
+     inkscape:window-height="709"
      id="namedview60"
      showgrid="true"
-     inkscape:zoom="8.3112669"
-     inkscape:cx="15.675971"
-     inkscape:cy="40.205997"
+     inkscape:zoom="5.8769532"
+     inkscape:cx="8.4045104"
+     inkscape:cy="6.2463715"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -287,15 +287,12 @@
     </linearGradient>
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 23.1875,18 C 22.511132,18.143957 21.984919,18.808646 22,19.5 l 0,3.5 -3.5,0 c -0.785377,7.8e-5 -1.499921,0.714623 -1.5,1.5 l 0,3 c 7.9e-5,0.785377 0.714623,1.499921 1.5,1.5 l 3.5,0 0,3.5 c 7.9e-5,0.785377 0.714623,1.499921 1.5,1.5 l 3,0 c 0.785377,-7.9e-5 1.499921,-0.714623 1.5,-1.5 l 0,-3.5 3.5,0 c 0.785377,-7.9e-5 1.499921,-0.714623 1.5,-1.5 l 0,-3 c -7.9e-5,-0.785377 -0.714623,-1.499922 -1.5,-1.5 l -3.5,0 0,-3.5 c -7.9e-5,-0.785377 -0.714623,-1.499921 -1.5,-1.5 l -3,0 c -0.103788,-0.01087 -0.208712,-0.01087 -0.3125,0 z"
-     id="path2262"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccc" />
-  <path
      style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="m 11.000366,3.96454 c -1.9999998,0 -1.9999998,2 -1.9999998,2 l 0,3.4375 c -9.766e-4,0.03124 -9.766e-4,0.06251 0,0.09375 L 9,40 c 0,2 3.214624,3.999921 4,4 l 24.500366,0.03546 c 0.785377,-7.9e-5 1.499921,-0.714623 1.5,-1.5 l 0,-33.03967 c -7.9e-5,-0.7853767 -0.714623,-1.4999215 -1.5,-1.5 C 32.14488,7.96454 15,8 15,8 L 12.992662,6.96454 C 13,6 13.555162,6.011415 13.836412,5.96454 l 0.15625,0 21.007704,0 c 1,0 1,-2 0,-2 z m 3.9375,7.03125 21.0625,0 0,30.03967 -21.0625,0 z"
-     id="rect3028"
+     d="M 11 3.96875 C 9.0000002 3.96875 9 5.96875 9 5.96875 L 9 9.40625 C 8.9990234 9.43749 8.9990234 9.46876 9 9.5 L 9 40 C 9 42 12.214624 43.999921 13 44 L 32 44.03125 L 32 41.03125 L 14.9375 41.03125 L 14.9375 11 L 36 11 L 36 24 L 39 24 L 39 9.5 C 38.999921 8.7146233 38.285377 8.0000785 37.5 8 C 32.144514 7.96875 15 8 15 8 L 13 6.96875 C 13.007338 6.00421 13.5625 6.015625 13.84375 5.96875 L 14 5.96875 L 35 5.96875 C 36 5.96875 36 3.96875 35 3.96875 L 11 3.96875 z "
+     id="rect3028" />
+  <path
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="scccccccccccccsssccccc" />
+     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 34,26 0,7 -7,0 0,4 7,0 0,7 4,0 0,-7 7,0 0,-4 -7,0 0,-7 -4,0 z"
+     id="path3801" />
 </svg>
