@@ -14,7 +14,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="mail.svg">
   <metadata
      id="metadata57">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-width="1280"
+     inkscape:window-height="711"
      id="namedview55"
      showgrid="true"
      inkscape:zoom="19.666667"
      inkscape:cx="5.8877668"
      inkscape:cy="11.360192"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2511">
     <inkscape:grid
@@ -229,8 +229,9 @@
     </linearGradient>
   </defs>
   <path
-     style="fill:#000000;fill-opacity:1;stroke:none"
-     d="M 0,2 0,14 16,14 16,2 0,2 z M 3,4 13,4 8,9 3,4 z m -1,1 6,6 6,-6 0,7 -12,0 0,-7 z"
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+     d="m 0,2 0,12 16,0 0,-12 z m 4,2 8,0 -4,4 z m -2,1 5,5 2,0 5,-5 0,7 -12,0 z"
      id="path3015"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccc" />
 </svg>
