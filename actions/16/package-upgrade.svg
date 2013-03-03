@@ -61,7 +61,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
        d="m 14,1051.3622 0,-1 1,0 0,-12 -1,0 0,-1 -12,0 0,1 -1,0 0,12 1,0 0,1 12,0 z m -4,-3 -4,0 0,-4 -2,0 4,-4 4,4 -2,0 0,4 z"
        id="path4027"
        inkscape:connector-curvature="0" />

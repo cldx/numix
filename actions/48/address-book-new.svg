@@ -287,12 +287,12 @@
     </linearGradient>
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#2D2D2D;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 11 3.96875 C 9.0000002 3.96875 9 5.96875 9 5.96875 L 9 9.40625 C 8.9990234 9.43749 8.9990234 9.46876 9 9.5 L 9 40 C 9 42 12.214624 43.999921 13 44 L 32 44.03125 L 32 41.03125 L 14.9375 41.03125 L 14.9375 11 L 36 11 L 36 24 L 39 24 L 39 9.5 C 38.999921 8.7146233 38.285377 8.0000785 37.5 8 C 32.144514 7.96875 15 8 15 8 L 13 6.96875 C 13.007338 6.00421 13.5625 6.015625 13.84375 5.96875 L 14 5.96875 L 35 5.96875 C 36 5.96875 36 3.96875 35 3.96875 L 11 3.96875 z "
      id="rect3028" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="m 34,26 0,7 -7,0 0,4 7,0 0,7 4,0 0,-7 7,0 0,-4 -7,0 0,-7 -4,0 z"
      id="path3801" />
 </svg>

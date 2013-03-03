@@ -448,7 +448,7 @@
      transform="translate(0,-1004.3622)">
     <path
        sodipodi:type="arc"
-       style="opacity:0.8;fill:none;stroke:#000000;stroke-width:3.95768571;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:1.0;fill:none;stroke:#000000;stroke-width:3.95768571;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3035"
        sodipodi:cx="25.02627"
        sodipodi:cy="25.380102"
@@ -459,7 +459,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path3536-8-7"
-       style="opacity:0.8;fill:#000000;fill-opacity:1"
+       style="opacity:1.0;fill:#2D2D2D;fill-opacity:1"
        d="m 77.798835,1020.121 c 0.226737,0.624 0.482069,1.1294 1.026101,0.4382 0.674079,-0.4059 2.93259,-2.1848 2.706535,-0.4423 -0.723104,3.2242 -1.603495,6.4148 -2.276894,9.6486 -0.703359,1.7712 0.894688,3.3732 2.563548,2.221 1.773718,-0.7398 3.300272,-1.9447 4.859508,-3.05 -0.212439,-0.528 -0.354744,-1.2864 -0.942352,-0.5959 -0.772128,0.3545 -2.45801,2.0256 -2.771218,0.6472 0.648206,-3.4916 1.849975,-6.8537 2.618019,-10.3164 0.706763,-1.5929 -0.447344,-3.6048 -2.175442,-2.2876 -2.069903,0.9122 -3.800725,2.4021 -5.607805,3.7372 z m 7.681794,-11.7422 c -2.112118,-0.1131 -3.215841,3.3312 -1.20926,4.2734 1.628007,0.6754 3.401043,-1.0135 3.003403,-2.7017 -0.123241,-0.8791 -0.90354,-1.6011 -1.794143,-1.5717 z" />
     <g
        id="g3831"
@@ -468,7 +468,7 @@
          id="path3056"
          transform="translate(0,1004.3622)"
          d="m 21,20 0,2 1,0 0,9.982379 -2,0 0,2 8,0 0,-2 -2,0 L 26,20 22,20 z"
-         style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+         style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccc" />
       <path
@@ -479,7 +479,7 @@
          sodipodi:cy="16"
          sodipodi:cx="24"
          id="path3829"
-         style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+         style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
     </g>
   </g>

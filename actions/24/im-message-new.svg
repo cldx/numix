@@ -125,7 +125,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="M 4 5 L 4 17 L 6 17 L 6 20 L 9 17 L 13 17 L 13 15 L 15 15 L 15 13 L 19 13 L 19 5 L 4 5 z M 16 14 L 16 16 L 14 16 L 14 18 L 16 18 L 16 20 L 18 20 L 18 18 L 20 18 L 20 16 L 18 16 L 18 14 L 16 14 z "
      id="path3003" />
 </svg>

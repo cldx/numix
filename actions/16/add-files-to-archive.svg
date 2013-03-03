@@ -294,7 +294,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="M 4,1 1,5 7,5 7,1 4,1 z M 9,1 9,5 15,5 12,1 9,1 z m -8,5 0,9 8,0 0,-4 2,0 0,-2 4,0 0,-3 -14,0 z m 11,4 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 -2,0 z"
      id="path3049"
      inkscape:connector-curvature="0" />

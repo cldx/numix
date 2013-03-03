@@ -560,7 +560,7 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 25.545928,1026.8163 c -5.27207,-5.2721 -13.819769,-5.2721 -19.0918562,0 -5.2720877,5.272 -5.2720711,13.8198 0,19.0919 5.2720712,5.272 13.8197692,5.272 19.0918562,0 5.272088,-5.2721 5.272072,-13.8199 0,-19.0919 z m -2.57998,2.58 c 3.405308,3.4053 3.784022,8.6774 1.160991,12.5129 l -13.641648,-13.6416 -2.5799803,2.5799 13.6416483,13.6416 c -3.835487,2.6231 -9.107599,2.2444 -12.5129073,-1.161 -3.8471863,-3.8471 -3.8471636,-10.0847 0,-13.9318 3.8471643,-3.8472 10.0847103,-3.8472 13.9318963,0 z"
        id="path3086"
        inkscape:connector-curvature="0" />

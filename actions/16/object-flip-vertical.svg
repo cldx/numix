@@ -129,7 +129,7 @@
     </radialGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="m 3,11 5,5 2,-2 3,-3 -4,0 0,-6 4,3e-7 L 8,10e-8 3.0000001,5 7,5.0000001 7,11 z"
      id="path2997"
      inkscape:connector-curvature="0"

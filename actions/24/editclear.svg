@@ -140,13 +140,13 @@
     </linearGradient>
   </defs>
   <path
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+     style="fill:#2D2D2D;fill-opacity:1;stroke:none;opacity:1.0"
      d="m 10,6 -6,6 6,6 10,0 0,-12 z m 1,2 7,0 0,8 -7,0 -4,-4 z"
      id="path2998"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccc" />
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="m 11,9 0,2 1,0 0,2 -1,0 0,2 2,0 0,-1 2,0 0,1 2,0 0.07395,-2 L 16,13 16.073946,11 17,11 l 0,-2 -2,0 0,1 -2,0 0,-1 z"
      id="path3771"
      inkscape:connector-curvature="0"

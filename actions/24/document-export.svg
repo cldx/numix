@@ -294,13 +294,13 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="m 6,4 0,16 12,0 0,-5 -2,2 0,1 -8,0 0,-12 6,0 0,1 2,0 0,0 2,2 0,-3 -3,-2 z"
      id="path3027"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccccc" />
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="m 20,12 -4,-4 -2,0 0,2 2,2 -2,2 0,2 2,0 z"
      id="path3800"
      inkscape:connector-curvature="0"

@@ -111,7 +111,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="M 1,1 1,15 8,8 1,1 z M 8,8 8,15 15,8 8,1 8,8 z"
      id="path2997"
      inkscape:connector-curvature="0" />

@@ -100,7 +100,7 @@
        gradientTransform="matrix(0.422778,0,0,0.4134825,1.9129004,2.2343973)" />
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="m 11,4 -7,9 14,0 -7,-9 z m -7,11 0,3 14,0 0,-3 -14,0 z"
      id="path2993"
      inkscape:connector-curvature="0" />

@@ -234,7 +234,7 @@
        x1="30" />
   </defs>
   <path
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+     style="fill:#2D2D2D;fill-opacity:1;stroke:none;opacity:1.0"
      d="M 5 4 L 5 15 L 13 20 L 13 9 L 8.1875 6 L 17 6 L 17 15 L 19 15 L 19 4 L 5 4 z "
      id="path3014" />
 </svg>

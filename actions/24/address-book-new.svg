@@ -292,13 +292,13 @@
     </linearGradient>
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#2D2D2D;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 4.96875,4 5,18 6.875,19.96875 C 9.239595,19.974199 12.635407,19.992455 15,20 l 0,-1 -2,0 0,-3 -0.65625,0 L 9,16 l 0,-1 2,-1 -1,-1 0,-2 c 0,0 0,-2 2,-2 2,0 2,2 2,2 l 0,2 -1,1 0.34375,0.15625 L 15,15 15,13 18,13 18,6 8,6 6.96875,5 16,5 16,4 z"
      id="rect3028"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccsccccccccccccc" />
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="m 14,16 2,0 0,-2 2,0 0,2 2,0 0,2 -2,0 c 0,0 0,-2.068229 0,0.465885 C 18,21 18,20 18,20 l -2,0 0,-2 -2,0 z"
      id="path3815"
      inkscape:connector-curvature="0"

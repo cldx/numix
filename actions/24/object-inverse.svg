@@ -125,7 +125,7 @@
     </radialGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="M 12 4 C 7.581722 4 4 7.581722 4 12 C 4 16.418278 7.581722 20 12 20 C 16.418278 20 20 16.418278 20 12 C 20 7.581722 16.418278 4 12 4 z M 12 7 C 14.761424 7 17 9.2385763 17 12 C 17 14.761424 14.761424 17 12 17 L 12 7 z "
      id="path2996" />
 </svg>

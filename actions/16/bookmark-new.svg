@@ -246,7 +246,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
      d="m 3,0 -3,3 3,0 0,13 5,-5 1,1 0,-1 2,0 0,-2 2,0 0,-9 -9,0 -1,0 z m 9,10 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 -2,0 z"
      id="path3015"
      inkscape:connector-curvature="0" />

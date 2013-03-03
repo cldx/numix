@@ -136,7 +136,7 @@
     </linearGradient>
   </defs>
   <path
-     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
+     style="fill:#2D2D2D;fill-opacity:1;stroke:none;opacity:1.0"
      d="m 12,21 c -2,0 -2,2 -2,2 l 0,2 c 0,0 0,2 2,2 l 24,0 c 2,0 2,-2 2,-2 l 0,-2 c 0,0 0,-2 -2,-2 z"
      id="path3771"
      inkscape:connector-curvature="0"
