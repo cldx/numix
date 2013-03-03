@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="package-supported.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
@@ -566,10 +566,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-width="1280"
+     inkscape:window-height="718"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -657,15 +657,10 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       sodipodi:type="arc"
-       style="opacity:1.0;fill:none;stroke:#000000;stroke-width:4.55882359;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:cx="22.5"
-       sodipodi:cy="24.25"
-       sodipodi:rx="15.5"
-       sodipodi:ry="15.5"
-       d="m 38,24.25 a 15.5,15.5 0 1 1 -31,0 15.5,15.5 0 1 1 31,0 z"
-       transform="matrix(0.44995864,0,0,0.44995864,-2.1240694,1033.4507)"
-       id="path128" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:4.55882359000000026;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 8,1036.3614 c -4.4061295,0 -8.0008270675,3.5947 -8.0008270675,8.0008 0,4.4061 3.5946975675,8.0008 8.0008270675,8.0008 4.40613,0 8.000827,-3.5947 8.000827,-8.0008 0,-4.4061 -3.594697,-8.0008 -8.000827,-8.0008 z m 0,2.0529 c 3.297534,0 5.947891,2.6504 5.947891,5.9479 0,3.2975 -2.650357,5.9479 -5.947891,5.9479 -3.2975345,0 -5.9478908,-2.6504 -5.9478908,-5.9479 0,-3.2975 2.6503563,-5.9479 5.9478908,-5.9479 z"
+       id="path128"
+       inkscape:connector-curvature="0" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#2D2D2D;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:45.20833588;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 8,1041.413 c -1.6085119,0 -2.9491934,1.3407 -2.9491934,2.9492 0,1.6085 1.3406815,2.9492 2.9491934,2.9492 1.6085118,0 2.949193,-1.3407 2.949193,-2.9492 0,-1.6085 -1.3406812,-2.9492 -2.949193,-2.9492 z"
