@@ -290,7 +290,7 @@
     </linearGradient>
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00000024;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#c4905e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00000024;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 21.1875,8 C 20.511132,8.1439566 19.984919,8.8086463 20,9.5 L 20,11 6,11 c -2,0 -2,2 -2,2 l 0,3 40,0 0,-3 c 0,-2 -2,-2 -2,-2 L 28,11.03125 28,9.5 C 27.999921,8.7146233 27.285377,8.0000786 26.5,8 l -5,0 C 21.396212,7.989131 21.291289,7.989131 21.1875,8 z M 4,18 4,37.5 c 7.86e-5,0.785377 0.7146233,1.499921 1.5,1.5 l 37,0 c 0.785377,-7.9e-5 1.499921,-0.714623 1.5,-1.5 L 44,18 z m 3,3 34,0 0,15 -34,0 z"
      id="path3912"
      inkscape:connector-curvature="0"

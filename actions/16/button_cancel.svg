@@ -142,7 +142,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
      d="M 12,13 C 11,13 8,9.5816993 8,9.5816993 8,9.5816993 5,13 4,13 L 3,13 3,12 C 3,11 6.3137255,8 6.3137255,8 6.3137255,8 3,5 3,4 L 3,3 4,3 C 5,3 8,6.3921569 8,6.3921569 8,6.3921569 11,3 12,3 l 1,0 0,1 C 13,5 9.6078431,8 9.6078431,8 9.6078431,8 13,11 13,12 l 0,1 z"
      id="path2997"
      inkscape:connector-curvature="0"

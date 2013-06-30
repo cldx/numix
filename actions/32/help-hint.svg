@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="help-hint.svg"
+   sodipodi:docname="gtk-info.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -351,13 +351,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.523417"
-     inkscape:cx="8.2515664"
-     inkscape:cy="16.282851"
+     inkscape:cx="8.4603674"
+     inkscape:cy="14.259204"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -437,7 +437,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -447,29 +447,20 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       sodipodi:type="arc"
-       style="opacity:1.0;fill:none;stroke:#000000;stroke-width:3.95768571;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3035"
-       sodipodi:cx="25.02627"
-       sodipodi:cy="25.380102"
-       sodipodi:rx="18.288427"
-       sodipodi:ry="18.288427"
-       d="m 43.314697,25.380102 c 0,10.10042 -8.188008,18.288428 -18.288427,18.288428 -10.10042,0 -18.2884274,-8.188008 -18.2884274,-18.288428 0,-10.100419 8.1880074,-18.2884272 18.2884274,-18.2884272 10.100419,0 18.288427,8.1880082 18.288427,18.2884272 z"
-       transform="matrix(0.74010954,0,0,0.74010954,-2.5221811,1017.5781)" />
-    <path
-       style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
-       d="m 17.96875,1033.331 0,0.031 0.03125,0 0,1 -0.03125,0 0,10 1.03125,0 0,1 -1.03125,0 -4,0 -0.96875,0 0,-1 0.96875,0 0,-10 -0.96875,0 0,-1 0.96875,0 0,-0.031 4,0 z"
+       style="fill:#555555;fill-opacity:1;stroke:none;opacity:1"
+       d="m 10,1032.3622 0,4 2,0 0,12 -4,0 0,3 16,0 0,-3 -4,0 0,-16 -8,0 z"
        id="path3056"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
     <path
        sodipodi:type="arc"
-       style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
-       id="path3826"
+       style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3074"
        sodipodi:cx="16"
-       sodipodi:cy="11"
-       sodipodi:rx="2"
-       sodipodi:ry="2"
-       d="m 18,11 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
-       transform="translate(0,1018.3767)" />
+       sodipodi:cy="5"
+       sodipodi:rx="4"
+       sodipodi:ry="4"
+       d="m 20,5 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+       transform="translate(0,1020.3622)" />
   </g>
 </svg>

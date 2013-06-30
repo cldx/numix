@@ -658,7 +658,7 @@
      transform="translate(0,-924.3622)">
     <path
        sodipodi:type="arc"
-       style="opacity:0.8;fill:none;stroke:#000000;stroke-width:5.47058868;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:1.0;fill:none;stroke:#000000;stroke-width:5.47058868;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:cx="22.5"
        sodipodi:cy="24.25"
        sodipodi:rx="15.5"
@@ -668,7 +668,7 @@
        id="path128" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.11111069;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:1.0;fill:#c4905e;fill-opacity:1;stroke:#000000;stroke-width:24.11111069;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3129-6-4"
        sodipodi:cx="22.5"
        sodipodi:cy="24.25"

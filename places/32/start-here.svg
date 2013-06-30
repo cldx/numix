@@ -14,7 +14,7 @@
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="start-here.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
@@ -562,14 +562,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
      inkscape:cx="9.0035158"
-     inkscape:cy="18.509598"
+     inkscape:cy="16.009598"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -647,7 +647,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -657,24 +657,14 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       sodipodi:type="arc"
-       style="opacity:0.8;fill:none;stroke:#000000;stroke-width:4.76923084;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:cx="22.5"
-       sodipodi:cy="24.25"
-       sodipodi:rx="15.5"
-       sodipodi:ry="15.5"
-       d="m 38,24.25 a 15.5,15.5 0 1 1 -31,0 15.5,15.5 0 1 1 31,0 z"
-       transform="matrix(0.83870967,0,0,0.83870967,-2.8709676,1016.0235)"
-       id="path128" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c4905e;fill-opacity:1;stroke:none;stroke-width:4.76923084;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 16,1021.3703 c -8.2605816,0 -14.9919354,6.7313 -14.9919354,14.9919 0,8.2606 6.7313538,14.9919 14.9919354,14.9919 8.260582,0 14.991935,-6.7313 14.991935,-14.9919 0,-8.2606 -6.731353,-14.9919 -14.991935,-14.9919 z m 0,3.9838 c 6.098822,0 11.008064,4.9093 11.008064,11.0081 0,6.0988 -4.909242,11.0081 -11.008064,11.0081 -6.0988216,0 -11.0080644,-4.9093 -11.0080644,-11.0081 0,-6.0988 4.9092428,-11.0081 11.0080644,-11.0081 z"
+       id="path128"
+       inkscape:connector-curvature="0" />
     <path
-       sodipodi:type="arc"
-       style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:31;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c4905e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:31;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 16,1032.3622 c -2.18545,0 -4,1.8146 -4,4 0,2.1855 1.81455,4 4,4 2.18545,0 4,-1.8145 4,-4 0,-2.1854 -1.81455,-4 -4,-4 z"
        id="path3129-6-4"
-       sodipodi:cx="22.5"
-       sodipodi:cy="24.25"
-       sodipodi:rx="15.5"
-       sodipodi:ry="15.5"
-       d="m 38,24.25 a 15.5,15.5 0 1 1 -31,0 15.5,15.5 0 1 1 31,0 z"
-       transform="matrix(0.12903226,0,0,0.12903226,13.096774,1033.2332)" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

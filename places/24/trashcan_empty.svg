@@ -294,7 +294,7 @@
     </linearGradient>
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00000024;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#c4905e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00000024;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 10.5625,4.0023149 C 10.375,4.0335649 10,4.1689816 10,4.6689816 L 10,6 3,6 C 2,6 2,7 2,7 l 0,1.0023149 20,0 L 22,7 C 22,6.3333333 21,6 21,6 l -7,0 0,-1.3310184 c 0,0 0,-0.6666667 -0.666667,-0.6666667 l -2.5,0 -0.166666,0 c 0,0 -0.04167,-0.010417 -0.104167,0 z M 2,9 2,19.335648 c 0,0 0,0.666667 0.6666667,0.666667 l 18.6666663,0 C 22,20.002315 22,19.335648 22,19.335648 L 22,9 z m 2,2 16,0 0,7 -16,0 z"
      id="path3912"
      inkscape:connector-curvature="0"

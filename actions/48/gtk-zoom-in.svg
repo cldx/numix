@@ -333,11 +333,11 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#2D2D2D;fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#5555555;fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 19 6 C 11.855832 6 6 11.855832 6 19 C 6 26.144168 11.855832 32 19 32 C 21.493133 32 23.827277 31.29467 25.8125 30.0625 L 36.875 41.125 A 3.0052038 3.0052038 0 0 0 41.125 36.875 L 30.0625 25.8125 C 31.29467 23.827277 32 21.493133 32 19 C 32 11.855832 26.144168 6 19 6 z M 19 12 C 22.901527 12 26 15.098473 26 19 C 26 22.901527 22.901527 26 19 26 C 15.098473 26 12 22.901527 12 19 C 12 15.098473 15.098473 12 19 12 z "
      id="path3035" />
   <path
-     style="fill:#2D2D2D;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1.0"
+     style="fill:#5555555;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1.0"
      d="M 18 14 L 18 18 L 14 18 L 14 20 L 18 20 L 18 24 L 20 24 L 20 20 L 24 20 L 24 18 L 20 18 L 20 14 L 18 14 z "
      id="path3036" />
 </svg>

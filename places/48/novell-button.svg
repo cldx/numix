@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="start-here.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gnome-main-menu.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -566,10 +566,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -657,24 +657,16 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       sodipodi:type="arc"
-       style="opacity:0.8;fill:none;stroke:#000000;stroke-width:5.47058868;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:cx="22.5"
-       sodipodi:cy="24.25"
-       sodipodi:rx="15.5"
-       sodipodi:ry="15.5"
-       d="m 38,24.25 a 15.5,15.5 0 1 1 -31,0 15.5,15.5 0 1 1 31,0 z"
-       transform="matrix(1.0967742,0,0,1.0967742,-0.6774195,1001.7654)"
-       id="path128" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c4905e;fill-opacity:1;stroke:none;stroke-width:5.47058867999999965;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 24,1008.346 c -11.010161,0 -20.0161292,9.006 -20.0161292,20.0162 0,11.0101 9.0059682,20.0161 20.0161292,20.0161 11.010161,0 20.016129,-9.006 20.016129,-20.0161 0,-11.0102 -9.005968,-20.0162 -20.016129,-20.0162 z m 0,6.0323 c 7.76752,0 13.983871,6.2164 13.983871,13.9839 0,7.7675 -6.216351,13.9838 -13.983871,13.9838 -7.76752,0 -13.983871,-6.2163 -13.983871,-13.9838 0,-7.7675 6.216351,-13.9839 13.983871,-13.9839 z"
+       id="path128"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssssss" />
     <path
-       sodipodi:type="arc"
-       style="opacity:0.80000000000000004;fill:#000000;stroke:#000000;stroke-width:20.66666412000000008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c4905e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20.66666412000000008;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 24,1023.3602 c -2.737735,0 -5.002016,2.2643 -5.002016,5.002 0,2.7378 2.264281,5.0021 5.002016,5.0021 2.737734,0 5.002016,-2.2643 5.002016,-5.0021 0,-2.7377 -2.264282,-5.002 -5.002016,-5.002 z"
        id="path3129-6-4"
-       sodipodi:cx="22.5"
-       sodipodi:cy="24.25"
-       sodipodi:rx="15.5"
-       sodipodi:ry="15.5"
-       d="m 38,24.25 a 15.5,15.5 0 1 1 -31,0 15.5,15.5 0 1 1 31,0 z"
-       transform="matrix(0.19354839,0,0,0.19354839,19.645161,1023.6687)" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
   </g>
 </svg>

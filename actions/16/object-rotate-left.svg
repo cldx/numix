@@ -211,7 +211,7 @@
        gradientTransform="matrix(1.0666665,0,0,1.0666665,81.514754,-50.163851)" />
   </defs>
   <path
-     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
      d="m 8,0 0,2 c 3.865993,0 7,3.1340068 7,7 0,3.865993 -3.134007,7 -7,7 C 4.134007,16 1,12.865993 1,9 l 3,0 c 0,2.209139 1.790861,4 4,4 2.209139,0 4,-1.790861 4,-4 C 12,6.790861 10.209139,5 8,5 L 8,7 3,4 3,3 z"
      id="path3140"
      inkscape:connector-curvature="0"

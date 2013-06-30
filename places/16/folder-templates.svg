@@ -774,11 +774,11 @@
      transform="translate(0,-1036.3622)">
     <g
        transform="matrix(0.47772486,0,0,0.47758835,62.935782,1029.6056)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:1.0;fill:#c4905e;fill-opacity:1;stroke:none;font-family:Sans"
        id="text3145" />
     <path
        inkscape:connector-curvature="0"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94117647;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#c4905e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94117647;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 1,1036.3622 c 0,0 -1,0.038 -1,1 l 0,2 2,0 0,-1 1,0 0,-2 -1.90625,0 -0.09375,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 1,0 0,1 2,0 0,-2 c 0,-1 -1,-1 -1,-1 l -2,0 z m -13,4 0,2 2,0 0,-2 -2,0 z m 14,0 0,2 2,0 0,-2 -2,0 z m -14,3 0,2 2,0 0,-2 -2,0 z m 14,0 0,2 2,0 0,-2 -2,0 z m -14,3 0,2 2,0 0,-2 -2,0 z m 14,0 0,2 2,0 0,-2 -2,0 z m -14,3 0,2 c 0,1 1,1 1,1 l 2,0 0,-2 -1,0 0,-1 -2,0 z m 14,0 0,1 -1,0 0,2 2,0 c 0,0 1,0 1,-1 l 0,-2 -2,0 z m -10,1 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z m 3,0 0,2 2,0 0,-2 -2,0 z"
        id="rect3275" />
   </g>

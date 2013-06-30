@@ -294,11 +294,11 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
      d="M 6 4 L 6 7 L 4 7 L 4 10 L 6 10 L 6 14 L 4 14 L 4 17 L 6 17 L 6 20 L 11 20 L 15 20 L 18 20 L 18 14 L 20 14 L 20 10 L 18 10 L 18 9 L 18 6 L 15 4 L 6 4 z M 8 6 L 14 6 L 14 7 L 16 7 L 16 10 L 12 10 L 12 14 L 16 14 L 16 18 L 13 18 L 11.5 18 L 8 18 L 8 17 L 10 17 L 10 14 L 8 14 L 8 10 L 10 10 L 10 7 L 8 7 L 8 6 z M 5 8 L 9 8 L 9 9 L 5 9 L 5 8 z M 13 11 L 19 11 L 19 13 L 13 13 L 13 11 z M 5 15 L 9 15 L 9 16 L 5 16 L 5 15 z "
      id="path3027" />
   <path
-     style="fill:#2D2D2D;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.4"
+     style="fill:#5555555;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.4"
      d="m 13,11 0,2 4,0 0,-2 z"
      id="path3940"
      inkscape:connector-curvature="0" />

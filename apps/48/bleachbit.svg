@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="bleachbit.svg">
   <defs
      id="defs4">
@@ -171,15 +171,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0000004"
-     inkscape:cx="22.979585"
+     inkscape:cx="-4.3954136"
      inkscape:cy="25.250339"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="715"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="25"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -211,26 +211,11 @@
        y="-1052.3622"
        ry="1.9445436"
        transform="scale(1,-1)" />
-    <g
-       id="g3812"
-       transform="matrix(0.05563506,0,0,0.05563506,19.568914,951.66628)"
-       style="fill:#ffffff;stroke:none">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3802"
-         d="m 56.158741,1617.7293 0,-135.3604 -128.289364,0 22.332934,-38.6818 41.0541297,0 -59.4999537,-103.0569 -130.156187,0 28.36488,16.3764 -37.90806,65.6587 101.79851,176.3202 9.684027,16.7732 2.4043,4.1644 z"
-         style="fill:#ffffff;stroke:none" />
-      <path
-         style="fill:#ffffff;stroke:none"
-         d="m 290.22673,1300.6731 -117.22554,67.6802 64.14468,111.1018 -44.66589,0 -20.52706,-35.5539 -59.49992,103.0569 65.07809,112.7186 -6e-5,-32.7529 75.81613,0 101.79852,-176.3202 9.68401,-16.7732 2.40432,-4.1644 z"
-         id="path3804"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3806"
-         d="m -101.71339,1228.6175 117.225538,67.6802 64.14467,-111.1018 22.332952,38.6818 -20.527092,35.5539 118.999892,0 65.07813,-112.7186 -28.36481,16.3766 -37.90807,-65.6587 -203.597073,0 -19.368019,0 -4.80864,0 z"
-         style="fill:#ffffff;stroke:none" />
-    </g>
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="M 17.96875 8.375 L 13.90625 15.65625 L 20.4375 19.4375 L 24 13.25 L 25.25 15.40625 L 24.09375 17.375 L 30.71875 17.375 L 34.34375 11.09375 L 32.75 12 L 30.65625 8.375 L 19.3125 8.375 L 18.25 8.375 L 17.96875 8.375 z M 35.71875 19.65625 L 29.1875 23.4375 L 32.75 29.625 L 30.28125 29.625 L 29.125 27.625 L 25.8125 33.375 L 29.4375 39.625 L 29.4375 37.8125 L 33.65625 37.8125 L 39.3125 28 L 39.875 27.0625 L 40 26.84375 L 35.71875 19.65625 z M 8.53125 21.875 L 10.09375 22.8125 L 8 26.46875 L 13.65625 36.25 L 14.1875 37.1875 L 14.34375 37.4375 L 22.6875 37.3125 L 22.6875 29.78125 L 15.5625 29.78125 L 16.8125 27.625 L 19.09375 27.625 L 15.78125 21.875 L 8.53125 21.875 z "
+       transform="translate(0,1004.3622)"
+       id="path3802" />
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"

@@ -14,7 +14,7 @@
    height="32"
    width="32"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="document-new.svg">
   <metadata
      id="metadata62">
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      id="namedview60"
      showgrid="true"
-     inkscape:zoom="33.245067"
-     inkscape:cx="28.208903"
-     inkscape:cy="23.758615"
+     inkscape:zoom="5.8769531"
+     inkscape:cx="18.977929"
+     inkscape:cy="7.6589443"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3508"
      showguides="true"
@@ -293,20 +293,8 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <g
-     id="g3028"
-     transform="matrix(0.74999953,0,0,0.74999953,-1.9999898,10.000013)">
-    <path
-       sodipodi:nodetypes="cccccccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="rect3039"
-       d="m 12.157227,-12.000025 c 0,0 -2.8239014,0 -2.8239014,2.6666685 l 0,34.6666885 C 9.3333256,28 11.999994,28 11.999994,28 l 24.000015,0 c 2.666668,0 2.666668,-2.666668 2.666668,-2.666668 l 0,-32.0000202 -5.333336,-5.3333368 -21.176114,0 -0.157233,0 z m 1.176101,4.0000027 16.00001,0 0,4.0000025 5.333337,0 0,28.0000178 -21.333347,0 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#2D2D2D;fill-opacity:1;stroke:none;stroke-width:3.00000024;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path2262"
-       d="m 22.50835,0.004076 c -0.676368,0.143957 -1.202581,0.808646 -1.1875,1.5 l 0,3.8208498 -3.82085,0 c -0.785377,7.8e-5 -1.499921,0.714623 -1.5,1.5 l 0,2.3984066 c 7.9e-5,0.7853766 0.714623,1.4999206 1.5,1.4999996 l 3.82085,0 0,3.780744 c 7.9e-5,0.785377 0.714623,1.499921 1.5,1.5 l 2.3583,0 c 0.785377,-7.9e-5 1.499921,-0.714623 1.5,-1.5 l 0,-3.780744 3.82085,0 c 0.785377,-7.9e-5 1.499921,-0.714623 1.5,-1.4999996 l 0,-2.3984066 c -7.9e-5,-0.785377 -0.714623,-1.499922 -1.5,-1.5 l -3.82085,0 0,-3.8208498 c -7.9e-5,-0.785377 -0.714623,-1.499921 -1.5,-1.5 l -2.3583,0 c -0.103788,-0.01087 -0.208712,-0.01087 -0.3125,0 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#2D2D2D;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-  </g>
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:3.00000023999999987;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;fill:#555555"
+     d="M 7 1 C 6.6838453 1.0147931 5 1.1803278 5 3 L 5 29 C 5 31 7 31 7 31 L 23 31 L 23 28 L 8 28 L 8 4 L 20 4 L 20 7 L 24 7 L 24 18 L 27 18 L 27 5 L 23 1 L 7.125 1 L 7 1 z M 24.875 19 C 24.367725 19.107968 23.988689 19.606485 24 20.125 L 24 23 L 21.125 23 C 20.535968 23.000059 20.000059 23.535967 20 24.125 L 20 25.90625 C 20.000059 26.495281 20.535968 27.031191 21.125 27.03125 L 24 27.03125 L 24 29.875 C 24.000059 30.464032 24.535968 30.999941 25.125 31 L 26.875 31 C 27.464032 30.999941 27.999941 30.464032 28 29.875 L 28 27.03125 L 30.875 27.03125 C 31.464032 27.031191 31.999941 26.495281 32 25.90625 L 32 24.125 C 31.999941 23.535967 31.464032 23.000059 30.875 23 L 28 23 L 28 20.125 C 27.999941 19.535968 27.464032 19.000059 26.875 19 L 25.125 19 C 25.04716 18.9918 24.952841 18.9918 24.875 19 z "
+     id="rect3039" />
 </svg>

@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="709"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      id="namedview56"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="9.9345611"
-     inkscape:cx="33.144214"
-     inkscape:cy="26.835871"
+     inkscape:cx="11.301276"
+     inkscape:cy="30.862219"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -237,16 +237,13 @@
        gradientTransform="matrix(1.6399715,0,0,1.7710483,-112.55969,-11.636734)" />
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#2D2D2D;fill-opacity:1;stroke:none;stroke-width:3.95768571;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 9.8996804,4.5788521 C 7.665096,6.2012255 6.5769642,8.5127372 7.4692695,9.7417585 7.5189179,9.810142 7.5819563,9.8668584 7.6414358,9.9257024 l -1.6437169,1.1933866 0.8272316,2.68191 C 2.8729145,20.460371 2.987894,29.100649 7.8157101,35.750266 14.291614,44.669887 26.830647,46.660194 35.750266,40.18429 44.669887,33.708386 46.660194,21.169354 40.18429,12.249734 35.356474,5.6001163 27.169423,2.8203978 19.620655,4.5109444 L 17.326722,2.8939023 15.683005,4.0872888 C 15.645475,4.0125085 15.611063,3.9350084 15.561414,3.8666254 14.669109,2.6376041 12.134265,2.9564787 9.8996804,4.5788521 z m 4.6450276,6.3978519 c 7.211621,-5.2358474 17.24274,-3.6436181 22.478588,3.568004 5.235847,7.211621 3.643618,17.24274 -3.568004,22.478588 -7.211621,5.235847 -17.24274,3.643618 -22.478588,-3.568004 -5.2358474,-7.211621 -3.6436181,-17.24274 3.568004,-22.478588 z"
-     id="path3035"
-     inkscape:connector-curvature="0"
-     inkscape:transform-center-y="-0.5579464"
-     inkscape:transform-center-x="-0.0025075321" />
-  <path
-     style="opacity:1.0;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 24,13 0,11 5,6"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 23.96875,10.96875 A 2.0002,2.0002 0 0 0 22,13 l 0,11 a 2.0002,2.0002 0 0 0 0.46875,1.28125 l 5,6 a 2.0002,2.0002 0 1 0 3.0625,-2.5625 L 26,23.28125 26,13 a 2.0002,2.0002 0 0 0 -2.03125,-2.03125 z"
      id="path3024"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccc" />
+     inkscape:connector-curvature="0" />
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 24,4 C 12.977994,4 4,12.977994 4,24 4,35.022006 12.977994,44 24,44 35.022006,44 44,35.022006 44,24 44,12.977994 35.022006,4 24,4 z m 0,4 c 8.860245,0 16,7.139755 16,16 0,8.860245 -7.139755,16 -16,16 C 15.139755,40 8,32.860245 8,24 8,15.139755 15.139755,8 24,8 z"
+     id="path3022"
+     inkscape:connector-curvature="0" />
 </svg>

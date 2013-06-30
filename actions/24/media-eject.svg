@@ -95,12 +95,12 @@
        gradientTransform="matrix(0.422778,0,0,0.4134825,1.9129004,2.2343973)" />
   </defs>
   <path
-     style="fill:#2D2D2D;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1.0"
+     style="fill:#5555555;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1.0"
      d="m 5,16 0,3 14,0 0,-3 z"
      id="path2993"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#2D2D2D;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1.0"
+     style="fill:#5555555;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1.0"
      d="m 12,5 -7,9 14,0 z"
      id="path3763"
      inkscape:connector-curvature="0" />

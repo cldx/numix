@@ -13,7 +13,7 @@
    height="32"
    width="32"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="gtk-media-stop.svg">
   <metadata
      id="metadata15">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      id="namedview13"
      showgrid="true"
      inkscape:zoom="9.8333333"
      inkscape:cx="21.571292"
      inkscape:cy="22.234534"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2474">
     <inkscape:grid
@@ -92,11 +92,10 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <rect
-     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 2.125,1 C 1.5132457,1.061532 0.99697473,1.6351664 1,2.25 l 0,27.5 c 6.54e-5,0.654481 0.5955194,1.249935 1.25,1.25 l 27.5,0 c 0.654481,-6.5e-5 1.249935,-0.595519 1.25,-1.25 L 31,2.25 C 30.999935,1.5955194 30.404481,1.0000654 29.75,1 L 2.25,1 c -0.041632,-0.002084 -0.083368,-0.002084 -0.125,0 z"
      id="rect3251"
-     width="27.5"
-     height="27.5"
-     x="2.25"
-     y="2.25" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccc" />
 </svg>

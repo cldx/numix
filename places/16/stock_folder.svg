@@ -13,8 +13,8 @@
    height="16"
    width="16"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gtk-directory.svg">
   <metadata
      id="metadata64">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      id="namedview62"
      showgrid="true"
      inkscape:zoom="23.74981"
-     inkscape:cx="12.784202"
+     inkscape:cx="3.6472868"
      inkscape:cy="4.4793987"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3396">
     <inkscape:grid
@@ -294,9 +294,9 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.21926904;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 0.6096349,2.6306901 0,11.7491599 14.7807301,0 0,-9.7240257 -6.9418447,0 0,-2.0251341 z"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c4905e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21926904;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 0.5,2.03125 C 0.22409463,2.0816999 0.00276092,2.3445337 0,2.625 l 0,11.75 C -0.00837941,14.704465 0.29553521,15.008379 0.625,15 l 14.75,0 c 0.329465,0.0084 0.633379,-0.295535 0.625,-0.625 l 0,-9.71875 c 0.0084,-0.3294648 -0.295535,-0.6333794 -0.625,-0.625 l -6.3125,0 0,-1.40625 C 9.0542563,2.3059508 8.7565524,2.0231321 8.4375,2.03125 l -7.8125,0 c -0.0415201,-0.00428 -0.0834799,-0.00428 -0.125,0 z"
      id="path3912"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>

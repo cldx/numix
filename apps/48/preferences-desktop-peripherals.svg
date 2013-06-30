@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="input_device_settings.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="preferences-desktop-peripherals.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -207,10 +207,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -233,39 +233,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:url(#linearGradient3801);fill-opacity:1;stroke:none"
-       id="rect2991"
-       width="48"
-       height="48"
-       x="0"
-       y="-1052.3622"
-       ry="1.9445436"
-       transform="scale(1,-1)" />
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 24 9.9375 C 18.996672 9.9375 14.9375 13.9967 14.9375 19 L 14.9375 28.96875 C 14.9375 33.97205 18.996672 38.03125 24 38.03125 C 29.003328 38.03125 33.0625 33.97205 33.0625 28.96875 L 33.0625 19 C 33.0625 13.9967 29.003328 9.9375 24 9.9375 z M 23.0625 12.03125 L 23.0625 23.0625 L 16.9375 23.0625 L 16.9375 19 C 16.9375 15.390591 19.58678 12.486257 23.0625 12.03125 z M 25.0625 12.03125 C 28.478365 12.537809 31.0625 15.432593 31.0625 19 L 31.0625 23.0625 L 25.0625 23.0625 L 25.0625 12.03125 z M 16.9375 25.0625 L 31.0625 25.0625 L 31.0625 28.96875 C 31.0625 32.89865 27.929922 36.03125 24 36.03125 C 20.070078 36.03125 16.9375 32.89865 16.9375 28.96875 L 16.9375 25.0625 z "
        transform="translate(0,1004.3622)"
-       id="rect3790" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 24.053763,1015.5642 0,12.6626"
-       id="path3015"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 16.144462,1028.4285 15.368995,0"
-       id="path3017"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <rect
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect3803"
-       width="16.125"
-       height="26.090797"
-       x="15.9375"
-       y="1015.3168"
-       ry="8.0625" />
+       id="path3015" />
   </g>
 </svg>

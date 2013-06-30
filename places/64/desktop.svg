@@ -295,20 +295,20 @@
     </linearGradient>
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.50000048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#c4905e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.50000048;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 4.03125,9 C 2.9279104,9.107654 1.9948506,10.143621 2,11.25 l 0,42.5 c 1.179e-4,1.175718 1.071935,2.249881 2.25,2.25 l 55.5,0 c 1.178065,-1.19e-4 2.249882,-1.074282 2.25,-2.25 l 0,-38.53125 c -1.18e-4,-1.175719 -1.071935,-2.249882 -2.25,-2.25 l -21.6875,0 0,-1.71875 C 38.062382,10.074282 36.990565,9.0001176 35.8125,9 L 4.25,9 C 4.177141,8.99646 4.1041092,8.99646 4.03125,9 z M 5,17 59,17 59,52 5,52 z"
      id="path3912"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccccccc" />
   <rect
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#c4905e;fill-opacity:1;stroke:none"
      id="rect3027"
      width="16"
      height="3"
      x="24"
      y="56" />
   <rect
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#c4905e;fill-opacity:1;stroke:none"
      id="rect3797"
      width="44"
      height="3"

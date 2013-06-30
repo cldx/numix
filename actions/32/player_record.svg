@@ -13,8 +13,8 @@
    height="32"
    width="32"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gtk-media-record.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="media-record.svg">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      id="namedview13"
      showgrid="true"
-     inkscape:zoom="4.9166667"
+     inkscape:zoom="13.906433"
      inkscape:cx="40.278971"
-     inkscape:cy="-1.650845"
+     inkscape:cy="18.627539"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2474">
     <inkscape:grid
@@ -93,8 +93,9 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:#000000;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="M 16,2.125 C 8.337049,2.125 2.125,8.337049 2.125,16 2.125,23.662951 8.337049,29.875 16,29.875 23.662951,29.875 29.875,23.662951 29.875,16 29.875,8.337049 23.662951,2.125 16,2.125 z m 0,9.75 c 2.278174,0 4.125,1.846826 4.125,4.125 0,2.278175 -1.846826,4.125 -4.125,4.125 -2.278174,0 -4.125,-1.846825 -4.125,-4.125 0,-2.278174 1.846826,-4.125 4.125,-4.125 z"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 16,1 C 7.7290539,1 1,7.7290539 1,16 1,24.270946 7.7290539,31 16,31 24.270946,31 31,24.270946 31,16 31,7.7290539 24.270946,1 16,1 z m 0,12 c 1.670179,0 3,1.329821 3,3 0,1.67018 -1.329821,3 -3,3 -1.670179,0 -3,-1.32982 -3,-3 0,-1.670179 1.329821,-3 3,-3 z"
      id="path3202"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssss" />
 </svg>
