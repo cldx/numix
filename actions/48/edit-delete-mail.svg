@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="edit-delete.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
@@ -469,10 +469,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -550,7 +550,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -560,9 +560,10 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 36.868331,1015.2807 c -7.224699,-7.2247 -18.938228,-7.2247 -26.16295,0 -7.2247226,7.2247 -7.2246999,18.9383 0,26.163 7.224699,7.2247 18.938228,7.2247 26.16295,0 7.224723,-7.2247 7.2247,-18.9383 0,-26.163 z m -3.535533,3.5356 c 4.666539,4.6665 5.185518,11.8913 1.59099,17.1473 l -18.694136,-18.6941 -3.535534,3.5355 18.694136,18.6941 c -5.256045,3.5946 -12.4808,3.0756 -17.14734,-1.591 -5.2720774,-5.272 -5.2720463,-13.8198 0,-19.0918 5.272047,-5.2721 13.819806,-5.2721 19.091884,0 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 23.78125,1008.375 c -5.121584,0 -10.226028,1.9448 -14.125,5.8438 -7.7979502,7.7979 -7.7979244,20.4833 0,28.2812 7.797921,7.7979 20.483307,7.7979 28.28125,0 7.797951,-7.7979 7.797924,-20.4833 0,-28.2812 -3.898961,-3.899 -9.034666,-5.8438 -14.15625,-5.8438 z m 0,7.9688 c 3.06793,0 6.150573,1.1818 8.5,3.5312 3.678801,3.6788 4.269307,9.0594 2.1875,13.5 l -15.78125,-15.75 c 1.628212,-0.7776 3.328712,-1.2813 5.09375,-1.2812 z m -10.75,6.9374 15.75,15.75 c -4.438456,2.0749 -9.793228,1.4881 -13.46875,-2.1874 -3.690418,-3.6904 -4.387663,-9.1112 -2.28125,-13.5626 z"
        id="path3086"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssscscccccsc" />
   </g>
 </svg>
