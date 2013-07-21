@@ -93,7 +93,7 @@
     </linearGradient>
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555#2d2d2d#bada55;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.25000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 16,1 C 7.7290539,1 1,7.7290539 1,16 1,24.270946 7.7290539,31 16,31 24.270946,31 31,24.270946 31,16 31,7.7290539 24.270946,1 16,1 z m 0,12 c 1.670179,0 3,1.329821 3,3 0,1.67018 -1.329821,3 -3,3 -1.670179,0 -3,-1.32982 -3,-3 0,-1.670179 1.329821,-3 3,-3 z"
      id="path3202"
      inkscape:connector-curvature="0"

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="editdelete.svg"
+   sodipodi:docname="edit-delete.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -463,14 +463,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.896381"
-     inkscape:cx="11.739631"
-     inkscape:cy="8.2941567"
+     inkscape:zoom="8.4120113"
+     inkscape:cx="11.234476"
+     inkscape:cy="7.4284866"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -550,7 +550,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -560,9 +560,9 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
-       d="M 12 4 C 7.581722 4 4 7.581722 4 12 C 4 16.418278 7.581722 20 12 20 C 16.418278 20 20 16.418278 20 12 C 20 7.581722 16.418278 4 12 4 z M 12.0625 7.03125 C 14.823924 7.03125 17.0625 9.2698263 17.0625 12.03125 C 17.0625 13.066784 16.757872 14.014495 16.21875 14.8125 L 9.28125 7.875 C 10.079255 7.3358783 11.026966 7.03125 12.0625 7.03125 z M 7.875 9.28125 L 14.8125 16.21875 C 14.02153 16.743356 13.082734 17.03125 12.0625 17.03125 C 9.3010763 17.03125 7.0625 14.792674 7.0625 12.03125 C 7.0625 11.011016 7.3503938 10.07222 7.875 9.28125 z "
-       transform="translate(0,1028.3622)"
-       id="path3083" />
+       style="fill:#555555;fill-opacity:1;stroke:none"
+       d="m 12,1032.3622 c -4.418278,0 -8,3.5817 -8,8 0,4.4183 3.581722,8 8,8 4.418278,0 8,-3.5817 8,-8 0,-4.4183 -3.581722,-8 -8,-8 z m -2.84375,4.125 a 1.0001,1.0001 0 0 1 0.71875,0.3125 l 2.125,2.125 2.125,-2.125 a 1.0001,1.0001 0 0 1 0.59375,-0.2812 1.0001,1.0001 0 0 1 0.8125,1.7187 l -2.09375,2.125 2.09375,2.0938 a 1.0054782,1.0054782 0 1 1 -1.40625,1.4375 l -2.125,-2.125 -2.125,2.125 a 1.0054782,1.0054782 0 1 1 -1.40625,-1.4375 l 2.09375,-2.0938 -2.09375,-2.125 a 1.0001,1.0001 0 0 1 0.5,-1.7187 1.0001,1.0001 0 0 1 0.1875,-0.031 z"
+       id="path3084"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="audio-input-microphone.svg">
   <defs
      id="defs4">
@@ -158,15 +158,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0000001"
-     inkscape:cx="-16.648362"
+     inkscape:cx="-43.773362"
      inkscape:cy="28.152054"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -180,7 +180,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,14 +189,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:url(#linearGradient3036);fill-opacity:1;stroke:none"
-       id="rect2991-6"
-       width="48"
-       height="48"
-       x="0"
-       y="1004.3622"
-       ry="1.9445436" />
     <g
        id="g3022"
        transform="translate(-39.597979,0)">
@@ -231,28 +223,9 @@
          style="fill:none;stroke:#ffffff;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
+       style="fill:#919fa9;fill-opacity:1;stroke:none"
+       d="M 23.78125 8 C 20.114348 8 17.15625 10.958098 17.15625 14.625 L 17.15625 24.8125 C 17.15625 28.479402 20.114348 31.4375 23.78125 31.4375 C 27.448152 31.4375 30.40625 28.479402 30.40625 24.8125 L 30.40625 14.625 C 30.40625 10.958098 27.448152 8 23.78125 8 z M 13.28125 23.96875 C 13.28125 23.96875 13.278676 35.721 22.90625 35.6875 L 22.90625 37.875 L 19.71875 37.875 L 19.71875 40 L 28.28125 40 L 28.28125 37.875 L 25.0625 37.875 L 25.0625 35.6875 C 35.697744 34.9973 34.6875 23.96875 34.6875 23.96875 L 32.53125 23.96875 C 32.53125 23.96875 32.557843 33.59375 24 33.59375 C 15.442157 33.59375 15.4375 23.96875 15.4375 23.96875 L 13.28125 23.96875 z "
        transform="translate(0,1004.3622)"
-       id="rect3790" />
-    <g
-       id="g3828"
-       transform="matrix(1.0697304,0,0,1.0697304,-2.7560469,-71.754063)">
-      <rect
-         ry="6.1875"
-         y="1013.4481"
-         x="18.625"
-         height="21.914062"
-         width="12.375"
-         id="rect3819"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <path
-         sodipodi:nodetypes="cccccccccccscc"
-         inkscape:connector-curvature="0"
-         id="path3823"
-         transform="translate(0,1004.3622)"
-         d="m 15,24 c 0,0 0,11 9,10.96875 L 24,37 l -3,0 0,2 8,0 0,-2 -3,0 0,-2.03125 C 35.941986,34.323547 35,24 35,24 l -2,0 c 0,0 0,9 -8,9 -8,0 -8,-9 -8,-9 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    </g>
+       id="rect3819" />
   </g>
 </svg>

@@ -39,11 +39,11 @@
  </metadata>
  <g id="layer1" transform="translate(.67858 79.321)">
   <g id="g2822" style="opacity:.3" transform="matrix(2.5532 0 0 2.5 .76823 -73.321)">
-   <rect id="rect1892" style="fill:url(#radialGradient3280)" transform="scale(-1)" height="8" width="10" y="-48" x="-11"/>
-   <rect id="rect2789" style="fill:url(#radialGradient3282)" height="8" width="10" y="40" x="38"/>
-   <rect id="rect2793" style="fill:url(#linearGradient3680)" height="8" width="27" y="40" x="11"/>
+   <rect id="rect1892" style="fill:#555555url(#radialGradient3280)" transform="scale(-1)" height="8" width="10" y="-48" x="-11"/>
+   <rect id="rect2789" style="fill:#555555url(#radialGradient3282)" height="8" width="10" y="40" x="38"/>
+   <rect id="rect2793" style="fill:#555555url(#linearGradient3680)" height="8" width="27" y="40" x="11"/>
   </g>
-  <rect id="rect3376" style="stroke-linejoin:round;stroke:url(#linearGradient2852);stroke-width:1.0003;fill:url(#radialGradient3630)" height="101" width="101" y="-61.821" x="12.822"/>
-  <rect id="rect3404" style="opacity:.4;stroke:url(#linearGradient2847);stroke-width:1.0205;fill:none" height="98.979" width="98.979" y="-60.811" x="13.832"/>
+  <rect id="rect3376" style="stroke-linejoin:round;stroke:url(#linearGradient2852);stroke-width:1.0003;fill:#555555url(#radialGradient3630)" height="101" width="101" y="-61.821" x="12.822"/>
+  <rect id="rect3404" style="opacity:.4;stroke:url(#linearGradient2847);stroke-width:1.0205;fill:#555555none" height="98.979" width="98.979" y="-60.811" x="13.832"/>
  </g>
 </svg>

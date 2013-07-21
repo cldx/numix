@@ -15,7 +15,7 @@
    width="32"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="document-new.svg">
+   sodipodi:docname="gtk-new.svg">
   <metadata
      id="metadata62">
     <rdf:RDF>
@@ -42,8 +42,8 @@
      id="namedview60"
      showgrid="true"
      inkscape:zoom="5.8769531"
-     inkscape:cx="18.977929"
-     inkscape:cy="7.6589443"
+     inkscape:cx="-17.945966"
+     inkscape:cy="28.077688"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -294,7 +294,7 @@
     </linearGradient>
   </defs>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:3.00000023999999987;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;fill:#555555"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555#2d2d2d;stroke:none;stroke-width:3.00000023999999987;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;fill-opacity:1"
      d="M 7 1 C 6.6838453 1.0147931 5 1.1803278 5 3 L 5 29 C 5 31 7 31 7 31 L 23 31 L 23 28 L 8 28 L 8 4 L 20 4 L 20 7 L 24 7 L 24 18 L 27 18 L 27 5 L 23 1 L 7.125 1 L 7 1 z M 24.875 19 C 24.367725 19.107968 23.988689 19.606485 24 20.125 L 24 23 L 21.125 23 C 20.535968 23.000059 20.000059 23.535967 20 24.125 L 20 25.90625 C 20.000059 26.495281 20.535968 27.031191 21.125 27.03125 L 24 27.03125 L 24 29.875 C 24.000059 30.464032 24.535968 30.999941 25.125 31 L 26.875 31 C 27.464032 30.999941 27.999941 30.464032 28 29.875 L 28 27.03125 L 30.875 27.03125 C 31.464032 27.031191 31.999941 26.495281 32 25.90625 L 32 24.125 C 31.999941 23.535967 31.464032 23.000059 30.875 23 L 28 23 L 28 20.125 C 27.999941 19.535968 27.464032 19.000059 26.875 19 L 25.125 19 C 25.04716 18.9918 24.952841 18.9918 24.875 19 z "
      id="rect3039" />
 </svg>

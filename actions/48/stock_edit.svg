@@ -14,7 +14,7 @@
    height="48"
    width="48"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="gtk-edit.svg">
   <metadata
      id="metadata49">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      id="namedview47"
      showgrid="false"
      inkscape:zoom="2.9384766"
      inkscape:cx="15.236956"
      inkscape:cy="36.676637"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3277" />
   <defs
@@ -220,8 +220,8 @@
     </filter>
   </defs>
   <path
-     style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 35.502865,5.5 c 0,0 1.09987,0.039698 4.028653,2.968481 C 42.354284,11.291247 42.5,12.497134 42.5,12.497134 L 16.313753,38.683381 5.4999998,42.5 9.3166191,31.686247 z"
+     style="fill:#555555;fill-opacity:1;stroke:none"
+     d="m 31.461318,12 c 0,0 0.713429,0.02575 2.61318,1.925501 C 35.905481,15.756485 36,16.538682 36,16.538682 L 19.014326,33.524355 12,36 14.475645,28.985674 z"
      id="rect3026"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csccccc" />

@@ -13,8 +13,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="format-indent-more.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="format-justify-center.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -30,10 +30,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,47 +56,33 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3767"
-       width="48"
-       height="48"
-       x="0"
-       y="1004.3622" />
-    <rect
-       style="fill:none;stroke:none"
-       id="rect2991"
-       width="48"
-       height="48"
-       x="0"
-       y="1004.3622" />
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:none"
        d="m 38,1013.3622 0,2 -28,0 0,-2 z"
        id="path2995"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:none"
        d="m 35,1017.3622 0,2 -22,0 0,-2 z"
        id="path2995-7"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:none"
        d="m 38,1021.3622 0,2 -28,0 0,-2 z"
        id="path2995-3"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:none"
        d="m 35,1025.3622 0,2 -22,0 0,-2 z"
        id="path2995-7-5"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:none"
        d="m 38.000002,1029.3622 0,2 -28.0000045,0 0,-2 z"
        id="path2995-4"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:none"
        d="m 35.000001,1033.3622 0,2 -22.000002,0 0,-2 z"
        id="path2995-7-8"
        inkscape:connector-curvature="0" />

@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="preferences-system-bluetooth.svg">
   <defs
      id="defs4">
@@ -223,15 +223,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284273"
-     inkscape:cx="-45.364998"
+     inkscape:cx="-43.79804"
      inkscape:cy="71.054173"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -254,24 +254,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:url(#linearGradient3801);fill-opacity:1;stroke:none"
-       id="rect2991"
-       width="48"
-       height="48"
-       x="0"
-       y="-1052.3622"
-       ry="1.9445436"
-       transform="scale(1,-1)" />
-    <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       transform="translate(0,1004.3622)"
-       id="rect3790" />
     <path
        inkscape:connector-curvature="0"
        id="path2311"
        d="m 22.489262,1012.3622 0,12.7553 -6.967558,-5.3332 -2.361047,1.8915 8.668173,6.6864 -8.80026,6.6863 2.757306,2.0888 6.703386,-5.4254 0,12.6503 12.482167,-9.3137 -8.271912,-6.5811 8.007739,-6.4895 -12.217994,-9.6157 z m 3.417736,6.1741 4.078169,3.5468 -4.078168,3.1395 0,-6.6863 z m -0.132088,13.2808 4.342343,3.1264 -4.078167,2.8243 -0.264176,-5.9507 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline" />
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline" />
   </g>
 </svg>

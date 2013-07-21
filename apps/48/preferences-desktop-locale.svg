@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="config-language.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="preferences-desktop-locale.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -128,19 +128,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="72.943342"
-     inkscape:cy="22.956378"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="23.559951"
+     inkscape:cy="24.177197"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3001" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -158,36 +162,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:url(#linearGradient3789);fill-opacity:1;stroke:none"
-       id="rect2985"
-       width="48"
-       height="48"
-       x="0"
-       y="1004.3622"
-       ry="0" />
-    <rect
-       style="fill:none;stroke:none"
-       id="rect3783"
-       width="48"
-       height="48"
-       x="-0.063405097"
-       y="1004.3622" />
     <path
-       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 0,1004.3622 0,48 16.78125,0 12.84375,-48 -29.625,0 z"
-       id="rect3790"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:37.33955765px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="6.450408"
-       y="1039.9935"
-       id="text3791"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3793"
-         x="6.450408"
-         y="1039.9935">語</tspan></text>
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b32d1b;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 9.78125 7.96875 A 2.0002 2.0002 0 0 0 8 10 L 8 38 A 2.0002 2.0002 0 1 0 12 38 L 12 29.375 C 13.647777 29.949713 17.074166 31 20 31 C 24 31 26 29 30 29 C 34 29 38 31 38 31 L 38 13 C 38 13 34 10 30 10 C 26 10 24 12 20 12 C 17.074166 12 13.647777 10.949713 12 10.375 L 12 10 A 2.0002 2.0002 0 0 0 9.78125 7.96875 z "
+       transform="translate(0,1004.3622)"
+       id="path3003" />
   </g>
 </svg>

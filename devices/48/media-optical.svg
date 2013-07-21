@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gnome-cd.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="media-cdrw.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -157,16 +157,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="11.795207"
-     inkscape:cy="41.527354"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-26.565336"
+     inkscape:cy="25.027354"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -189,14 +189,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:url(#linearGradient3036);fill-opacity:1;stroke:none"
-       id="rect2991-6"
-       width="48"
-       height="48"
-       x="0"
-       y="1004.3622"
-       ry="1.9445436" />
     <g
        id="g3022"
        transform="translate(-39.597979,0)">
@@ -231,12 +223,7 @@
          style="fill:none;stroke:#ffffff;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       transform="translate(0,1004.3622)"
-       id="rect3790" />
-    <path
-       style="fill:#fffffd;fill-opacity:1;stroke:none"
+       style="fill:#919fa9;fill-opacity:1;stroke:none"
        d="M 24 8 C 15.163444 8 8 15.163444 8 24 C 8 32.836556 15.163444 40 24 40 C 32.836556 40 40 32.836556 40 24 C 40 15.163444 32.836556 8 24 8 z M 24 19 C 26.755501 19 29 21.2445 29 24 C 29 26.7555 26.755501 29 24 29 C 21.244499 29 19 26.7555 19 24 C 19 21.2445 21.244499 19 24 19 z M 24 20 C 21.784939 20 20 21.7849 20 24 C 20 26.2151 21.784939 28 24 28 C 26.215061 28 28 26.2151 28 24 C 28 21.7849 26.215061 20 24 20 z M 24 21.5 C 25.380712 21.5 26.5 22.619288 26.5 24 C 26.5 25.380712 25.380712 26.5 24 26.5 C 22.619288 26.5 21.5 25.380712 21.5 24 C 21.5 22.619288 22.619288 21.5 24 21.5 z "
        transform="translate(0,1004.3622)"
        id="path3153" />

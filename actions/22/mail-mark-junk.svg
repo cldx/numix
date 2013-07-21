@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="editdelete.svg"
+   sodipodi:docname="gtk-delete.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -463,14 +463,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.896381"
-     inkscape:cx="11.739631"
-     inkscape:cy="8.2941567"
+     inkscape:zoom="8.4120113"
+     inkscape:cx="11.234476"
+     inkscape:cy="7.4284866"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -560,9 +560,9 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
-       d="m 11,1033.3622 c -4.418278,0 -8,3.5817 -8,8 0,4.4183 3.581722,8 8,8 4.418278,0 8,-3.5817 8,-8 0,-4.4183 -3.581722,-8 -8,-8 z m 0.0625,3.0313 c 2.761424,0 5,2.2385 5,5 0,1.0355 -0.304628,1.9832 -0.84375,2.7812 l -6.9375,-6.9375 c 0.798005,-0.5391 1.745716,-0.8437 2.78125,-0.8437 z m -4.1875,2.25 6.9375,6.9375 c -0.79097,0.5246 -1.729766,0.8125 -2.75,0.8125 -2.7614237,0 -5,-2.2386 -5,-5 0,-1.0203 0.2878938,-1.9591 0.8125,-2.75 z"
-       id="path3083"
+       style="fill:#555555;fill-opacity:1;stroke:none"
+       d="m 11,1033.3622 c -4.418278,0 -8,3.5817 -8,8 0,4.4183 3.581722,8 8,8 4.418278,0 8,-3.5817 8,-8 0,-4.4183 -3.581722,-8 -8,-8 z m -2.84375,4.125 a 1.0001,1.0001 0 0 1 0.71875,0.3125 l 2.125,2.125 2.125,-2.125 a 1.0001,1.0001 0 0 1 0.59375,-0.2812 1.0001,1.0001 0 0 1 0.8125,1.7187 l -2.09375,2.125 2.09375,2.0938 a 1.0054782,1.0054782 0 1 1 -1.40625,1.4375 l -2.125,-2.125 -2.125,2.125 a 1.0054782,1.0054782 0 1 1 -1.40625,-1.4375 l 2.09375,-2.0938 -2.09375,-2.125 a 1.0001,1.0001 0 0 1 0.5,-1.7187 1.0001,1.0001 0 0 1 0.1875,-0.031 z"
+       id="path3084"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

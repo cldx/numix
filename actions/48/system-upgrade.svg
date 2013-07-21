@@ -217,11 +217,11 @@
      inkscape:groupmode="layer">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:none"
        d="m 5.5234377,13.035716 c -0.84529,0 -1.5234375,0.690795 -1.5234375,1.5625 l 0,26.875 c 0,0.871705 0.6781475,1.5625 1.5234375,1.5625 l 36.9531253,0 c 0.84529,0 1.523437,-0.690795 1.523437,-1.5625 l 0,-26.875 c 0,-0.871705 -0.678147,-1.5625 -1.523437,-1.5625 l -36.9531253,0 z m 18.5156253,5 7.460937,11.25 -3.75,0 0,8.75 -7.5,0 0,-8.75 -3.75,0 7.539063,-11.25 z"
        id="rect3024" />
     <path
-       style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
+       style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:none"
        d="m 19,13 0,-4 10,0 0,4 4,0 0,-4 c 0,0 0,-4 -4,-4 -3.636364,0 -10,0 -10,0 0,0 -4,0 -4,4 0,3.636375 0,4 0,4 z"
        id="path3794"
        inkscape:connector-curvature="0"

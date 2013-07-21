@@ -89,7 +89,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.00000000000000004;fill:#5555555;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="opacity:1.00000000000000004;fill:#555555#5555555;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="M 24.489002,35 41,24.000001 l -16.510998,-11 0,21.999999 z M 7.0000003,35 23.482233,24 7.0000004,13 l 0,21.999999 z"
      id="path2992"
      inkscape:connector-curvature="0" />

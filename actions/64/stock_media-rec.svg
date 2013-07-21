@@ -22,8 +22,8 @@
   </radialGradient>
  </defs>
  <g id="layer1">
-  <path id="path8836-1" style="opacity:.3;fill-rule:evenodd;fill:url(#radialGradient3983)" d="m63 53.5c0 5.799-13.879 10.5-31 10.5s-31-4.701-31-10.5 13.879-10.5 31-10.5 31 4.701 31 10.5z"/>
-  <path id="path2555-5" style="stroke-linejoin:round;stroke:url(#linearGradient3052);stroke-linecap:round;fill:url(#radialGradient3050)" d="m32 8.5018c-14.069 0-25.498 11.429-25.498 25.498s11.429 25.498 25.498 25.498 25.498-11.429 25.498-25.498-11.429-25.498-25.498-25.498z"/>
-  <path id="path8655-9" style="opacity:.4;stroke:url(#linearGradient3047);fill:none" d="m56.5 33.999c0 13.531-10.97 24.501-24.5 24.501-13.531 0-24.5-10.97-24.5-24.501s10.969-24.499 24.5-24.499c13.53 0 24.5 10.968 24.5 24.499z"/>
+  <path id="path8836-1" style="opacity:.3;fill:#555555-rule:evenodd;fill:url(#radialGradient3983)" d="m63 53.5c0 5.799-13.879 10.5-31 10.5s-31-4.701-31-10.5 13.879-10.5 31-10.5 31 4.701 31 10.5z"/>
+  <path id="path2555-5" style="stroke-linejoin:round;stroke:url(#linearGradient3052);stroke-linecap:round;fill:#555555url(#radialGradient3050)" d="m32 8.5018c-14.069 0-25.498 11.429-25.498 25.498s11.429 25.498 25.498 25.498 25.498-11.429 25.498-25.498-11.429-25.498-25.498-25.498z"/>
+  <path id="path8655-9" style="opacity:.4;stroke:url(#linearGradient3047);fill:#555555none" d="m56.5 33.999c0 13.531-10.97 24.501-24.5 24.501-13.531 0-24.5-10.97-24.5-24.501s10.969-24.499 24.5-24.499c13.53 0 24.5 10.968 24.5 24.499z"/>
  </g>
 </svg>

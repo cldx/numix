@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gtk-select-color.svg"
+   sodipodi:docname="preferences-color.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -436,13 +436,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.7812503"
-     inkscape:cx="18.522787"
+     inkscape:cx="-26.862831"
      inkscape:cy="28.242264"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -526,7 +526,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -536,25 +536,25 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="fill:#dedede;fill-opacity:1;stroke:none"
+       style="fill:#808080;fill-opacity:1;stroke:none;opacity:1"
        d="m 24,1013.3622 c -5.522847,0 -10,4.4772 -10,10 0,0.2782 0.03992,0.5405 0.0625,0.8125 -3.561288,1.5304 -6.0625,5.0655 -6.0625,9.1875 0,5.5228 4.477153,10 10,10 2.27478,0 4.3198,-0.7832 6,-2.0625 1.6802,1.2793 3.72522,2.0625 6,2.0625 5.522848,0 10,-4.4772 10,-10 0,-4.1115 -2.515646,-7.5884 -6.0625,-9.125 0.02625,-0.2954 0.0625,-0.5728 0.0625,-0.875 0,-5.5228 -4.477152,-10 -10,-10 z m 0,4 c 3.313708,0 6,2.6863 6,6 -3.807034,0 -7.060684,2.1817 -8.75,5.3125 -1.923507,-0.9995 -3.25,-2.995 -3.25,-5.3125 0,-3.3137 2.686292,-6 6,-6 z m 6,10 c 3.313708,0 6,2.6863 6,6 0,3.3137 -2.686292,6 -6,6 -3.313708,0 -6,-2.6863 -6,-6 0,-3.3137 2.686292,-6 6,-6 z m -14.75,0.6875 c 1.072288,1.9609 2.741049,3.5401 4.8125,4.4375 -0.02625,0.2954 -0.0625,0.5728 -0.0625,0.875 0,1.8375 0.51021,3.5204 1.375,5 -0.957606,0.6469 -2.132359,1 -3.375,1 -3.313708,0 -6,-2.6863 -6,-6 0,-2.3175 1.326493,-4.313 3.25,-5.3125 z"
        id="path3104"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:0.2;fill:#dedede;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#dedede;fill-opacity:0.56351793;stroke:none"
        d="m 15.25,1028.0497 c -0.04102,0.021 -0.08453,0.04 -0.125,0.062 -0.433963,0.2382 -0.826327,0.5422 -1.1875,0.875 -0.05461,0.051 -0.134808,0.072 -0.1875,0.125 -0.13762,0.1365 -0.251034,0.2884 -0.375,0.4375 -0.171646,0.2065 -0.356985,0.4591 -0.5,0.6875 -0.153312,0.251 -0.259316,0.539 -0.375,0.8125 -0.148656,0.3492 -0.29507,0.6827 -0.375,1.0625 -0.0085,0.04 0.0078,0.085 0,0.125 -0.06783,0.359 -0.125,0.7458 -0.125,1.125 0,3.3138 2.686292,6 6,6 0.414214,0 0.796914,-0.045 1.1875,-0.125 0.781171,-0.1598 1.549096,-0.4437 2.1875,-0.875 -0.86479,-1.4796 -1.375,-3.1626 -1.375,-5 0,-0.3022 0.03626,-0.5796 0.0625,-0.875 -2.071451,-0.8974 -3.740212,-2.4767 -4.8125,-4.4375 z"
        id="path3219"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccsccccssscscc" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.4;fill:#dedede;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#dedede;fill-opacity:1;stroke:none"
        id="path3240"
        sodipodi:cx="15"
        sodipodi:cy="15"
        sodipodi:rx="3"
        sodipodi:ry="3"
-       d="m 18,15 a 3,3 0 1 1 -6,0 3,3 0 1 1 6,0 z"
+       d="m 18,15 c 0,1.656854 -1.343146,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 1.656854,0 3,1.343146 3,3 z"
        transform="matrix(2,0,0,2,0,1003.3622)" />
   </g>
 </svg>

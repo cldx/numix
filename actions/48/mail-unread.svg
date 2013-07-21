@@ -305,7 +305,7 @@
     </radialGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="opacity:1.0;fill:#555555#5555555;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m 24,8 -3.628866,7.257732 -7.681885,-2.568483 2.568483,7.681885 L 8,24 15.257732,27.628866 12.689249,35.310751 20.371134,32.742268 24,40 27.628866,32.742268 35.310751,35.310751 32.742268,27.628866 40,24 32.742268,20.371134 35.310751,12.689249 27.628866,15.257732 24,8 z"
      id="path3888"
      inkscape:connector-curvature="0" />

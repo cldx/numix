@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="drive-cdrom.svg">
   <defs
      id="defs4">
@@ -157,16 +157,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="50.956177"
-     inkscape:cy="37.520849"
+     inkscape:zoom="11.313708"
+     inkscape:cx="12.286274"
+     inkscape:cy="21.9645"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -180,7 +180,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,41 +189,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:url(#linearGradient3036);fill-opacity:1;stroke:none"
-       id="rect2991-6"
-       width="48"
-       height="48"
-       x="0"
-       y="1004.3622"
-       ry="1.9445436" />
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
+       style="fill:#919fa9;fill-opacity:1;stroke:none"
+       d="M 13.4375 8 C 12.101526 8 11 9.1015 11 10.4375 L 11 30.53125 C 11 31.86725 12.101526 33 13.4375 33 L 34.5625 33 C 35.898474 33 37 31.86725 37 30.53125 L 37 10.4375 C 37 9.1015 35.898474 8 34.5625 8 L 13.4375 8 z M 13.4375 10 L 34.5625 10 C 34.825068 10 35 10.1749 35 10.4375 L 35 30.53125 C 35 30.79385 34.825068 31 34.5625 31 L 13.4375 31 C 13.174932 31 13 30.79385 13 30.53125 L 13 10.4375 C 13 10.1749 13.174932 10 13.4375 10 z M 33 28 C 32.447715 28 32 28.447715 32 29 C 32 29.552285 32.447715 30 33 30 C 33.552285 30 34 29.552285 34 29 C 34 28.447715 33.552285 28 33 28 z M 14.65625 34 C 16.120869 37.5192 19.754904 40 24 40 C 28.245096 40 31.879131 37.5192 33.34375 34 L 14.65625 34 z "
        transform="translate(0,1004.3622)"
-       id="rect3790" />
-    <path
-       style="fill:#fffffd;fill-opacity:1;stroke:none"
-       d="m 14.65625,1038.3622 c 1.464619,3.5192 5.098654,6 9.34375,6 4.245096,0 7.879131,-2.4808 9.34375,-6 l -18.6875,0 z"
-       id="path3153"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3106"
-       width="24"
-       height="23.000017"
-       x="12"
-       y="1013.3622"
-       ry="1.442727" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="path3879"
-       sodipodi:cx="33"
-       sodipodi:cy="27"
-       sodipodi:rx="1"
-       sodipodi:ry="1"
-       d="m 34,27 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
-       transform="translate(0,1006.3622)" />
+       id="path3153" />
   </g>
 </svg>

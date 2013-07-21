@@ -447,14 +447,14 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       style="fill:#555555;fill-opacity:1;stroke:none;opacity:1"
+       style="fill:#555555#2d2d2d#bada55;fill-opacity:1;stroke:none;opacity:1"
        d="m 10,1032.3622 0,4 2,0 0,12 -4,0 0,3 16,0 0,-3 -4,0 0,-16 -8,0 z"
        id="path3056"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
     <path
        sodipodi:type="arc"
-       style="opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:1;fill:#555555#2d2d2d#bada55;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path3074"
        sodipodi:cx="16"
        sodipodi:cy="5"

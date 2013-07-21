@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gnome-power-manager.svg">
+   sodipodi:docname="gnome-dev-battery.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -58,13 +58,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="58.93451"
+     inkscape:cx="20.18451"
      inkscape:cy="13.777449"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,15 +94,6 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <rect
-       style="fill:url(#linearGradient3216);fill-opacity:1;stroke:none"
-       id="rect2991"
-       width="48"
-       height="48"
-       x="5.887604e-08"
-       y="-1052.3622"
-       ry="1.9445436"
-       transform="scale(1,-1)" />
-    <rect
        style="fill:none;stroke:none"
        id="rect2995"
        width="48"
@@ -111,15 +102,10 @@
        y="1004.3622"
        ry="1.8835796" />
     <path
-       style="fill:#fffffd;fill-opacity:1;stroke:none"
+       style="fill:#808080;fill-opacity:1;stroke:none"
        d="m 20,1012.3622 0,3 -4,0 0,29 16,0 0,-29 -4,0 0,-3 z"
        id="rect2985"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 2,1004.3622 c -1.108,0 -2,0.892 -2,2 l 0,44 c 0,1.108 0.892,2 2,2 l 14.78125,0 12.84375,-48 -27.625,0 z"
-       id="rect3790" />
   </g>
 </svg>

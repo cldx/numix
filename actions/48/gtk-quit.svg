@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="application-exit.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="exit.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -406,15 +406,6 @@
          style="stop-color:#8cab2a"
          id="stop2268-7-5" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter4102"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.84407717"
-         id="feGaussianBlur4104" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4481"
@@ -445,13 +436,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.7617088"
-     inkscape:cx="27.049085"
+     inkscape:cx="-5.0433943"
      inkscape:cy="25.483301"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -540,20 +531,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <g
-       transform="matrix(2.1474523,0,0,2.1565983,-26.465124,979.54359)"
-       style="fill:none;stroke:#000000;stroke-width:2.45613979999999987;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;opacity:1.0"
-       id="g2419">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 19.282,15.806 c -6.9924,3.8128 -3.8304,14.739 4.1635,14.739 7.9107,0 11.456,-10.358 4.1635,-14.739"
-         style="fill:none;stroke:#000000;stroke-width:2.45613979999999987;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none"
-         id="path3339" />
-      <path
-         inkscape:connector-curvature="0"
-         d="M 23.5,20.496 V 13.0829"
-         style="fill:none;stroke:#000000;stroke-width:2.45613979999999987;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none"
-         id="path3341" />
-    </g>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:5.28566313;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 23.96875 0.6875 A 2.6430958 2.6430958 0 0 0 21.34375 3.375 L 21.34375 19.375 A 2.65625 2.65625 0 0 0 26.65625 19.375 L 26.65625 3.375 A 2.6430958 2.6430958 0 0 0 23.96875 0.6875 z M 14.84375 6.59375 A 2.6430958 2.6430958 0 0 0 13.6875 6.9375 C 5.0995817 11.6403 2.5681528 21.07205 4.8125 28.96875 C 7.0568472 36.86535 14.082524 43.6875 23.875 43.6875 C 33.527319 43.6875 40.746301 37.24585 43.125 29.46875 C 45.503699 21.69155 42.968674 12.2978 34.1875 7 A 2.6430958 2.6430958 0 1 0 31.46875 11.53125 C 38.347871 15.68155 39.822371 22.15245 38.0625 27.90625 C 36.302629 33.66015 31.210532 38.40625 23.875 38.40625 C 16.500957 38.40635 11.563443 33.4407 9.875 27.5 C 8.1865567 21.5593 9.790823 15.0824 16.21875 11.5625 A 2.6430958 2.6430958 0 0 0 14.84375 6.59375 z "
+       transform="translate(0,1004.3622)"
+       id="path3339" />
   </g>
 </svg>

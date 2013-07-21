@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="multimedia-player-apple-ipod-touch.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="multimedia-player-ipod-touch.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -315,15 +315,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568545"
-     inkscape:cx="7.0933437"
-     inkscape:cy="27.333328"
+     inkscape:cx="-31.267197"
+     inkscape:cy="28.747541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="721"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -348,21 +348,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:url(#linearGradient3036);fill-opacity:1;stroke:none"
-       id="rect2991-6"
-       width="48"
-       height="48"
-       x="0"
-       y="1004.3622"
-       ry="1.9445436" />
     <path
-       style="fill:#ffffff;stroke:none;fill-opacity:1;opacity:0.15"
-       d="M 0 0 L 0 48 L 16.78125 48 L 29.625 0 L 0 0 z "
-       transform="translate(0,1004.3622)"
-       id="rect3790" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#919fa9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 18.625 8 C 17.190566 8 16 9.15925 16 10.59375 L 16 37.375 C 16 38.8094 17.190566 40 18.625 40 L 29.375 40 C 30.809434 40 32 38.8094 32 37.375 L 32 10.59375 C 32 9.15925 30.809434 8 29.375 8 L 18.625 8 z M 22.5 10 L 25.5 10 C 25.777 10 26 10.223 26 10.5 C 26 10.777 25.777 11 25.5 11 L 22.5 11 C 22.223 11 22 10.777 22 10.5 C 22 10.223 22.223 10 22.5 10 z M 18 12 L 30 12 L 30 36 L 18 36 L 18 12 z M 24 37 C 24.552285 37 25 37.447715 25 38 C 25 38.552285 24.552285 39 24 39 C 23.447715 39 23 38.552285 23 38 C 23 37.447715 23.447715 37 24 37 z "
        transform="translate(0,1004.3622)"
        id="rect3683" />

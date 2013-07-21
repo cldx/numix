@@ -15,7 +15,7 @@
    width="16"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="editclear.svg">
+   sodipodi:docname="gtk-clear.svg">
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="19.124999"
-     inkscape:cx="15.863921"
-     inkscape:cy="12.547396"
+     inkscape:zoom="27.046833"
+     inkscape:cx="14.241372"
+     inkscape:cy="11.127928"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -140,8 +140,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#5555555;fill-opacity:1;stroke:none"
-     d="M 6,2 0,8 6,14 16,14 16,2 6,2 z m 1,2 7,0 0,8 L 7,12 3,8 7,4 z m 0,1 0,2 1,0 0,2 -1,0 0,2 2,0 0,-1 2,0 0,1 2,0 L 13.0625,9 12,9 12.0625,7 13,7 13,5 11,5 11,6 9,6 9,5 7,5 z"
-     id="path2998"
-     inkscape:connector-curvature="0" />
+     style="fill:#555555#2d2d2d;fill-opacity:1;stroke:none"
+     d="M 6 2 L 0 8 L 6 14 L 16 14 L 16 2 L 6 2 z M 7 5 L 9 5 L 9 6 L 11 6 L 11 5 L 13 5 L 13 7 L 12.0625 7 L 12 9 L 13.0625 9 L 13 11 L 11 11 L 11 10 L 9 10 L 9 11 L 7 11 L 7 9 L 8 9 L 8 7 L 7 7 L 7 5 z "
+     id="path2998" />
 </svg>

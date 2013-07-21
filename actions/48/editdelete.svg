@@ -463,8 +463,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.075"
-     inkscape:cx="35.673533"
+     inkscape:zoom="9.9525279"
+     inkscape:cx="13.870027"
      inkscape:cy="24.820823"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -561,9 +561,8 @@
      transform="translate(0,-1004.3622)">
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 23.78125,1008.375 c -5.121584,0 -10.226028,1.9448 -14.125,5.8438 -7.7979502,7.7979 -7.7979244,20.4833 0,28.2812 7.797921,7.7979 20.483307,7.7979 28.28125,0 7.797951,-7.7979 7.797924,-20.4833 0,-28.2812 -3.898961,-3.899 -9.034666,-5.8438 -14.15625,-5.8438 z m 0,7.9688 c 3.06793,0 6.150573,1.1818 8.5,3.5312 3.678801,3.6788 4.269307,9.0594 2.1875,13.5 l -15.78125,-15.75 c 1.628212,-0.7776 3.328712,-1.2813 5.09375,-1.2812 z m -10.75,6.9374 15.75,15.75 c -4.438456,2.0749 -9.793228,1.4881 -13.46875,-2.1874 -3.690418,-3.6904 -4.387663,-9.1112 -2.28125,-13.5626 z"
-       id="path3086"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssscscccccsc" />
+       d="M 23.78125 4 C 18.659666 4 13.555222 5.94475 9.65625 9.84375 C 1.8582998 17.64165 1.8583256 30.3271 9.65625 38.125 C 17.454171 45.9229 30.139557 45.9229 37.9375 38.125 C 45.735451 30.3271 45.735424 17.64165 37.9375 9.84375 C 34.038539 5.94475 28.902834 4 23.78125 4 z M 17.15625 14.0625 A 3.0003 3.0003 0 0 1 19.59375 15.03125 L 24.09375 19.75 L 28.8125 15.25 A 3.0003 3.0003 0 0 1 32.84375 15.09375 A 3.0003 3.0003 0 0 1 32.96875 19.59375 L 28.21875 24.09375 L 32.6875 28.8125 A 3.0003 3.0003 0 0 1 32.875 32.84375 A 3.0003 3.0003 0 0 1 28.34375 32.96875 L 23.875 28.25 L 19.15625 32.71875 A 3.0003 3.0003 0 1 1 15.03125 28.375 L 19.75 23.90625 L 15.25 19.15625 A 3.0003 3.0003 0 0 1 17.15625 14.0625 z "
+       transform="translate(0,1004.3622)"
+       id="path3086" />
   </g>
 </svg>

@@ -14,8 +14,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="start-here.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gnome-main-menu.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -561,15 +561,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="33.371922"
+     inkscape:cx="14.19165"
      inkscape:cy="0.8371426"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="723"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -657,24 +657,9 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       sodipodi:type="arc"
-       style="opacity:1.0;fill:none;stroke:#000000;stroke-width:5.47058868;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:cx="22.5"
-       sodipodi:cy="24.25"
-       sodipodi:rx="15.5"
-       sodipodi:ry="15.5"
-       d="m 38,24.25 c 0,8.560414 -6.939586,15.5 -15.5,15.5 C 13.939586,39.75 7,32.810414 7,24.25 7,15.689586 13.939586,8.75 22.5,8.75 c 8.560414,0 15.5,6.939586 15.5,15.5 z"
-       transform="matrix(0.54838709,0,0,0.54838709,-1.3387095,1028.0638)"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c4905e;fill-opacity:1;stroke:none;stroke-width:5.47058867999999965;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 11 1 C 5.4949197 1 1 5.4949 1 11 C 1 16.5051 5.4949197 21 11 21 C 16.50508 21 21 16.5051 21 11 C 21 5.4949 16.50508 1 11 1 z M 11 4 C 14.88376 4 18 7.1162 18 11 C 18 14.8837 14.88376 18 11 18 C 7.1162398 18 4 14.8837 4 11 C 4 7.1162 7.1162398 4 11 4 z M 11 8 C 9.3609127 8 8 9.3609 8 11 C 8 12.6391 9.3609127 14 11 14 C 12.639087 14 14 12.6391 14 11 C 14 9.3609 12.639087 8 11 8 z "
+       transform="translate(0,1030.3622)"
        id="path128" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:1.0;fill:#c4905e;fill-opacity:1;stroke:#000000;stroke-width:31.00000191;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3129-6-4"
-       sodipodi:cx="22.5"
-       sodipodi:cy="24.25"
-       sodipodi:rx="15.5"
-       sodipodi:ry="15.5"
-       d="m 38,24.25 c 0,8.560414 -6.939586,15.5 -15.5,15.5 C 13.939586,39.75 7,32.810414 7,24.25 7,15.689586 13.939586,8.75 22.5,8.75 c 8.560414,0 15.5,6.939586 15.5,15.5 z"
-       transform="matrix(0.09677419,0,0,0.09677419,8.8225807,1039.0154)" />
   </g>
 </svg>
