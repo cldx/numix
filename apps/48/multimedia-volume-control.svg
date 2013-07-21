@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gnome-mixer.svg">
+   sodipodi:docname="multimedia-volume-control.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -869,17 +869,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="26.688417"
-     inkscape:cy="31.877785"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="14.592424"
+     inkscape:cy="20.891421"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3116" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -888,7 +892,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -898,10 +902,14 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="fill:#808080;fill-opacity:1"
-       d="m 21.646446,1012.3622 -8,8 -5.9999994,0 0,16 5.9999994,0 8,8 z m 14,0 0,32 4,0 0,-32 z m -6,4 0,24 4,0 0,-24 z m -6,6 0,12 4,0 0,-12 z"
-       id="rect2384"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccc" />
+       style="fill:#738287;fill-opacity:1;stroke:none"
+       d="M 24 9 C 15.715729 9 9 15.715729 9 24 C 9 32.284271 15.715729 39 24 39 C 32.284271 39 39 32.284271 39 24 C 39 15.715729 32.284271 9 24 9 z M 24 12 C 30.627417 12 36 17.372583 36 24 C 36 30.627417 30.627417 36 24 36 C 17.372583 36 12 30.627417 12 24 C 12 17.372583 17.372583 12 24 12 z "
+       transform="translate(0,1004.3622)"
+       id="path3120" />
+    <path
+       style="fill:#738287;fill-opacity:1;stroke:none"
+       d="M 24 13 C 17.924868 13 13 17.924868 13 24 C 13 30.075132 17.924868 35 24 35 C 30.075132 35 35 30.075132 35 24 C 35 17.924868 30.075132 13 24 13 z M 24 20 C 26.209139 20 28 21.790861 28 24 C 28 26.209139 26.209139 28 24 28 C 21.790861 28 20 26.209139 20 24 C 20 21.790861 21.790861 20 24 20 z "
+       transform="translate(0,1004.3622)"
+       id="path3123" />
   </g>
 </svg>

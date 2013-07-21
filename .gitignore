@@ -1,2 +1,4 @@
-index.theme~
+#Ignore Backup Files
+*~
+#Ignore Icon Cache
 icon-theme.cache
