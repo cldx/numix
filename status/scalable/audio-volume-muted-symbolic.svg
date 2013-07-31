@@ -14,7 +14,7 @@
    width="16"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="audio-volume-muted-blocked-panel.svg">
+   sodipodi:docname="audio-volume-muted-blocking-panel.svg">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -58,7 +58,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="m 5.8749997,2.0194942 c -0.22185,0.024 -0.4346597,0.12479 -0.5937497,0.28125 l -2.71875,2.7187507 -1.56250001,0 C 0.47641,5.0195449 5e-5,5.4959139 0,6.019495 l 0,4 c 5e-5,0.52358 0.47641,0.99995 0.99999999,1 l 1.56250001,0 2.71875,2.71875 c 0.5553597,0.5743 1.73753,0.0799 1.7187497,-0.71875 l 0,-10.0000008 c 0.004,-0.56796 -0.5614697,-1.07095 -1.125,-1 z m 4,2.9687505 a 1.0001,1.0001 0 0 0 -0.125,0.0312 A 1.0001,1.0001 0 0 0 9.25,6.738195 l 1.28125,1.2813 -1.3125,1.28125 a 1.0164662,1.0164662 0 1 0 1.4375,1.4375 l 1.3125,-1.28125 1.28125,1.28125 a 1.0164662,1.0164662 0 1 0 1.4375,-1.4375 l -1.28125,-1.28125 1.25,-1.28125 a 1.0001,1.0001 0 0 0 0.28125,-0.9375003 1.0001,1.0001 0 0 0 -1.71875,-0.5 L 11.96875,6.581995 10.6875,5.3007447 A 1.0001,1.0001 0 0 0 9.8749997,4.9882445 z"
      id="path10471-0-2-8-6"
      inkscape:connector-curvature="0" />

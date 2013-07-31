@@ -14,7 +14,7 @@
    width="16"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="audio-volume-medium-panel.svg">
+   sodipodi:docname="audio-volume-medium.svg">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview7"
      showgrid="true"
      inkscape:zoom="13.906433"
-     inkscape:cx="10.951826"
+     inkscape:cx="-4.5805539"
      inkscape:cy="10.153283"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -57,20 +57,30 @@
        enabled="true"
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
-  <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1"
-     d="m 7,0 -4,4 -3,0 0,8 3,0 4,4 z m 1,5 0,6 2,0 0,-6 z"
-     id="rect2384"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccc" />
-  <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 11,2 0,12 2,0 0,-12 z"
-     id="path2983"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 14,0 0,16 2,0 0,-16 z"
-     id="path3753"
-     inkscape:connector-curvature="0" />
+  <g
+     transform="translate(-97.051955,-227.01424)"
+     id="g10553"
+     style="fill:#555555;fill-opacity:1">
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path10471-9"
+       d="m 102.92695,229 c -0.22184,0.024 -0.43465,0.12479 -0.59375,0.28125 L 99.614455,232 l -1.5625,0 c -0.523584,5e-5 -0.999948,0.47642 -1,1 l 0,4 c 5.2e-5,0.52358 0.476416,0.99995 1,1 l 1.5625,0 2.718745,2.71875 c 0.55537,0.5743 1.73754,0.0799 1.71875,-0.71875 l 0,-10 c 0.004,-0.56796 -0.56146,-1.07095 -1.125,-1 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10480-4"
+       d="m 105.8332,232 a 1.0001,1.0001 0 0 0 -0.78125,1 l 0,4 a 1.0001,1.0001 0 1 0 2,0 l 0,-4 a 1.0001,1.0001 0 0 0 -1.21875,-1 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10486-6"
+       d="m 108.8332,230 a 1.0001,1.0001 0 0 0 -0.78125,1 l 0,8 a 1.0001,1.0001 0 1 0 2,0 l 0,-8 a 1.0001,1.0001 0 0 0 -1.21875,-1 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10492-4"
+       d="m 111.8332,228 a 1.0001,1.0001 0 0 0 -0.78125,1 l 0,12 a 1.0001,1.0001 0 1 0 2,0 l 0,-12 a 1.0001,1.0001 0 0 0 -1.21875,-1 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.20000000000000001;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
 </svg>

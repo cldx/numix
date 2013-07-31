@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview7"
      showgrid="true"
      inkscape:zoom="13.906433"
-     inkscape:cx="10.951826"
+     inkscape:cx="-4.5805539"
      inkscape:cy="10.153283"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -58,9 +58,8 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1"
-     d="m 11,4 -4,4 -3,0 0,8 3,0 4,4 z m 7,0 0,16 2,0 0,-16 z m -3,2 0,12 2,0 0,-12 z m -3,3 0,6 2,0 0,-6 z"
-     id="rect2384"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccc" />
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="m 18.780474,4.9545077 a 1.0001,1.0001 0 0 0 0,0.03125 1.0001,1.0001 0 0 0 -0.78125,1 l 0,12.0000003 a 1.0001,1.0001 0 1 0 2,0 l 0,-12.0000003 a 1.0001,1.0001 0 0 0 -1.21875,-1.03125 z m -8.90625,1.03125 c -0.221847,0.024 -0.434655,0.12479 -0.59375,0.28125 l -2.71875,2.71875 -1.5625,0 c -0.523584,5e-5 -0.999948,0.4764202 -1,0.9999998 l 0,4.0000005 c 5.2e-5,0.52358 0.476416,0.99995 1,1 l 1.5625,0 2.71875,2.71875 c 0.555366,0.5743 1.737538,0.07993 1.71875,-0.71875 l 0,-10.0000003 c 0.0044,-0.56796 -0.561468,-1.07095 -1.125,-1 z m 5.90625,0.96875 a 1.0001,1.0001 0 0 0 0,0.03125 1.0001,1.0001 0 0 0 -0.78125,1 l 0,8.0000003 a 1.0001,1.0001 0 1 0 2,0 l 0,-8.0000003 a 1.0001,1.0001 0 0 0 -1.21875,-1.03125 z m -3,2 a 1.0001,1.0001 0 0 0 0,0.03125 1.0001,1.0001 0 0 0 -0.78125,0.9999998 l 0,4.0000005 a 1.0001,1.0001 0 1 0 2,0 l 0,-4.0000005 a 1.0001,1.0001 0 0 0 -1.21875,-1.0312498 z"
+     id="path10471"
+     inkscape:connector-curvature="0" />
 </svg>

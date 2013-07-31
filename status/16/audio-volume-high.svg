@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview7"
      showgrid="true"
      inkscape:zoom="13.906433"
-     inkscape:cx="10.951826"
+     inkscape:cx="-4.5805539"
      inkscape:cy="10.153283"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -58,9 +58,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1"
-     d="m 7,0 -4,4 -3,0 0,8 3,0 4,4 z m 7,0 0,16 2,0 0,-16 z m -3,2 0,12 2,0 0,-12 z m -3,3 0,6 2,0 0,-6 z"
-     id="rect2384"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccccc" />
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 14.78125 0.96875 A 1.0001 1.0001 0 0 0 14.78125 1 A 1.0001 1.0001 0 0 0 14 2 L 14 14 A 1.0001 1.0001 0 1 0 16 14 L 16 2 A 1.0001 1.0001 0 0 0 14.78125 0.96875 z M 5.875 2 C 5.653153 2.024 5.440345 2.12479 5.28125 2.28125 L 2.5625 5 L 1 5 C 0.476416 5.00005 5.2e-05 5.47642 0 6 L 0 10 C 5.2e-05 10.52358 0.476416 10.99995 1 11 L 2.5625 11 L 5.28125 13.71875 C 5.836616 14.29305 7.018788 13.79868 7 13 L 7 3 C 7.0044 2.43204 6.438532 1.92905 5.875 2 z M 11.78125 2.96875 A 1.0001 1.0001 0 0 0 11.78125 3 A 1.0001 1.0001 0 0 0 11 4 L 11 12 A 1.0001 1.0001 0 1 0 13 12 L 13 4 A 1.0001 1.0001 0 0 0 11.78125 2.96875 z M 8.78125 4.96875 A 1.0001 1.0001 0 0 0 8.78125 5 A 1.0001 1.0001 0 0 0 8 6 L 8 10 A 1.0001 1.0001 0 1 0 10 10 L 10 6 A 1.0001 1.0001 0 0 0 8.78125 4.96875 z "
+     id="path10471" />
 </svg>
