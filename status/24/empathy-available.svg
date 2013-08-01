@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="online.svg">
+   sodipodi:docname="user-available-panel.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,14 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.4"
-     inkscape:cx="8.7819135"
-     inkscape:cy="10.787802"
+     inkscape:zoom="15.839192"
+     inkscape:cx="-1.2175583"
+     inkscape:cy="11.687362"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,9 +61,9 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.8"
-       d="M 4 4 L 4 16 L 13 16 L 17 20 L 17 16 L 20 16 L 20 4 L 4 4 z "
-       transform="translate(0,1028.3622)"
-       id="path2987" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 4.9062541,1032.3626 c -0.491584,0.046 -0.908379,0.5062 -0.90625,1 l 0,10 c 5.2e-5,0.5235 0.476416,0.9999 1,1 l 7.9999999,0 4,4 0,-4 2,0 c 0.523584,-10e-5 0.999948,-0.4765 1,-1 l 0,-10 c -5.2e-5,-0.5236 -0.476416,-1 -1,-1 l -13.9999999,0 c -0.03123,-10e-4 -0.06252,-10e-4 -0.09375,0 z"
+       id="rect14666"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
