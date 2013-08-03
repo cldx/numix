@@ -14,8 +14,8 @@
    height="22"
    width="22"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="indicator-messages-new.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="applications-email-panel.svg">
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -38,11 +38,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview55"
      showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="0.74108757"
+     inkscape:cx="-10.241963"
      inkscape:cy="11.360192"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -228,9 +228,14 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <path
-     style="opacity:0.80000000000000004;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 3,5 3,17 19,17 19,5 3,5 z M 6,7 16,7 11,12 6,7 z m -1,1 6,6 6,-6 0,7 -12,0 0,-7 z"
-     id="path3015"
-     inkscape:connector-curvature="0" />
+  <g
+     transform="translate(-64,-313)"
+     id="g12938"
+     style="fill:#555555;fill-opacity:1">
+    <path
+       inkscape:connector-curvature="0"
+       id="rect12827"
+       d="m 68.25,319 a 1.0001,1.0001 0 0 1 0.34375,0.1875 L 75,323.75 81.40625,319.1875 A 1.0063276,1.0063276 0 0 1 81.8125,319 L 68.25,319 z M 83,320.125 a 1.0063276,1.0063276 0 0 1 -0.40625,0.6875 l -7,5 a 1.0001,1.0001 0 0 1 -1.1875,0 l -7,-5 A 1.0001,1.0001 0 0 1 67,320.28125 L 67,329 c 5.2e-5,0.52358 0.476416,0.99995 1,1 l 14,0 c 0.523584,-5e-5 0.999948,-0.47642 1,-1 l 0,-8.875 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
 </svg>
