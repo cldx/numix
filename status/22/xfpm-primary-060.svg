@@ -13,8 +13,8 @@
    height="22"
    width="22"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gpm-battery-060.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gpm-ups-080.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="7.375"
-     inkscape:cx="7.5107336"
-     inkscape:cy="7.9359456"
+     inkscape:zoom="14.75"
+     inkscape:cx="5.2122971"
+     inkscape:cy="9.4547216"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -57,15 +57,24 @@
        enabled="true"
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
-  <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 8,3 8,5 6.5,5 6,5 l 0,0.5 0,13 0,0.5 0.5,0 9,0 0.5,0 0,-0.5 0,-13 L 16,5 15.5,5 14,5 14,3 12.5,3 9.5,3 8,3 z M 9,4 13,4 13,5 9,5 9,4 z M 7,6 15,6 15,18 7,18 7,6 z"
-     id="rect2388"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
-     d="m 8,17 0,-5.972246 6,0 L 14,17 z"
-     id="rect3162"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+  <g
+     transform="translate(-154,-164)"
+     id="g14069">
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="rect14006-5"
+       d="m 162.81246,167 c -0.4584,0.0875 -0.82072,0.5334 -0.8125,1 l 0,1 -1,0 c -0.0312,-0.001 -0.0625,-0.001 -0.0937,0 -0.49158,0.0463 -0.90838,0.50624 -0.90625,1 l 0,12 c 5e-5,0.52358 0.47642,0.99995 1,1 l 8,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-12 c -5e-5,-0.52358 -0.47642,-0.99995 -1,-1 l -1,0 0,-1 c -5e-5,-0.52358 -0.47642,-0.99995 -1,-1 l -4,0 c -0.0312,-0.001 -0.0625,-0.001 -0.0937,0 -0.0312,-0.001 -0.0625,-0.001 -0.0937,0 z m -0.8125,4 2,0 0,-2 2,0 0,2 2,0 0,10 -6,0 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14019-5"
+       d="m 162.99996,180 0,-2 4,0 0,2 z"
+       style="fill:#555555;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14019-5-7"
+       d="m 162.99996,177 0,-2 4,0 0,2 z"
+       style="fill:#555555;fill-opacity:1;stroke:none" />
+  </g>
 </svg>

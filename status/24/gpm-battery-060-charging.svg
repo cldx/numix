@@ -14,7 +14,7 @@
    width="24"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gpm-battery-040-charging.svg">
+   sodipodi:docname="gpm-battery-060-charging.svg">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="7.5107336"
-     inkscape:cy="7.9359456"
+     inkscape:cx="9.2104032"
+     inkscape:cy="7.9989778"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -57,21 +57,30 @@
        enabled="true"
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
-  <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-     d="M 9,4 9,6 7.5,6 7,6 l 0,0.5 0,13 0,0.5 0.5,0 9,0 0.5,0 0,-0.5 0,-13 L 17,6 16.5,6 15,6 15,4 13.5,4 10.5,4 9,4 z m 1,1 4,0 0,1 -4,0 0,-1 z M 8,7 16,7 16,19 8,19 8,7 z"
-     id="rect2388"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
-     d="m 9,18 0,-5.972246 6,0 L 15,18 z"
-     id="rect3162"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     style="opacity:0.8;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 11,17 0,-1 -2,0 0,-4 1,0 0,-3 1,0 0,3 2,0 0,-3 1,0 0,3 1,0 0,4 -2,0 0,1 z"
-     id="path3956"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+  <g
+     transform="translate(-153,-193)"
+     id="g14579">
+    <path
+       sodipodi:nodetypes="ssccccccccccccccccccccsss"
+       inkscape:connector-curvature="0"
+       id="rect13922-0-8-4"
+       d="m 162.99996,197 c -0.554,0 -1,0.446 -1,1 l 0,1 -1,0 c -0.0312,-0.001 -0.0625,-0.001 -0.0937,0 -0.49159,0.0463 -0.90838,0.50624 -0.90625,1 l 0,12 c 5e-5,0.52358 0.47641,0.99995 1,1 l 4,0 0,-2 -3,0 0,-10 2,0 0,-2 2,0 0,2 2,0 0,4 2,0 0,-5 c -5e-5,-0.52358 -0.47642,-0.99995 -1,-1 l -1,0 0,-1 c 0,-0.554 -0.446,-1 -1,-1 z"
+       style="fill:#555555;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path13936-7-4-9"
+       d="m 162.99996,210 0,-2 2,0 0,2 z"
+       style="fill:#555555;fill-opacity:1;stroke:none" />
+    <path
+       id="rect13949-6-5-7-5-4-8"
+       d="m 166.9062,206 c -0.49159,0.0463 -0.90838,0.50624 -0.90625,1 l 0,5 c 5e-5,0.52358 0.47641,0.99995 1,1 l 5,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-5 c -5e-5,-0.52358 -0.47642,-0.99995 -1,-1 l -5,0 c -0.0312,-0.001 -0.0625,-0.001 -0.0937,0 z m 1.09375,1 1,0 0,2 1,0 0,-2 1,0 0,2 1,0 0,2 -1,0 -1,0 0,1 -1,0 0,-1 -1,0 -1,0 0,-2 1,0 0,-2 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#8ece4e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14574"
+       d="m 163,207 2,0 0,-2 -2,0 z"
+       style="fill:#555555;fill-opacity:1;stroke:none" />
+  </g>
 </svg>
